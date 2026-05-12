@@ -1,0 +1,13 @@
+name = "Terralith: No Structures"
+filename = "Terralith_No_Structures_v1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fecb93e6b37cbfbc1d07091249d842725fff33c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7504501
+project-id = 1440344

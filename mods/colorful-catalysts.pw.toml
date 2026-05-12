@@ -1,0 +1,13 @@
+name = "Create: Colorful Catalysts"
+filename = "colorful_catalysts-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff0298101390cd22d1cd41e40f9da10cc069ab89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8005771
+project-id = 1465243

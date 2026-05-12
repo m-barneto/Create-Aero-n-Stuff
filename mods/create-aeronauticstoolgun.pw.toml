@@ -1,0 +1,13 @@
+name = "create aeronautics：toolgun"
+filename = "create_aeronautics_toolgun-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "997ad4f96410cf4ba71e3218fefeabf004b15f0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8072886
+project-id = 1521349

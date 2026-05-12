@@ -1,0 +1,13 @@
+name = "Create: Curios Backtank"
+filename = "create_curios_backtank-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e15b704bf928a2e86b475fbc5d910b72a7aa8d9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7994676
+project-id = 1096864

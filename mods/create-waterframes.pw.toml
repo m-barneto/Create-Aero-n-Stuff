@@ -1,0 +1,13 @@
+name = "Create: WaterFrames"
+filename = "create_waterframes-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0bd864cc7ac956733cc27d1629997570f37552f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7977303
+project-id = 1523577

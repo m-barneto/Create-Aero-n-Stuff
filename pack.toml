@@ -1,0 +1,11 @@
+name = "Create Aero n' Stuff"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c9174b096abccad6de2fedf02986d9d5a47736b8cad3322f59c225ff00236e74"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
