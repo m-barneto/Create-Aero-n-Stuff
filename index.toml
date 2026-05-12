@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/probe.code-snippets"
+hash = "982b2b204232ec5957e53891d765b90eb12117c18c8305a07324731336d34eac"
+
+[[files]]
+file = ".vscode/settings.json"
+hash = "f93949bccd3e9061027a35d2ff171d6eb0b7b69c8a0804a0662288e74021b204"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "7eb9aca804e5f6f94b181fbc0cd0e87b768c32b20febe417211bd0f84fc0356d"
 
@@ -17,6 +25,10 @@ file = "config/waterframes-server.toml"
 hash = "256e8963bd2e58e8fa99c31adaa70d1ead97f5f4285e22221c7eca560784a327"
 
 [[files]]
+file = "kubejs/client_scripts/emi.js"
+hash = "911cef6e830cb77136a631e75bee0eeb4f852ec2dc31172542d6804f3f904395"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
@@ -27,6 +39,10 @@ hash = "8d93a825890dbad1fd699e88672597cfe4bcd81c8fa9755398a3a0cfa08c6b17"
 [[files]]
 file = "kubejs/config/common.json"
 hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "0110f850c8186c5ce51636b1d842a1846cf850f41d482391b4c4682cb46f1d5b"
 
 [[files]]
 file = "kubejs/config/web_server.json"
