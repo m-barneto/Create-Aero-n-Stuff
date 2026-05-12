@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/probe.code-snippets"
-hash = "982b2b204232ec5957e53891d765b90eb12117c18c8305a07324731336d34eac"
-
-[[files]]
-file = ".vscode/settings.json"
-hash = "f93949bccd3e9061027a35d2ff171d6eb0b7b69c8a0804a0662288e74021b204"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "7eb9aca804e5f6f94b181fbc0cd0e87b768c32b20febe417211bd0f84fc0356d"
 
@@ -23,10 +15,6 @@ hash = "b323271e1513d44daba4ff08262ec2bfb0197a1a8dcfad5d875bc33a84a39109"
 [[files]]
 file = "config/waterframes-server.toml"
 hash = "256e8963bd2e58e8fa99c31adaa70d1ead97f5f4285e22221c7eca560784a327"
-
-[[files]]
-file = "kubejs/client_scripts/emi.js"
-hash = "911cef6e830cb77136a631e75bee0eeb4f852ec2dc31172542d6804f3f904395"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
@@ -366,11 +354,6 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
-file = "mods/custom-window-title.pw.toml"
-hash = "4624048463f5510d97bc433bb758ed6fe2ae08870981d871888b112dabd54a46"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "beb54362d0e8c0c52f9479cb5ee27a6f8fc8c954fd24b547951647b43dca2463"
 metafile = true
@@ -398,11 +381,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
-metafile = true
-
-[[files]]
-file = "mods/emi-backport.pw.toml"
-hash = "555b9a9992fd16a6d7ab9dd796e5370c3268a0e4f18f9a19e26dac2e88187efb"
 metafile = true
 
 [[files]]
