@@ -1,6 +1,6 @@
 name = "Photon Shader"
 filename = "photon_v1.3b.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

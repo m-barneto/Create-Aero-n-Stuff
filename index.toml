@@ -878,25 +878,25 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
+hash = "ddd425996e84e08ea87dd34038fa8e51f6a8f9aa47ffc133a7cdcd6480c127fa"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
+hash = "c5bc3ca7208ce354e61a0827ee83ab6e5cdd27341e7f8bfe4ca033ce35a08192"
 metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "11ac16243f0bcc51a0d794a064cd06ec1dc24daac4c076fad3e707130dc8c1ce"
+hash = "3f74e4ca818072bcf5eec9bf30686021947ac4e63f22ff6da7fee956b4427173"
 metafile = true
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
-hash = "ac478481f65646015b7d4a3b9a3ef54a8208dee5b6cf5383f68dc3de86f8324f"
+hash = "7319df2b3d5b34b50974923f41e0a53604a044e2619cefe917fdbc6662bb7d25"
 metafile = true
 
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
-hash = "68af5f427603b0145f7112c477961d399f8d642fad3ac07764e7adc9dffe668b"
+hash = "7be666e8dbfdc571f502edbfa9f6124d25b9d6b0cb8f39ca860264808204c4cf"
 metafile = true
