@@ -30,11 +30,11 @@ hash = "4951c27c1f3e455627281875ad569eb12b8459b7fe9955d0e42721f51332e00a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_aeronautics.snbt"
-hash = "b84c2383071b8ad61a647f64044f2f58e5769223b0e62b1b7956fcd6d0b32d45"
+hash = "e821396fb8bee566d60e13124196c82b37ce9b319951077130e8b1b68c6b764e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_aeronautics_2.snbt"
-hash = "3cee7adf23f433e4121580336a3fc74eefbf5fd6e564db38c75df7833dea1336"
+hash = "03f4d8de1acc8002bed9838b11ceab31a419ab48ba063d6854ec20522b5ce338"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_connected.snbt"
@@ -74,7 +74,7 @@ hash = "4cf3f5aa424f5ce04d77ed57a97969511ba4a080dbdfb34007e55a6960a5ce32"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "4849e052dc9efa6c5ab371e20cde96125514563c851c809b36ff0d59073b074a"
+hash = "d05f674be681cc543af858d9be50adaab8154687a7bba083235976b0149ba01c"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapter.snbt"
@@ -98,7 +98,7 @@ hash = "dc4c72df15058695d845cd1b0b2edc8bf0e0f2826bfd28e01d5205e54c430feb"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/create_aeronautics.snbt"
-hash = "e51cda24d97053d44bea5395db15c1d38c21c26ee985ba92927143d742209da5"
+hash = "4fb3b633653e4a0e30f9939c219c9ad815795d0a0d943571f9e04c437f6cd131"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/create_aeronautics_2.snbt"
@@ -114,7 +114,7 @@ hash = "0644ccae495db9817bc70e0c9b6e8b632bfda19f20ef3d786c1191b356bba212"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/create_ore_excavation.snbt"
-hash = "5bef8267a91698f0fa0231b853605a57dbfc296448c5a2d5b0269e0aad2f08be"
+hash = "34192c3d8eae4cfa3bc15b8b6962daa171343975ac955831919d0c78fa060207"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/create_stuff_n_additions.snbt"
@@ -321,6 +321,150 @@ file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_spatial_cell_co
 hash = "19fa28b9fd9c8d30eb6ffbeec7121c118a3eb3ba2665b045058c46ba2e52705f"
 
 [[files]]
+file = "kubejs/assets/ftbquests/ftb_quests_theme.txt"
+hash = "78a0524f8aa1e00a9ab33699bddd9ffadd47108438a39a2e247fb4c90f22ecc9"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/car_example.png"
+hash = "a42ce55fc91c4b81628ee429b54a1a0c4528591edf980318a992b565e68a8b50"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/gearbox.png"
+hash = "19e1df637e9bed860edfd09d1c57246cde1ab82fee763ddbfc061fd56790dfa3"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/gui/background_squares.png"
+hash = "40adbdc3e7ebee59bbdb9c8f9d9d69fccb54af1a642f98fba97a1a5aec7fa501"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/honey.png"
+hash = "950fe060e22d16a1778d3eeb71b6b32b46700c4765511584c685b82693715dc8"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/item/book.png"
+hash = "2e976ef928f1cb5632c5731176b7e6ede03e278bff0d5987964aaa1bd333d127"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/redstone_link_dentro.png"
+hash = "2478f776545364db6b9f2387e2eca5da84339f51eb716a97c64e28ea701e46cb"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/redstone_link_fora.png"
+hash = "91c03b71a74114a0f6eadc66656bd9698630709a2b309b4334d6e4cf99fa73db"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/circle/background.png"
+hash = "6da5ea5123d3d418a37ed647cede8562a8f9490e423d714fb06f536a272c8644"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/circle/outline.png"
+hash = "7b44047da5bab58054d278b6186af7a7bbd85f448927e563ead5e9667da7a65c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/circle/shape.png"
+hash = "5440de6b4471b00c3c6c3a18d0635f9f227e2489d433c644957c936cdf54a20e"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/diamond/background.png"
+hash = "7fe6fce11e854adeab4606f51f8850fb91561750431aa358a0bb5ae0fecec67c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/diamond/outline.png"
+hash = "f5254865aa175937fd9ed315bec401807fc970889989c1a048bc0c07e30afdee"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/diamond/shape.png"
+hash = "79dfd8e9f581eba64d79a97f51a645b8a6d46f405b5faa497d1c282eac3feaec"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/gear/background.png"
+hash = "0a892c294734796aae8eb7a35d48a3dd97142a2bedaf9cf8aa357d089eb73421"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/gear/outline.png"
+hash = "1b746e205961b71fe0c8843e10ebf954e8311884fc8f35de1743e7186b0802d3"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/gear/shape.png"
+hash = "c6beb30f14adb8fd0e34d9740a11a1f741f5bf4fee0a144edfb657efba2cc9fd"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/heart/background.png"
+hash = "8fbe77a93178aeb7044679ef5061b291e5fea31e7c53fa6958600ac9729997bc"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/heart/outline.png"
+hash = "7022b87de823786a0d21418f1bda638c8646d7d8c007c337a562d9e95940f06b"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/heart/shape.png"
+hash = "2fa0b2c1d4f44f7e391de128235a6d98db6b722807758d679579d1903468c8e4"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/hexagon/background.png"
+hash = "cc4ee3c77e89e951636829295cd1ca48cdbd381bfb7d33f9f1c94d264df2f967"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/hexagon/outline.png"
+hash = "792e84833473c01af7854776753405f57241bf1c2fd66e544ebe01e94993793c"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/hexagon/shape.png"
+hash = "ab4c4a723102fee324ad0ad37c7c44b9d50eea9c0c049b934c8e5f69a2efd5d8"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/octagon/background.png"
+hash = "b0aa54be39b732583be2e72c80aea64ea22b67dd06439e245d72945b3a0178fc"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/octagon/outline.png"
+hash = "d349ceb93b778c8a89317d9bf9eb1b0f70223fdba416343f414ae2e9cc842300"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/octagon/shape.png"
+hash = "2dd3edd6cffaca3770222c21428e130a2487d205b973b0c4bd226e9e9f855ec2"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/pentagon/background.png"
+hash = "4fcd24662b3e988e42a8a58c4fe898caefe11f48c14c05e4a69e206175220fdf"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/pentagon/outline.png"
+hash = "875b1fe1a008f8982fe73f4faf4576a1c97b4141a326bd299081f736c7513f42"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/pentagon/shape.png"
+hash = "b0a37930c39d430340ef1d4ca8154008cc2355d2ec42026cf2dc97d141131304"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/rsquare/background.png"
+hash = "9848e5ec76d5fe499d522f01f96605543cc37d090b014a88b3d00634dbdce35f"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/rsquare/outline.png"
+hash = "82cda1ef554330935907c4c0bb37ddc9f702712f92f50976692a5c770c6d44f7"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/rsquare/shape.png"
+hash = "de9428384cf6bf732177bfdff3d127ba8a87f45daf40c3cec0c95390c3277c0a"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/square/background.png"
+hash = "c365a04cf47ca7af1571a9a8442b1536854d258402abfc2eef2189a92e1a0859"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/square/outline.png"
+hash = "9d2a92fb8cbb4c32480a9c8d87b238fef0293a831cedb65d2345a63da5f335a3"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/shapes/square/shape.png"
+hash = "10d3f3879fcec47c5def614346849a03490cce6fe882c6b9632d63a7771ac663"
+
+[[files]]
+file = "kubejs/assets/ftbquests/textures/wrench.png"
+hash = "1bf8168ad111f2b8c51f2a5c896333edf8bc16357376045ec13c34702309121c"
+
+[[files]]
 file = "kubejs/assets/minecolonies/textures/quests/hc_build_tool.png"
 hash = "76d1dc2aa2947fc1860d712db45923cee123cb3b26a7c3e1cf9e72084e01bb01"
 
@@ -361,150 +505,6 @@ file = "kubejs/assets/minecolonies/textures/quests/minecolonies_logo_medium.png"
 hash = "02d809eca8d4f4e60698e1e5b467a9045d5d9f8f2b864aa0100aeb3ab1389336"
 
 [[files]]
-file = "kubejs/assets/quests/ftb_quests_theme.txt"
-hash = "78a0524f8aa1e00a9ab33699bddd9ffadd47108438a39a2e247fb4c90f22ecc9"
-
-[[files]]
-file = "kubejs/assets/quests/textures/car_example.png"
-hash = "a42ce55fc91c4b81628ee429b54a1a0c4528591edf980318a992b565e68a8b50"
-
-[[files]]
-file = "kubejs/assets/quests/textures/gearbox.png"
-hash = "19e1df637e9bed860edfd09d1c57246cde1ab82fee763ddbfc061fd56790dfa3"
-
-[[files]]
-file = "kubejs/assets/quests/textures/gui/background_squares.png"
-hash = "40adbdc3e7ebee59bbdb9c8f9d9d69fccb54af1a642f98fba97a1a5aec7fa501"
-
-[[files]]
-file = "kubejs/assets/quests/textures/honey.png"
-hash = "950fe060e22d16a1778d3eeb71b6b32b46700c4765511584c685b82693715dc8"
-
-[[files]]
-file = "kubejs/assets/quests/textures/item/book.png"
-hash = "2e976ef928f1cb5632c5731176b7e6ede03e278bff0d5987964aaa1bd333d127"
-
-[[files]]
-file = "kubejs/assets/quests/textures/redstone_link_dentro.png"
-hash = "2478f776545364db6b9f2387e2eca5da84339f51eb716a97c64e28ea701e46cb"
-
-[[files]]
-file = "kubejs/assets/quests/textures/redstone_link_fora.png"
-hash = "91c03b71a74114a0f6eadc66656bd9698630709a2b309b4334d6e4cf99fa73db"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/circle/background.png"
-hash = "6da5ea5123d3d418a37ed647cede8562a8f9490e423d714fb06f536a272c8644"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/circle/outline.png"
-hash = "7b44047da5bab58054d278b6186af7a7bbd85f448927e563ead5e9667da7a65c"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/circle/shape.png"
-hash = "5440de6b4471b00c3c6c3a18d0635f9f227e2489d433c644957c936cdf54a20e"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/diamond/background.png"
-hash = "7fe6fce11e854adeab4606f51f8850fb91561750431aa358a0bb5ae0fecec67c"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/diamond/outline.png"
-hash = "f5254865aa175937fd9ed315bec401807fc970889989c1a048bc0c07e30afdee"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/diamond/shape.png"
-hash = "79dfd8e9f581eba64d79a97f51a645b8a6d46f405b5faa497d1c282eac3feaec"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/gear/background.png"
-hash = "0a892c294734796aae8eb7a35d48a3dd97142a2bedaf9cf8aa357d089eb73421"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/gear/outline.png"
-hash = "1b746e205961b71fe0c8843e10ebf954e8311884fc8f35de1743e7186b0802d3"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/gear/shape.png"
-hash = "c6beb30f14adb8fd0e34d9740a11a1f741f5bf4fee0a144edfb657efba2cc9fd"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/heart/background.png"
-hash = "8fbe77a93178aeb7044679ef5061b291e5fea31e7c53fa6958600ac9729997bc"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/heart/outline.png"
-hash = "7022b87de823786a0d21418f1bda638c8646d7d8c007c337a562d9e95940f06b"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/heart/shape.png"
-hash = "2fa0b2c1d4f44f7e391de128235a6d98db6b722807758d679579d1903468c8e4"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/hexagon/background.png"
-hash = "cc4ee3c77e89e951636829295cd1ca48cdbd381bfb7d33f9f1c94d264df2f967"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/hexagon/outline.png"
-hash = "792e84833473c01af7854776753405f57241bf1c2fd66e544ebe01e94993793c"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/hexagon/shape.png"
-hash = "ab4c4a723102fee324ad0ad37c7c44b9d50eea9c0c049b934c8e5f69a2efd5d8"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/octagon/background.png"
-hash = "b0aa54be39b732583be2e72c80aea64ea22b67dd06439e245d72945b3a0178fc"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/octagon/outline.png"
-hash = "d349ceb93b778c8a89317d9bf9eb1b0f70223fdba416343f414ae2e9cc842300"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/octagon/shape.png"
-hash = "2dd3edd6cffaca3770222c21428e130a2487d205b973b0c4bd226e9e9f855ec2"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/pentagon/background.png"
-hash = "4fcd24662b3e988e42a8a58c4fe898caefe11f48c14c05e4a69e206175220fdf"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/pentagon/outline.png"
-hash = "875b1fe1a008f8982fe73f4faf4576a1c97b4141a326bd299081f736c7513f42"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/pentagon/shape.png"
-hash = "b0a37930c39d430340ef1d4ca8154008cc2355d2ec42026cf2dc97d141131304"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/rsquare/background.png"
-hash = "9848e5ec76d5fe499d522f01f96605543cc37d090b014a88b3d00634dbdce35f"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/rsquare/outline.png"
-hash = "82cda1ef554330935907c4c0bb37ddc9f702712f92f50976692a5c770c6d44f7"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/rsquare/shape.png"
-hash = "de9428384cf6bf732177bfdff3d127ba8a87f45daf40c3cec0c95390c3277c0a"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/square/background.png"
-hash = "c365a04cf47ca7af1571a9a8442b1536854d258402abfc2eef2189a92e1a0859"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/square/outline.png"
-hash = "9d2a92fb8cbb4c32480a9c8d87b238fef0293a831cedb65d2345a63da5f335a3"
-
-[[files]]
-file = "kubejs/assets/quests/textures/shapes/square/shape.png"
-hash = "10d3f3879fcec47c5def614346849a03490cce6fe882c6b9632d63a7771ac663"
-
-[[files]]
-file = "kubejs/assets/quests/textures/wrench.png"
-hash = "1bf8168ad111f2b8c51f2a5c896333edf8bc16357376045ec13c34702309121c"
-
-[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
@@ -530,7 +530,7 @@ hash = "da190105bc91c8d1370b26d87d4f0cb2ec06a05355fdcd05590b56766c908589"
 
 [[files]]
 file = "kubejs/data/create_ae2recipes/recipes/charging/meteorite_compass.json"
-hash = "bd994e66756cbb271b6c75620bbc3489f7cb5d588b3aab2f9e83b56decfee79b"
+hash = "5d7cb56df8e8c264d64116021f322cc1cdcaa11a2a87bc81b94d256d754f85e1"
 
 [[files]]
 file = "kubejs/data/create_ae2recipes/recipes/compacting/fluix_glass_cable.json"
@@ -882,7 +882,7 @@ hash = "4cb0bdafa8e8ce09f96c3b54f1348c57d99b2a96f723dc8908a8478c6b509354"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/ae2_create.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "2c2d53d44fd0930cc8e39009dfb42c9210d04e6e8d8dae67e88488d1a096720d"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/blueprint.js"

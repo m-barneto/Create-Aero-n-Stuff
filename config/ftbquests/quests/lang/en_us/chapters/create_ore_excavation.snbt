@@ -12,8 +12,6 @@
 		""
 		"The machine requires RPM to work."
 	]
-	quest.17953D4234D44C01.quest_subtitle: ""
-	quest.17953D4234D44C01.title: ""
 	quest.357E50BEAF1E8F74.quest_desc: ["A special book that stores information about discovered ore veins. It allows you to track and locate valuable resources easily, making mining and excavation more efficient and organized."]
 	quest.3F249BE37B1BB214.quest_desc: [
 		"This mod adds hidden infinite ore veins to your world. You can extract these ores using machines. This mod requires Create"
@@ -44,7 +42,5 @@
 		""
 		"The machine requires RPM to work."
 	]
-	quest.7F64AD61416A9157.quest_subtitle: ""
-	quest.7F64AD61416A9157.title: ""
 	task.26344D2831BDA0D3.title: "Create Ore Excavation"
 }

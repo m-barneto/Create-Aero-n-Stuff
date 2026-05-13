@@ -7,7 +7,7 @@
 		id: "offroad:large_tire"
 	}
 	id: "4E115E1260B9FA39"
-	order_index: 6
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
@@ -34,7 +34,7 @@
 			id: "51E22AFE9403C9E1"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "53AF71728422F4C6"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -52,7 +52,7 @@
 			id: "095223210FCC48C3"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "3EEB19204516B7AB"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -71,7 +71,7 @@
 			id: "71A8D4B8F0EAFF90"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "180B0B0D27F47366"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -105,7 +105,7 @@
 			id: "783C1961806EC8F6"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "4FB120D400D5FC38"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -165,7 +165,7 @@
 			id: "7097EFDECE9CDAF7"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "092EF127BD8733E4"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -248,7 +248,7 @@
 			id: "7C91F7477216A2D2"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "4E1EA9BF77088DED"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -266,7 +266,7 @@
 			id: "4B574B802F83F725"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "09A5AD0B71302510"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -308,7 +308,7 @@
 			id: "4C990203ACAAB823"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "26AC3130981702EC"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]

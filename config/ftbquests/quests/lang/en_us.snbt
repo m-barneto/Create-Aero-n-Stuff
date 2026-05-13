@@ -735,7 +735,7 @@
 	quest.1E9E11F072665A05.quest_desc: [
 		"We need to start creating our car; we can use the Chain Drive to make the chassis, place the axle and wheels, the seats, and the Physics Assembler. Build the car without it being stuck to the ground."
 		""
-		"{image:quests:textures/car_example.png width:150 height:100 align:center}"
+		"{image:ftbquests:textures/car_example.png width:150 height:100 align:center}"
 	]
 	quest.1E9E11F072665A05.quest_subtitle: "Bringing the car to life"
 	quest.1EBA6436DEBB02CC.quest_desc: [
@@ -1463,7 +1463,7 @@
 	quest.41CEBA836A8BA22C.quest_desc: [
 		"We now need to place a clutch in front of the generator; in front of the clutch, place a vertical gearbox. On top of the generator, place an andesite casing block; in front of the andesite casing block, place a redstone, and on top of the andesite casing block, a redstone link with 2 torches. Use \"Shift\" + \"Click\" to set it to receiver mode."
 		""
-		"{image:quests:textures/gearbox.png width:180 height:100 align:center}"
+		"{image:ftbquests:textures/car_example.png width:180 height:100 align:center}"
 	]
 	quest.41CEBA836A8BA22C.quest_subtitle: "Connecting"
 	quest.41EB0C570FC54F43.quest_desc: [
@@ -2453,7 +2453,7 @@
 	quest.71A8D4B8F0EAFF90.quest_desc: [
 		"We need a new glue that is better and more powerful to help us make our first car; with this glue, we can use \"Ctrl\" + \"Scroll\" to better adjust the glue."
 		""
-		"{image:quests:textures/honey.png width:150 height:100 align:center}"
+		"{image:ftbquests:textures/honey.png width:150 height:100 align:center}"
 	]
 	quest.71A8D4B8F0EAFF90.quest_subtitle: "Gluing everything together"
 	quest.71CAD1D9089778BC.quest_desc: ["Crafting **Rope** is a versatile recipe, useful for decorating, building, or moving items vertically. Also craft a **Straw Bale** for storage/decoration."]
@@ -2613,7 +2613,7 @@
 	quest.783C1961806EC8F6.quest_desc: [
 		"We need to take the Wrench and turn the chain drive that is 2 blocks in front of the torque generator."
 		""
-		"{image:quests:textures/wrench.png width:150 height:100 align:center}"
+		"{image:ftbquests:textures/wrench.png width:150 height:100 align:center}"
 	]
 	quest.783C1961806EC8F6.quest_subtitle: "Turning into a piece"
 	quest.785322C002100649.quest_subtitle: "Keep a network running at speed with a powered brake attached"

@@ -7,7 +7,7 @@
 		id: "aeronautics:propeller_bearing"
 	}
 	id: "56096636DE3BAEC1"
-	order_index: 7
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -34,7 +34,7 @@
 			id: "36268EBCE1143F0A"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "766B94AAE3B72272"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -56,7 +56,7 @@
 			id: "45D99E459A6A38F3"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "20546112162931D2"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -122,7 +122,7 @@
 			id: "1AEBFCD56E37DF8D"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "6A99215DDB03ABEE"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -140,7 +140,7 @@
 			id: "5E2B9B6AAB1F34F4"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "0C931D21F40F44CF"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -162,7 +162,7 @@
 			id: "3AFA504735B789C0"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "6DAE8D59AE14B639"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -180,7 +180,7 @@
 			id: "74CB7630E0651068"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "2027277C2BF2C567"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -222,7 +222,7 @@
 			id: "4FB32E41F9FEE89B"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "0C8337FE9C439B40"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -240,7 +240,7 @@
 			id: "0F550A972D2CC175"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "45F2BC64AE250697"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
@@ -257,7 +257,7 @@
 			id: "6FBC7D12F531A361"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "11AFA26ABCD2DB5E"
+				id: "519C474D6EEECF13"
 				table_id: 2000574392533299735L
 				type: "random"
 			}]
