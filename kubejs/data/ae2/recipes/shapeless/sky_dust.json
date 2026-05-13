@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "ae2:ender_dust"
+    }
+],
+  "result": {
+	"count": 2,
+    "item": "ae2:sky_dust"
+  },
+  "show_notification": true
+}

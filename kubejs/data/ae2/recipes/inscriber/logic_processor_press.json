@@ -1,0 +1,15 @@
+{
+  "type": "ae2:inscriber",
+  "ingredients": {
+    "middle": {
+      "item": "minecraft:iron_block"
+    },
+    "top": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "mode": "inscribe",
+  "result": {
+    "item": "ae2:logic_processor_press"
+  }
+}

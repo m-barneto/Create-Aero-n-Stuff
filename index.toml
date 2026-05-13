@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "7eb9aca804e5f6f94b181fbc0cd0e87b768c32b20febe417211bd0f84fc0356d"
 
 [[files]]
+file = "config/biome_replacer.properties"
+hash = "be079b33f920a2dadfe58b887ce498e4a321b3cfbb1ee71755efb62459e01781"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "9f68d40fe8d9c5414e5b230439be0b2d9fa39021eff9cf5cb01992b6d1fb0c06"
 
@@ -13,156 +17,16 @@ file = "config/defaultoptions/options.txt"
 hash = "b9c3e375caddb13a2ff50e5a92a69ee8f101c0e05adcc6866955005414c3cce8"
 
 [[files]]
-file = "config/ftbquests/chapter_groups.snbt"
-hash = "83df404311bb7bf1864c5bc0fdb906d6a47b669ee092bd0eaae8071c238edf50"
-
-[[files]]
-file = "config/ftbquests/chapters/6minecarts.snbt"
-hash = "d55d3a6b7419aca771def3f9047ef1e7464623767da9d72ce734b1999112438e"
-
-[[files]]
-file = "config/ftbquests/chapters/aeronautics.snbt"
-hash = "1e974553deb361a32713cbbd00b8fd1b0a8a9fba8548498d9789ec209b08346a"
-
-[[files]]
-file = "config/ftbquests/chapters/aquatic_ambitions.snbt"
-hash = "c1472919ac5114d7afa0287913d011e29ecd5772a19069058f1d5e11735cfbcb"
-
-[[files]]
-file = "config/ftbquests/chapters/blaze_burner_fuels.snbt"
-hash = "13de2f60212ef01520aa612df4d30056ea5a4c217fee73c383ce4b60ca535c49"
-
-[[files]]
-file = "config/ftbquests/chapters/create.snbt"
-hash = "c0f0b851d5134e8fe5585bd7dc1dd937ad45f11bdf9e057373540d8c379fd818"
-
-[[files]]
-file = "config/ftbquests/chapters/create_connected.snbt"
-hash = "00d9441dadc2e95a42fab00e38deacb6688e04d107156af261a350b9d920576c"
-
-[[files]]
-file = "config/ftbquests/chapters/create_optical.snbt"
-hash = "5f003515f757616677a7c092d8dba27d0e8828cdde2a0f372c40aec1983370aa"
-
-[[files]]
-file = "config/ftbquests/chapters/deep_dark.snbt"
-hash = "8211b4a06822e2af614640f50ad07a6ea2ccec115399afd1d7219464551678ba"
-
-[[files]]
-file = "config/ftbquests/chapters/e_central_kitchen.snbt"
-hash = "e74335194b417ef0652340ebb5268d6b139d131c56ab651f6f151666b3dbcaa2"
-
-[[files]]
-file = "config/ftbquests/chapters/e_totem_factory.snbt"
-hash = "e76a1f90e42095c3de66b89111b5c19693ed02a881dfa250aac2048ac2a8491f"
-
-[[files]]
-file = "config/ftbquests/chapters/enchantment_industry_7FF2874A6AAD533C.snbt"
-hash = "7fb67a8334222422598bdc549fb9a1d3f44fc0605cf496679b8911d522c2ecd4"
-
-[[files]]
-file = "config/ftbquests/chapters/epump_dat_oil.snbt"
-hash = "aa330f4644afe454db8a7bbc9b5dbb2b51d5645a14091fc3c8b4ac47683ea455"
-
-[[files]]
-file = "config/ftbquests/chapters/etrains.snbt"
-hash = "5c27ff90846e30066d8e276194dd8a8ad06c6fb818427754321ca9e68f9035e1"
-
-[[files]]
-file = "config/ftbquests/chapters/food_factory.snbt"
-hash = "0e3dfd6b718f31cd9ce920d604a88f325310b0b9fbf5b3ec89259ae949ff23ea"
-
-[[files]]
-file = "config/ftbquests/chapters/fun_additions.snbt"
-hash = "314ebd7a195c9d2bc1775a7e7729de01e80a5c2a005f97bbf449621fe9387c43"
-
-[[files]]
-file = "config/ftbquests/chapters/lifesavers.snbt"
-hash = "e88c2b9facca89477608a964c1be5047fd7554d23909fa10e4a99a1793084d22"
-
-[[files]]
-file = "config/ftbquests/chapters/market.snbt"
-hash = "719bd50ad733f24a8e8475c4250f4afd4a36365170abe4dc4b7c4cd48f8623ee"
-
-[[files]]
-file = "config/ftbquests/chapters/metallurgy.snbt"
-hash = "04bda347c709faea65e40babfec59d17d6f6a769e57e0d53e84b274988e2a2c4"
-
-[[files]]
-file = "config/ftbquests/chapters/minecolonies.snbt"
-hash = "c3b37275ade271698012227afd61af405c7b3e57ec87e5510e16fa5685593a41"
-
-[[files]]
-file = "config/ftbquests/chapters/new_age.snbt"
-hash = "0c56b8f9e002149d2cf233b48bc2f386df0ed0cd14a89b5a651c525e6816e3de"
-
-[[files]]
-file = "config/ftbquests/chapters/offroad.snbt"
-hash = "0bd46c7579a969bfbd95a1f364fce0beed173fdfc459a982b71fa86b4a5c454f"
-
-[[files]]
-file = "config/ftbquests/chapters/overview.snbt"
-hash = "ed7a44aad123d94f915ab7edd8a7fa214caa691e38ccd09b3052d4ba99f7a27c"
-
-[[files]]
-file = "config/ftbquests/chapters/professions.snbt"
-hash = "2a99345286028477e790415d8f3b564b041940a1b3f341bd7a973e375f0e254d"
-
-[[files]]
-file = "config/ftbquests/chapters/shipments.snbt"
-hash = "7b7462becb69adcf346d6e1fe9ceed005beef16897235e802c36773c7e171b26"
-
-[[files]]
-file = "config/ftbquests/chapters/simulated.snbt"
-hash = "c5f49d50a21b33d73d976203e31181353ff4f0b8ad009b41303879d7a007eab8"
-
-[[files]]
-file = "config/ftbquests/chapters/stage_1.snbt"
-hash = "bdc0a15ed4b7d30cb3d93a2b8f146a29dc1e3d229e25180b00c646df246ac2ac"
-
-[[files]]
-file = "config/ftbquests/chapters/stage_2.snbt"
-hash = "5d7696134e3bd794686cc5a6ebf5f62c591723af04e175e52222da93632c1cf7"
-
-[[files]]
-file = "config/ftbquests/chapters/stage_3.snbt"
-hash = "4a643fa1a012d553ff583e34fce397fc0503903e071b119747eeb8dff5eff06b"
-
-[[files]]
-file = "config/ftbquests/chapters/stage_4.snbt"
-hash = "b42bdcddcbcaeb1099d377a640579695e14ac7ab62acabc0cbfaee4799275d31"
-
-[[files]]
-file = "config/ftbquests/chapters/stage_4b.snbt"
-hash = "808f0a5413c521c97a82e091a40a0e38d4ca02b84d6c115b96eac78af5eef7f9"
-
-[[files]]
-file = "config/ftbquests/chapters/stage_5.snbt"
-hash = "f375ff7f638a79edc662c25c78e2aaeefa012a1253355c1aef5370d17890aa6b"
-
-[[files]]
-file = "config/ftbquests/chapters/to_know.snbt"
-hash = "f13ba5efb72e947a640dd8ee8b59c0372df14d2db1db072f3d06d57109d17dbe"
-
-[[files]]
-file = "config/ftbquests/chapters/transportation.snbt"
-hash = "7f8be4016c828e364ca3ce60654ef5e75d3d803b4c05468df68351a5d335dde9"
-
-[[files]]
-file = "config/ftbquests/chapters/welcome.snbt"
-hash = "f3049bd51ef256ab0f6bbeb0f4cd5ee73f3b30a29ccb692a01b78c9acfdff218"
-
-[[files]]
-file = "config/ftbquests/reward_tables/minecolonies_common.snbt"
-hash = "1b858e2b16108565a3418fb20a9fc5ec4b4de3989fc2482eeda9d1f30befaa4e"
-
-[[files]]
 file = "config/quark-common.toml"
 hash = "db32225b6a07ae43537b227f688120b69b9bed250e28545fda642c66880c3317"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
 hash = "ddd8950d7d4c21a8bb2761a196ffb397a2d3b65fe293aa0938b7a381b196cdee"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "0920b122237a07fa3358dcbde2864b0060b8bb5c82e5c07b4052cf6143344f2b"
 
 [[files]]
 file = "config/waterframes-server.toml"
@@ -237,6 +101,34 @@ file = "kubejs/config/web_server.json"
 hash = "2839e57b2f8d68b239c6202bc2cc7248e3207bbe66a05911e9dc4808f3464fa8"
 
 [[files]]
+file = "kubejs/data/ae2/recipes/inscriber/calculation_processor_press.json"
+hash = "1cf7df0cfea91afe5c98f5a460592012b1b3f7d6ee2b8dc466a27c9996f19d6e"
+
+[[files]]
+file = "kubejs/data/ae2/recipes/inscriber/engineering_processor_press.json"
+hash = "40f647ce8415f12589186382106c5cca855abf72ce6e53265bbaa3c43416cce2"
+
+[[files]]
+file = "kubejs/data/ae2/recipes/inscriber/logic_processor_press.json"
+hash = "b23773f669a12b4525ef9991f3e4a9526ec5e2dacfee1a839efac0f5f06e8951"
+
+[[files]]
+file = "kubejs/data/ae2/recipes/inscriber/silicon_press.json"
+hash = "86fdd8984c91d20b00a9a7704681a3af205da20339e66d3e66b478f85daa10d8"
+
+[[files]]
+file = "kubejs/data/ae2/recipes/shapeless/certus_quartz.json"
+hash = "8d645f2ff004f326b757dd2f812166460451ead093cb245b57b634c4eec40118"
+
+[[files]]
+file = "kubejs/data/ae2/recipes/shapeless/sky_dust.json"
+hash = "fe6a944796282894f305deb9de37ffdf3b28144f206b35d4f70778146ce172a9"
+
+[[files]]
+file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
+hash = "da190105bc91c8d1370b26d87d4f0cb2ec06a05355fdcd05590b56766c908589"
+
+[[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
@@ -305,6 +197,16 @@ hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "f79d87a72026b5aef024b44cf5eedd9edb568a19f81403d20681eeb3364c3647"
+metafile = true
+
+[[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "8151187d99b56b283b00386999570365e1b2526a52d49d2688b8c550e9925775"
+metafile = true
+
+[[files]]
 file = "mods/bjornlib.pw.toml"
 hash = "6d833096b4694312d57f90121de9cfc066db620a176e7de34c44e9aec8a4cac8"
 metafile = true
@@ -351,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/cclogistics.pw.toml"
 hash = "578bf28c6108119d7bd9194dcf947fab9e33a4ab3f5cff9b402ca45594a02796"
+metafile = true
+
+[[files]]
+file = "mods/certain-questing-additions.pw.toml"
+hash = "f439e088fd76f018697366148c93228657cb39993493dab8ea4b1350008da94e"
 metafile = true
 
 [[files]]
@@ -494,6 +401,16 @@ hash = "37cedf9219acc2d5b20edfea3595d6a066ebbf0c70189f8c2821b561d3acfc12"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation-plus.pw.toml"
+hash = "bc5d7cdd8c7903425b92efe685194209f5e79ab5c043f9e239bc7200293a2028"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "cba6d7d04b6068e326445672253580520a87873fc1065f7682984a9b9d91deb5"
+metafile = true
+
+[[files]]
 file = "mods/create-ornithopter-glider.pw.toml"
 hash = "7f935bff68e7987e4734d0a9bacd44727c249415355b130ac5f445fd0ac0c0c9"
 metafile = true
@@ -554,11 +471,6 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
-file = "mods/dark-mode-everywhere.pw.toml"
-hash = "d49b12a00673ee8de5b5df8ec5956bf81da551eff4d2a38b230a089b765f2c42"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "beb54362d0e8c0c52f9479cb5ee27a6f8fc8c954fd24b547951647b43dca2463"
 metafile = true
@@ -571,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "d5f0e5e66fa14c259c82e947d2b99a191f8bc9fd83e466f733bf9532771a3082"
-metafile = true
-
-[[files]]
-file = "mods/distraction-free-recipes.pw.toml"
-hash = "df34236e43c955ceb2b0a267ae280bc3adc747d71d70aa6f58a5ca3bbe2e895e"
 metafile = true
 
 [[files]]
@@ -594,33 +501,13 @@ hash = "c72a84dd8e772274205f4ca1e45d8f0ff5548744b21a484b19fd46eeffaeee30"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "2bfe1523d89098c72c7072531f60eb24c6b41fea2ee294bfcb86c3c385464c08"
-metafile = true
-
-[[files]]
 file = "mods/emi-ores.pw.toml"
 hash = "ae65d1488be0f83b339ac6022115cd284dfc5d88bcfdf7a65fbfdc0dd9f1254b"
 metafile = true
 
 [[files]]
-file = "mods/emi-professions-emip.pw.toml"
-hash = "754913a9771c3c3a550773c59d7d8c04536585b17ddc8b045ad3af9a11080cf9"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "187eed40d3c7e31150ca2cd7642f794ef93ba8fb9f1407845ae5b329cf8632d6"
-metafile = true
-
-[[files]]
-file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "08b5fe6bbf5980820af8addc37e5ee41e48756400d86f9f554222f27b3ccecb5"
 metafile = true
 
 [[files]]
@@ -811,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "aef79b9deb5d4f2921ef8e4d58df69d8b71eaaded52149ed6aca41f0cf225be9"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bloomingnature.pw.toml"
+hash = "3652b3e64c6585f6c3a962c1626802a25d152cec90fcd3cf6222a7cb1db87091"
 metafile = true
 
 [[files]]

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ae2:sky_dust"
+    },
+    {
+      "item": "minecraft:quartz"
+    }
+],
+  "result": {
+    "item": "ae2:certus_quartz_crystal"
+  },
+  "show_notification": true
+}
