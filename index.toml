@@ -689,6 +689,11 @@ hash = "7557cd72044ad985b08e452dba7461feb219469e2fea97ea32c6ecd8458b2fd8"
 metafile = true
 
 [[files]]
+file = "mods/ftb-quests-lang-splitter.pw.toml"
+hash = "8709cdbcd9d8df131659461b1b6d0dd9f7be212ae79708fd123c4d2ebe3f38b8"
+metafile = true
+
+[[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
