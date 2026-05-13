@@ -1,0 +1,20 @@
+{
+  "gui.kubejs.CreativeTab": "Create: AE2 Recipes",
+  "key.kubejs.category": "Create: AE2 Recipes",
+  "item.kubejs.incomplete_calculation_processor": "Incomplete Calculation Processor",
+  "item.kubejs.incomplete_engineering_processor": "Incomplete Engineering Processor",
+  "item.kubejs.incomplete_logic_processor": "Incomplete Logic Processor",
+  "item.kubejs.incomplete_basic_card": "Incomplete Basic Card",
+  "item.kubejs.incomplete_advanced_card": "Incomplete Advanced Card",
+  "item.kubejs.incomplete_cell_component_1k": "Incomplete 1k ME Storage Component",
+  "item.kubejs.incomplete_cell_component_4k": "Incomplete 4k ME Storage Component",
+  "item.kubejs.incomplete_cell_component_16k": "Incomplete 16k ME Storage Component",
+  "item.kubejs.incomplete_cell_component_64k": "Incomplete 64k ME Storage Component",
+  "item.kubejs.incomplete_cell_component_256k": "Incomplete 256k ME Storage Component",
+  "item.kubejs.incomplete_spatial_cell_component_2": "Incomplete 2³ Spatial Storage Cell",
+  "item.kubejs.incomplete_spatial_cell_component_16": "Incomplete 16³ Spatial Storage Cell",
+  "item.kubejs.incomplete_spatial_cell_component_128": "Incomplete 128³ Spatial Storage Cell",
+  "item.kubejs.incomplete_item_cell_housing": "Incomplete ME Item Cell Housing",
+  "item.kubejs.incomplete_fluid_cell_housing": "Incomplete ME Fluid Cell Housing",
+  "item.kubejs.incomplete_blank_pattern": "Incomplete Blank Pattern"
+}

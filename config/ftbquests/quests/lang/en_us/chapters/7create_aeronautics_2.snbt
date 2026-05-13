@@ -1,0 +1,33 @@
+{
+	quest.0F550A972D2CC175.quest_desc: ["To build balloons, we will need the hot air from this machine! It is not very cool to put fire on a netherrack, it might not work!"]
+	quest.0F550A972D2CC175.quest_subtitle: "Ballons"
+	quest.1AEBFCD56E37DF8D.quest_desc: ["If you're thinking about traveling at great heights, you can't do it without these goggles—you need to go in style!"]
+	quest.1AEBFCD56E37DF8D.quest_subtitle: "Good Googles"
+	quest.21C7AA9059B16A83.quest_desc: ["It's this... it launches potatoes... what else did you think it would do? honestly..."]
+	quest.21C7AA9059B16A83.quest_subtitle: "Potato Launcher"
+	quest.30C364AC05822920.quest_desc: ["With physics in our favor, we can build incredible things, and with the new mechanics, everything becomes easier."]
+	quest.30C364AC05822920.quest_subtitle: "Getting to know the mod better"
+	quest.30C364AC05822920.title: "Create Aeronautics 2"
+	quest.36268EBCE1143F0A.quest_desc: [
+		"We can use a slimeball to repair chipped or broken corners of cars, boats, planes..."
+		"Clique com a slimeball nas partes quebradas"
+	]
+	quest.36268EBCE1143F0A.quest_subtitle: "Repair"
+	quest.3AFA504735B789C0.quest_desc: ["In engineering, we need millimeter precision; this lever might be exactly what you're looking for!"]
+	quest.3AFA504735B789C0.quest_subtitle: "Power Control"
+	quest.45D99E459A6A38F3.quest_desc: ["We need to paint our vehicles; nobody deserves everything in the same color. We can dye the blocks using any dye!"]
+	quest.45D99E459A6A38F3.quest_subtitle: "Painting"
+	quest.4FB32E41F9FEE89B.quest_desc: ["Helps to boost small planes, pushing the air or sucking it in, to direct it forward or backward"]
+	quest.4FB32E41F9FEE89B.quest_subtitle: "Thruster"
+	quest.5BB309E264190DB9.quest_desc: ["We can build a mega car with giant wheels, or small cars with smaller wheels; it all depends on what we need to do."]
+	quest.5BB309E264190DB9.quest_subtitle: "New types of wheels"
+	quest.5E2B9B6AAB1F34F4.quest_desc: ["When we want to fly, we need a flat surface for the wind to pass through; for this, the best option for building planes is to use the windmill as part of the wing, as it is lighter and easier."]
+	quest.5E2B9B6AAB1F34F4.quest_subtitle: "Fly"
+	quest.6FBC7D12F531A361.quest_desc: ["We can use this machine to build helicopters or any kind of spacecraft that flies upward (I don't think there's a way to fly downward)"]
+	quest.6FBC7D12F531A361.quest_subtitle: "Helicopter"
+	quest.745255652688D720.quest_desc: ["We need to create the sphere part of the balloons using this block"]
+	quest.745255652688D720.quest_subtitle: "Forming a balloon"
+	quest.74CB7630E0651068.quest_desc: ["With the propeller we can create the final rotation for the spinning of an airplane's blades by connecting it to a windmill."]
+	quest.74CB7630E0651068.quest_subtitle: "Rotation"
+	task.394B44770A9EBFEF.title: "TWO"
+}

@@ -1,0 +1,91 @@
+{
+	quest.0104893F8F3458DA.quest_subtitle: "Right click steel casings with a heavy plate."
+	quest.0203D270DDDC7E84.quest_subtitle: "Made by spouting creosote oil in planks."
+	quest.02D05B1D0B266578.quest_desc: ["Once you have steel, you might choose to speed up your blast furnace by making these reinforcing walls for it."]
+	quest.037B8971900F3840.quest_desc: [
+		"The Factory Must Grow (TFMG for short) is an addon to the Create mod. The mod adds factory-style structures, processes, and items like Crude Oil, Steel Blasting, and various Electric Components."
+		""
+		"TFMG adds more processes that extend Create's Steampunk style to a more industrial, diesel-punk stage of advancement. "
+		""
+		"Processes that this mod adds are Oil Distillation by boiling Crude Oil into various oil products (more commonly known as \"fractions\") like Diesel and Gasoline. You can use your Diesel to power a easy-scalable Diesel Engine or further refine your Naphtha into Ethylene and Propylene for Plastic and Coolant Liquid. Make Napalm Bombs out of Gasoline, Sulfuric Acid, and Aluminum to \"prank\" your friends, but don't try this at home!"
+	]
+	quest.062051ED6D130ACD.quest_desc: [
+		"Steel is used for almost everything in TFMG, make a lot of this."
+		""
+		"Don't add more than a stack of each ingredient into the blast furnace at once. Additionally, it has a chance to not consume coal coke dust."
+	]
+	quest.09C334C044BC464F.quest_desc: [
+		"Pipe out the CO2 or it will clog up. You can make it taller than two blocks but it has no effect."
+		""
+		"Air is collected from air intakes, which need rotation to start collecting. They can be 1x1, 2x2, or 3x3 multiblock. They take zero power, so speed them up all you like."
+		""
+		"Fuel (creosote or furnace gas) is piped into the bottom face."
+		""
+		"Air (collected from air intakes) is piped into the side of the bottom block."
+		""
+		"CO2 is extracted from the sides of the bottom block."
+		""
+		"Hot air is extracted from the top face of the tower."
+	]
+	quest.09C334C044BC464F.title: "Blast Stove"
+	quest.0AD6897A8AB1CC5D.quest_desc: ["Use to check how much oil a deposit has."]
+	quest.0AE4B0BD9B765D60.quest_desc: [
+		"Place the Surface Scanner atop the Machine Input and supply it with power."
+		""
+		"The 25 lights above indicate the 25 chunks closest to the scanner, with the center light marking the chunk it occupies. A light will illuminate if at least one Oil Deposit is detected in that chunk."
+		""
+		"That's all the guidance it provides time to start digging!"
+	]
+	quest.0B281C34E455EE72.quest_desc: ["Just a larger pumpjack."]
+	quest.0DA65A502C57261C.quest_desc: ["Just like any other create contraption, you can superglue basically anything to a pumpjack, with the stipulation that the main arm is complete."]
+	quest.1065B5980FAF5937.quest_desc: [
+		"Pipe crude oil into the Distillation Controller and collect products from each output."
+		""
+		"Blaze Burner heating is required. Steel tanks can be 1x1, 2x2, or 3x3, with larger sizes allowing more heating, which can increase the distilling rate."
+		""
+		"The minimum height tower has three outputs and produces Heavy Oil, Diesel, and Gasoline."
+		""
+		"Adding two more outputs allows production of LPG and Kerosene."
+		""
+		"Adding one more output lets you extract Naphtha."
+		""
+		"Outputs can be configured to void excess fluid or stop refining when full to prevent wasting oil."
+	]
+	quest.13B495F64F5C9D48.quest_desc: ["A refined fuel made by heating coal without oxygen. It burns hotter and longer than regular coal, making it ideal for powering furnaces, engines, and heavy industrial machinery."]
+	quest.14F6CF9A5F807A51.quest_desc: ["Right click on a tank of lubrication to fill the can. Applying this to engines grant a 30% fuel saving."]
+	quest.1DE428DE5A0AB47C.quest_desc: ["When it's finished processing the coal, the front doors will open and it will spit the coal coke out the front. It's a good idea to have hoppers or a belt there to catch it."]
+	quest.21D45D2B85002B6E.quest_desc: ["A thick, tar-like substance derived from crude oil. It’s used as a base material for producing asphalt, fuel, and other industrial resources essential for large-scale factory operations."]
+	quest.28B88FFE1B735E3E.quest_desc: ["A vital mechanical component used in the operation of a pumpjack. It converts rotational force into vertical motion, enabling the extraction of fluids like oil from underground reservoirs."]
+	quest.2B6E2CD796D4ADF3.quest_desc: ["A heavy metal ingot used in crafting industrial components and machinery parts. Its density and conductivity make it valuable for advanced mechanical and electrical creations."]
+	quest.2D94489E09F8DD9C.quest_desc: [
+		"The steel mechanism is used in many machines."
+		""
+		"Like the precision mechanism, it requires a heavy plate to have various items deployed onto it:"
+		""
+		"Steel cogwheel"
+		"Nickel plate"
+		"Large steel cogwheel"
+		"Lead plate"
+		"Screws"
+		"Screwdriver"
+		""
+		"Doing this twice with a 94% chance of getting a steel mechanism."
+	]
+	quest.36766831FDA775FD.quest_desc: ["Made in a heated basin with a press."]
+	quest.405A318D640D514E.quest_desc: [
+		"The blast stove can take in furnace gas, so your furnace can be self sufficient without sacrificing more coal to make creosote."
+		""
+		"Place a hatch on top of the furnace hole to collect the gas."
+	]
+	quest.43D31DAC4737005E.quest_subtitle: "Byproduct of coke oven"
+	quest.43E02E5DBDE6F0D2.quest_desc: ["An industrial structure used to safely burn excess gases and byproducts. It helps manage waste output in large-scale factories, ensuring cleaner and more efficient production systems."]
+	quest.4F5AA576DC7B9B24.quest_desc: ["Put these items in the top of the blast furnace to produce molten steel and molten slag."]
+	quest.4F5AA576DC7B9B24.title: "Making steel"
+	quest.4F8BAA7B943299D9.quest_subtitle: "Mix nickel and copper in a heated basin."
+	quest.5B9501552E5DFB20.quest_subtitle: "Found in veins near the surface alongside crimsite and sand."
+	quest.6A539510EEB5F29E.quest_subtitle: "Right click Hardened Planks with a Steel Ingot."
+	quest.717CA8EB4DF4EDB8.quest_desc: ["Acts like a blaze burner but with fuel and CO2 additionaly you can use the blaze burners with the straw."]
+	quest.71EDE15818D4C2A1.quest_desc: ["The blast furnace can be any height you like. Taller furnaces melt steel faster."]
+	quest.71EDE15818D4C2A1.title: "Blast Furnace"
+	quest.74DA690631920E06.quest_subtitle: "Made just like normal bricks."
+}

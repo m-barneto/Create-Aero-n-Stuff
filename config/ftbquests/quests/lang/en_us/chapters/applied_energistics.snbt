@@ -1,0 +1,352 @@
+{
+	quest.00C88180C14B1A91.quest_desc: ["Used with &6Spatial IO Port&r to store spatial regions."]
+	quest.07EF8ABA0027BB91.quest_desc: [
+		"Required to create a connection between two Quantum Network Bridges, they are always produced in matching pairs. To create a connection place 1 of the pair of quantum entangled singularities into the ME Quantum Link Chamber of the bridge on each side."
+		""
+		"They are crafted by causing a reaction between Ender Pearl or Ender Dust"
+		"and a Singularity. Any explosive force should be enough to trigger the reaction."
+	]
+	quest.0AEDFC064B84C877.quest_desc: [
+		"Autocrafting is one of the primary functions of AE2. Instead of manually having to craft the correct number of each sub-ingredient and labor away like some sort of plebian, you can ask your ME system to do it for you. Or automatically craft items and export them somewhere. Or automatically keep certain amounts of items in stock through clever emergent behavior. It also works with fluids, and, if you have certain addons for extra mod material types, like Mekanism gasses, those materials too. It's pretty great."
+		""
+		"It is quite a complex topic, so strap in and let's go."
+		""
+		"{@pagebreak}"
+		"An autocrafting setup consists of 3 things:"
+		""
+		"The thing sending the crafting request"
+		"The crafting CPU"
+		"The ME Pattern Provider."
+		"Here is what happens:"
+		""
+		"Something creates a crafting request. This can be you in the terminal clicking on something autocraftable, or an export bus or interface with a crafting card requesting one of the item they're set to export/stock."
+		"(IMPORTANT: use whatever you have bound to \"pick block\" (usually middle-mouse) to request crafts of something you already have in stock, this can conflict with inventory sorting mods),"
+		"The ME system calculates the required ingredients and prerequisite crafting steps to fulfill the request, and stores them in the selected crafting CPU"
+		""
+		"The ME Pattern Provider with the relevant pattern pushes the ingredients specified in the pattern to any adjacent inventory. In the case of a crafting table recipe (a \"crafting pattern\") this will be a Molecular Assembler. In the case of a non-crafting recipe (a \"processing pattern\") this will be some other block or machine or elaborate redstone-controlled setup."
+		""
+		"The result of the craft is returned to the system somehow, be it by import bus, interface, or pushing the result back into a pattern provider. Note that an \"item entering system\" event must occur, you can't just pipe the result into a chest with a ME Storage Bus on it."
+		""
+		"If that craft is a prerequisite for another craft in the request, the items are stored in that crafting CPU and then used in that craft."
+	]
+	quest.0AEDFC064B84C877.title: "Auto-Crafting"
+	quest.0E580153F1936699.quest_desc: ["A powerful machine that converts excess energy or items into stored matter. It’s essential for producing singularities and other high-tier materials used in advanced storage and automation systems."]
+	quest.0E9258C07CDD7385.quest_desc: [
+		"A Wrench made of Certus Quartz Crystal or Nether Quartz."
+		""
+		"Useful for rotating blocks, and removing individual parts from Cables."
+	]
+	quest.0EEA8C33BC327CCA.quest_desc: ["The Pattern Access Terminal serves to solve a specific issue: in a dense tower of ME Pattern Providers and Molecular Assemblers, you can't physically access the providers to insert new patterns. Additionally, perhaps you're lazy and don't want to walk across your base to insert a pattern. The pattern access terminal allows access to all pattern providers on the network."]
+	quest.140DE53DC0FCD9F4.quest_desc: [
+		"The Annihilation Plane breaks blocks and picks up items. It works similarly to an ME Import Bus, pushing things into network storage. For items to be picked up, they must collide with the face of the plane, it does not pick up in an area."
+		""
+		"Annihilation planes can be enchanted with any pickaxe enchantment, so yes, you can put crazy levels of fortune on a few and automate ore processing if your modpack allows it. In addition, silk touch does what you'd expect it to, efficiency reduces the energy cost of breaking a block, and unbreaking gives a chance of not using any energy."
+		""
+		"REMEMBER TO ENABLE FAKE PLAYERS IN YOUR CHUNK CLAIM"
+	]
+	quest.1610C8F55F59E82F.quest_desc: [
+		"The Quartz Fiber."
+		""
+		"A part designed to share energy between two ME Networks without sharing anything else, also used to craft Fluix ME Glass Cablr."
+	]
+	quest.180206DDBD6B2D59.quest_desc: [
+		"The Pattern Encoding Terminal is similar to a regular terminal, with all the same settings and sections, but with an added pattern encoding interface. It looks similar to a crafting terminal's UI but this crafting grid doesn't actually perform crafts."
+		""
+		"You should have one of these in addition to a crafting terminal."
+	]
+	quest.1A7D9B32BD59417B.quest_desc: [
+		"Mostly &bdecorative&r powered &elight&r source that can be attached to &9Fluix ME Glass Cable&r or other non dense cables."
+		""
+		"Also used as crafting &ningredient&r."
+		""
+		"{image:kubejs:textures/item/illuminated_panel.png width:160 height:100 align:1}"
+	]
+	quest.1CB243F7E197B883.quest_desc: ["Displays the top level job and its current progress so you can see what a particular Crafting CPU is currently working on."]
+	quest.1D0939A8B41C72BF.quest_desc: [
+		"Stores up to 200,000 AE."
+		""
+		"They do not accept power directly, but are used to add additional power storage to an already existing ME Network."
+	]
+	quest.1EBA6436DEBB02CC.quest_desc: [
+		"The &eME Conversion Monitor&r is the upgraded version of the &2ME Storage Monitor&r."
+		""
+		"It adds the ability to &ndirectly&r withdraw from or store &aItems&r into the &dME Network&r."
+		""
+		"In addition to the &2Storage Monitor's&r interactions, conversion monitors support the following actions:"
+		""
+		"&bLeft-click&r &nExtracts&r a stack of the shown item into &nyour inventory&r"
+		""
+		"&bRight-click&r with &eItem&r &nInserts&r the held item into &nthe network&r"
+		""
+		"&bRight-click&r with &7Empty Hand&r will &ninsert&r all of the shown item from &nyour inventory&r into &nthe network&r."
+	]
+	quest.1FB657F4DEC4885C.quest_desc: ["Crafting Storage provides 1k - 265M of storage for crafting."]
+	quest.25C93EDEDDF8CBE4.quest_desc: [
+		"The &2Toggle Bus&r. "
+		""
+		"A bus which functions similarly to &9Fluix ME Glass Cable&r or other &eCables&r, but it &nallows&r its connection state to be toggled via &credstone&r."
+		""
+		"This allows you to &ncut off&r a section of a &dME Network&r."
+	]
+	quest.26A58E2711BC7B28.quest_desc: [
+		"The Spatial IO Port is used in spatial IO to hold the spatial cell and control the spatial IO operation."
+		""
+		"The cell can be inserted and extracted by any item logistics like hoppers or ae2 busses, if you want to automate it."
+	]
+	quest.270E0BC2E8565FFE.quest_desc: [
+		"Pulls items from the inventory it is pointed at and places them into the &dME Network's&r Networked Storage."
+		""
+		"You can &nspecify&r which items it will pull out via the &bUI&r, else it tries to pull out any item in the adjacent inventory."
+		""
+		"The &aME Import Bus&r will attempt to import any possible options, even if &o1&r or more of the &nconfigured&r items cannot be stored."
+		""
+		"The &aME Import Bus&r requires a &eChannel&r to function."
+		""
+		"This is the functional opposite of the &6ME Export Bus&r."
+	]
+	quest.2BB30AED452773EB.quest_desc: ["A portable device that lets you access your entire storage network remotely. It combines multiple functions into one interface, allowing seamless item management, crafting, and monitoring from anywhere within range."]
+	quest.338E4A4F41889959.quest_desc: [
+		"The ME Crafting Terminal is the upgraded version of the ME Terminar which has an integrated crafting grid with access to a ME Network's Networked Storage."
+		""
+		"Like the ME Terminal it also requires a Channel to function."
+	]
+	quest.3424B27C62D3D2CF.quest_desc: [
+		"Allows wireless access via a Wireless Terminal. Range and power usage is determined based on the number of Wireless Booster installed."
+		""
+		"A network can have any number of wireless access points with any number of Wireless Booster in each one, allowing you to optimize power usage and range by altering your setup."
+		""
+		"Requires a channel."
+		""
+		"Also used to bind wireless terminals"
+	]
+	quest.35365535ED46DAD0.quest_desc: ["Applied Energistics 2 (AE2) is a comprehensive mod for Minecraft that introduces a unique approach to in-game inventory management. Its theme is centered around the concept of converting matter into energy and vice versa, to store and transport your items and fluids instantaneously!"]
+	quest.35365535ED46DAD0.title: "Welcome to &eApplied Energistics 2"
+	quest.3734081CB77CDBB5.quest_desc: [
+		"Matter Balls in a Matter Cannon can be substituted with Paint Balls, which will apply a paint splatter effect on the face of whatever block being fired at."
+		""
+		"Lumen Paint Balls are a variant of paint balls exclusively used by the Matter Cannon, whose paint splatters also give off some light once present in the world."
+	]
+	quest.3734081CB77CDBB5.title: "Matter/Paint/Lumen Paint Balls"
+	quest.38E84EA139A2316C.quest_desc: [
+		"The Drive is the device you plug your storage cells into in order to use them for network storage. It has 10 slots which each accept a cell."
+		""
+		"If for some reason you want to, you can push and pull the cells from its inventory with any item logistics like hoppers or ae2 busses."
+		""
+		"It can be rotated with a Certus Quartz Wrench."
+	]
+	quest.3931273289B3A68C.quest_desc: [
+		"Fluix ME Glass Cable is the simplest cable to make, transfers power and up to 8 channels. It comes in 17 different colors, the default being Fluix, and can be dyed any color using any of the 16 dyes."
+		""
+		"To craft colored cables surround a dye of any type with 8 cables of the same type ( color of the cables dosn't matter, but they must be the same type, glass, smart, etc ). You can also paint cables with any forge compatible paint brush in world."
+		""
+		"You can craft any colored cable with a water bucket to remove the dye."
+		""
+		"You can cover the cable with wool to create Fluix ME Covered Cable, and craft Fluix ME Smart Cable to get a better idea of what is going on with your channels."
+	]
+	quest.3B3C89649DF57161.quest_desc: [
+		"Quantum Network Bridges can extend a network over infinite distances and even between dimensions. They can carry 32 channels in total (regardless of how cables are connected to each face), essentially acting like a wireless dense cable."
+		""
+		"Eight of these quantum rings placed around a ME Quantum Link Chamber will create a Quantum Network Bridge. Only the 4 ME Quantum Ring blocks adjacent to the ME Quantum Link Chamber will accept network connections, the 4 corner blocks cannot connect to cables."
+	]
+	quest.3B3C89649DF57161.title: "&6The Quantum Bridge"
+	quest.3F925BFD3CF1DC0B.quest_subtitle: "Used to increase the range of the wireless access point."
+	quest.419BBE875D40B1D6.quest_desc: [
+		"The ME Export Bus extracts items from the ME Network's Networked Storage and places them into the inventory it faces."
+		""
+		"You must configure which items it will insert, leaving the configuration blank will result in nothing."
+		""
+		"The ME Export Bus will try to export any of the items on its list skipping over those it cannot fit into the destination."
+		""
+		"The ME Export Bus&r requires a Channel to function."
+		""
+		"This is the functional opposite of the ME Import Bus."
+	]
+	quest.4276B941670CE0E2.quest_desc: [
+		"P2P tunnels are a way to move things like items, fluids, redstone signals, power, light, and channels around a network without them directly interacting with the network. There are many variants of P2P tunnel but each only transports its specific type of thing. They essentially act like portals that directly connect two block faces at range. They are not bi-directional, there are defined inputs and outputs."
+		""
+		"{@pagebreak}"
+		""
+		"There are many types of P2P tunnel. Only the ME P2P tunnel is directly craftable, the others are made by right-clicking other P2P tunnels with certain items:"
+		""
+		"ME P2P tunnels are selected by right-clicking with any cable."
+		"Redstone P2P tunnels are selected by right-clicking with a variety of redstone components."
+		"Item P2P tunnels are selected by right-clicking with a chest or hopper."
+		"Fluid P2P tunnels are selected by right-clicking with a bucket or bottle."
+		"Energy P2P tunnels are selected by right-clicking with almost any energy-containing item."
+		"Light P2P tunnels are selected by right-clicking with a torch or glowstone"
+		"Some tunnel types have quirks. For instance, ME P2P tunnels' channels cannot pass through other ME P2P tunnels, and Energy P2P tunnels indirectly extract a 2.5% tax on FE flowing through themselves by increasing their energy draw."
+		""
+		"{@pagebreak}"
+		""
+		"The most common use case of P2P tunnels is using a ME P2P tunnel to compact the density of channel transport. Instead of a bundle of dense cable, a single dense cable can be used to carry many channels around."
+	]
+	quest.4291A72FF87220D5.quest_desc: [
+		"There is also an inverted version of the toggle bus that &ndisables&r the connection when a &credstone&r signal is supplied."
+		""
+		"When &credstone&r signal supplied the part &nenables&r the connection, &6ME Inverted Toggle Bus&r provides the &nreverse&r behavior by &ndisabling&r the connection instead."
+	]
+	quest.46EBE6B0E06D750D.quest_desc: ["Used with &6Spatial IO Port&r to store spatial regions."]
+	quest.470B1F84D01E4F7A.quest_desc: ["Charged Certus Quartz is crafted by insterting an Certus Quartz Crystal into the Charger, and powering it."]
+	quest.49E36D3C3092346E.quest_desc: [
+		"The IO Port allows you to rapidly fill or empty storage cells to or from network storage."
+		""
+		"It can be rotated with a Certus Quartz Wrench."
+		""
+		"The IO Port can be set to move the cell to the output slots when the cell is empty, full, or when the work is done."
+		"If a Redstone Card is inserted, there will be options for various redstone conditions"
+		"In the center of the GUI, there is an arrow to set which direction to transfer items, from the cell to network storage, or from storage to the cell."
+		"Upgrades"
+		"The IO Port supports the following upgrades:"
+		""
+		"Acceleration Card increases the amount of stuff moved per operation"
+		"Redstone Card adds redstone control, allowing active on high signal, low signal, or once per pulse"
+	]
+	quest.4CE350628327599A.quest_desc: [
+		"The &eME Level Emitter&r can indicate either the level of a specified item or the &dME Network&r energy level."
+		""
+		"You can set the threshold and if the&e ME Level Emitter&r will emit a redstone signal or turn it off."
+		""
+		"Does not require a &eChannel&r to function, if its power is lost the emitter will switch to an off state."
+		""
+		"These can tap into the &bcrafting system&r when a crafting card is installed, allowing you to output redstone while an item is being crafted, or even configure the system to output redstone to preform a crafting task, its important to note that you cannot mix level emitter craft via &credstone&r with &binterface patterns&r."
+	]
+	quest.4D999E42010FFB85.quest_desc: ["Holds 1.6r AE in its battery and drains 1 AE/t for each block you are away from the nearest ME Wireless Access Point."]
+	quest.4DAC24440803FE58.quest_desc: [
+		"An AE2 network needs to be chunkloaded for any of its devices to be able to function, and if only some of it is loaded, it may not function correctly. The Spatial Anchor solves this problem. It forceloads the chunks that its network occupies. A single cable extending across a chunk border is enough to load that new chunk."
+		""
+		"It will propagate its \"loading\" across quantum bridges, but not cross-dimensionally, so if you have a quantum bridge to the nether, you need a spatial anchor on the network in your base and on the network in the nether."
+		""
+		"By default it will also enable random ticks in its loaded chunks, this can be turned off in the ae2 config."
+	]
+	quest.4F1307BB5B01F90F.quest_desc: [
+		"The ME Chest acts like a miniature network with a ME Terminal, ME Drive, and Energy Acceptor. While it can be used as a tiny storage network, its capacity for just one single storage cell means it has limited utility as such."
+		""
+		"Instead, it is useful for interacting with specifically the storage cell mounted inside it. Its integrated terminal can only see and access the items in the mounted drive, while devices on the general network can access items in any network storage, including ME chests."
+		""
+		"It has 2 different GUIs and is sided for item transport. Interacting with the top terminal opens the integrated terminal. Items can be inserted into the mounted storage cell through this face, but not extracted. Interacting with any other face opens the GUI with the slot for the storage cell and the priority settings. The cell can be inserted and removed by item logistics only through the face with the cell slot."
+		""
+		"It can be rotated with a Certus Quartz Wrench."
+		""
+		"It has a small AE energy storage buffer, so if not on a network with an energy cell, inserting or extracting too many items at once may cause it to brown out."
+	]
+	quest.4F89670D49DD2DE1.quest_desc: [
+		"They provide diagnostic function by visualizing the Channel usage on the Cables, the Channels appear as lit colored lines that run along the black stripe on the Cables giving you an understanding of how your Channels are being used on your network."
+		""
+		"The first four Channels show as lines matching the color of the Cable, the next four show as white lines."
+		""
+		"These can also be colored in the same manner as Fluix ME Glass Cable."
+	]
+	quest.525F25F4ADE45B50.quest_desc: [
+		"The ME Formation Plane acts similarly to the Storage Bus, but treats the world itself as its storage medium. In other words, it will place down any block in its filter directly in front of itself."
+		""
+		"This can be useful for situations where a block can be processed simply by placing it and breaking it with a certain tool."
+	]
+	quest.556D9C78EFAB5091.quest_desc: [
+		"The ME Terminal is a HUD which gives you access to items stored in your ME Network. This will also include items accessible through ME Storage Bus."
+		""
+		"It has the ability to sort and search, as well as filter by using View Cell. It requires a Channe to function."
+	]
+	quest.55749230931993F2.quest_desc: [
+		"Mostly clear glass made with Certus Quartz Dust."
+		""
+		"Can be used to make Vibrant Quartz Glass and other items."
+	]
+	quest.5A5A30CD4D0C98CB.quest_desc: ["Fluix Crystal is crafted in world by tossing Charged Certus Quartz Crystal, Nether Quartz and Redstone Dust in Water."]
+	quest.5D3EE44FB41D289F.quest_desc: ["A item which contains a configuration similar to a Storage Cell, that allows you to customize the filtering of a particular ME Terminal."]
+	quest.5F0E877BE50D79D0.quest_desc: ["Used with &6Spatial IO Port&r to store spatial regions."]
+	quest.621F052BCE747E68.quest_desc: [
+		"Higher Capacity cable, can carry 32 Channels unlike standard cable which can only carry 8."
+		""
+		"However it doesn't support buses so you must first step down from dense to a smaller cable (such as Fluix ME Glass Cable or Fluix ME Smart Cable) before using buses or panels."
+		""
+		"Shows load similarly to Fluix ME Smart Cable, with each line lit representing four Channels in use."
+	]
+	quest.6847F5D14FCB5BF8.quest_desc: [
+		"Normally you'd use the Meteorite Compass to find Skystone Meteorites, which contain a mysterious cube that drops the presses. "
+		""
+		"But meteorites have been disabled in this world, here you go!"
+	]
+	quest.6A4CF3A1CF4D4928.quest_desc: [
+		"The Charger provides a way to charge supported tools, and Certus Quartz Crystal."
+		""
+		"Power can be provided via the top or bottom, via either AE2's cables, or other mod power cables. It can accept either AE2's power (AE) or Forge Energy (FE). Items can be inserted or removed from any side. Only the results can be removed, so no need for filters to prevent removing certus crystals instead of charged certus. Can be rotated with a Certus Quartz Wrench in order to facilitate automation."
+		""
+		"Can be used to create Charged Certus Quartz Crystal from Certus Quartz Crystal, and Meteorite Compass from Compass."
+		""
+		"To power it manually, place a Wooden Crank on the top or bottom and right-click it until the item is charged."
+	]
+	quest.6B5C3E68A6A3F3B5.quest_desc: [
+		"The Spatial Pylon is used in spatial IO to generate the spatial field and define the volume to be affected."
+		""
+		"Each continuous line of pylons uses 1 channel"
+		""
+		"Lines of pylons must be at least 2 blocks long to function."
+	]
+	quest.6B7DE9EA8E828DEE.quest_desc: [
+		"The Inscriber creates different types of Processors."
+		" "
+		"The Inscriber can also \"create\" presses by duplicating an existing press with an Iron Block."
+	]
+	quest.6B8E544E188FBA4D.quest_subtitle: "The heart of your system"
+	quest.713EA1BC9BAAA0AB.quest_desc: [
+		"The molecular assembler takes items input into it and carries out the operation defined by an adjacent ME Pattern Provider, or the inserted Crafting Pattern, Smithing Table Pattern, or Stonecutting Pattern, then pushes the result to adjacent inventories."
+		""
+		"This assembler has a crafting pattern that specifies the 1 oak log = 4 oak planks recipe. When oak logs are fed into the upper hopper, the assembler crafts and spits oak planks into the lower hopper."
+	]
+	quest.71A772DE60643C45.quest_desc: ["Place the mysterious cube down and break it."]
+	quest.71A772DE60643C45.title: "The Inscriber Presses"
+	quest.7700E08416618198.quest_desc: [
+		"Interfaces act like a small chest and fluid tank that fills itself from and empties to network storage depending on what you set it to keep a stock of in its slots. It tries to complete this in a single gametick, so it can fill itself with or empty itself from up to 9 stacks per gametick, making it a fast method of import or export if you have fast item pipes."
+		""
+		"Another useful trait is that while most fluid tanks can only store 1 type of fluid, interfaces can store up to 9, as well as items. They're essentially just chests/multi-fluid tanks with some extra functionality, and you can prevent that extra functionality by keeping them disconnected from any networks. Thus, they are useful in some niche cases where you want to store a small amount of a bunch of different stuff."
+	]
+	quest.7A39B7C7B0EEBF4F.quest_desc: ["A crystallized energy core infused with Fluix essence. It serves as a key crafting material for advanced network components, storage devices, and wireless systems."]
+	quest.7E38ACDAC8ACD079.quest_desc: [
+		"The &dME Storage Monitor&r is a simple way to see the current level of a specified item."
+		""
+		"There are several interactions to modify it:"
+		""
+		"&bRight-click&r with &aItem&r will &ndisplay&r the current stored amount of that item if not locked"
+		""
+		"&bRight-click&r with &7Empty Hand&r will reset the display if &nnot&r locked"
+		""
+		"&bShift+Right-click&r with &7Empty Hand&r will toggle the &nlock&r"
+		""
+		"&bRight-click&r with &eWrench&r will &nrotate&r the monitor if it is locked and on the ground or ceiling."
+	]
+	quest.7EE37ABD9F8B873D.quest_desc: [
+		"Pattern providers are the primary way in which your autocrafting system interacts with the world. They push the ingredients in their patterns to adjacent inventories, and items can be inserted into them in order to insert them into the network. Often a channel can be saved by piping the output of a machine back into a nearby pattern provider (often the one that pushed the ingredients) instead of using an ME Import Bus to pull the output of the machine into the network."
+		""
+		"Of note, since they push the ingredients directly from the crafting storage in a crafting CPU, they never actually contain the ingredients in their inventory, so you cannot pipe out from them. You have to have the provider push to another inventory (like a barrel) then pipe from that."
+		""
+		"{@pagebreak}"
+		"Also of note, the provider has to push ALL of the ingredients at once, it can't push half-batches. This is useful to exploit."
+		""
+		"Pattern providers have a special interaction with interfaces on subnets: if the interface is unmodified (nothing in the request slots) the provider will skip the interface entirely and push directly to that subnet's storage, skipping the interface and not filling it with recipe batches, and more importantly, not inserting the next batch until there's space in the machine. This works correctly with blocking mode, the provider will monitor the slots in the machine for ingredients, instead of the slots in the interface."
+	]
+	quest.7EE37ABD9F8B873D.title: "ME Pattern Provider"
+	quest.7F783DD7214B96B2.quest_desc: [
+		"The Energy Acceptor converts energy from external systems (e.g., Redstone Flux RF) into AE and stores it in the network."
+		""
+		"Conversion Rate: 2 FE/RF = 1 AE"
+		""
+		"To see the current energy statistics for your network, right-click any part of it with a Network Tool."
+	]
+	quest.7FAA4D4796F470A4.quest_desc: [
+		"Stores up to 1,000,000 AE."
+		""
+		"They do not accept power directly but are used to add additional power storage to an already existing ME Network."
+	]
+	task.03A64F653E5637CD.title: "Crafting Monitor"
+	task.12B4C30E259851EC.title: "ME Interface"
+	task.16AD605C06CC7BDE.title: "Wrench"
+	task.1B77E1B7D104D502.title: "Crafting Storage"
+	task.1C35588869674D6F.title: "Blank Pattern"
+	task.4448E45C70AD482F.title: "Wireless Booster"
+	task.4761239B2EE2BD5C.title: "Quartz Fiber"
+	task.481A846149CADED9.title: "Lumen Paint Balls"
+	task.5304AB671E89DFBB.title: "Certus Quartz Crystal"
+	task.5CD6B756FB073906.title: "Fluix ME Glass Cable"
+	task.746822ADE19EEBBA.title: "Quartz Glass"
+	task.758FACAF38FB4744.title: "Paint Balls"
+}

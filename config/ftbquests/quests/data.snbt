@@ -13,7 +13,7 @@
 	grid_scale: 0.5d
 	hide_excluded_quests: false
 	icon: {
-		id: "minecraft:book"
+		id: "ftbquests:book"
 	}
 	lock_message: ""
 	loot_crate_no_drop: {

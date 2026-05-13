@@ -1,13 +1,13 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "7create_aeronautics_2"
+	filename: "create_aeronautics_2"
 	group: "181E781F1BAE7410"
 	icon: {
 		id: "aeronautics:propeller_bearing"
 	}
 	id: "56096636DE3BAEC1"
-	order_index: 6
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{
@@ -33,15 +33,10 @@
 			dependencies: ["30C364AC05822920"]
 			id: "36268EBCE1143F0A"
 			rewards: [{
-				id: "477AE4E4E13DAE75"
-				item: {
-					components: {
-						"ftbquests:missing_item": "ars_elemental:glyph_summon_slime"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -60,12 +55,10 @@
 			]
 			id: "45D99E459A6A38F3"
 			rewards: [{
-				id: "154DB7F3A534E6F2"
-				item: {
-					count: 1
-					id: "create_dragons_plus:red_dye_bucket"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -83,11 +76,8 @@
 				count: 64
 				id: "79B885E4C2387AE1"
 				item: {
-					components: {
-						"ftbquests:missing_item": "golden_foods:enchanted_golden_baked_potato"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "minecraft:baked_potato"
 				}
 				type: "item"
 			}]
@@ -131,15 +121,10 @@
 			]
 			id: "1AEBFCD56E37DF8D"
 			rewards: [{
-				id: "6FAD78AD56A02473"
-				item: {
-					components: {
-						"ftbquests:missing_item": "artifacts:night_vision_goggles"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -154,15 +139,10 @@
 			dependencies: ["30C364AC05822920"]
 			id: "5E2B9B6AAB1F34F4"
 			rewards: [{
-				id: "7A81EE798A34131F"
-				item: {
-					components: {
-						"ftbquests:missing_item": "irons_spellbooks:fire_upgrade_orb"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -181,15 +161,10 @@
 			]
 			id: "3AFA504735B789C0"
 			rewards: [{
-				id: "620031AAC8CB2557"
-				item: {
-					components: {
-						"ftbquests:missing_item": "mysticalagriculture:redstone_seeds"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -204,15 +179,10 @@
 			dependencies: ["30C364AC05822920"]
 			id: "74CB7630E0651068"
 			rewards: [{
-				id: "5742A8B57C1F468F"
-				item: {
-					components: {
-						"ftbquests:missing_item": "mysticalagriculture:slime_seeds"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -251,15 +221,10 @@
 			dependencies: ["30C364AC05822920"]
 			id: "4FB32E41F9FEE89B"
 			rewards: [{
-				id: "0AFF06DD20802607"
-				item: {
-					components: {
-						"ftbquests:missing_item": "easy_mob_farm:ironbound_containment_cage"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -274,15 +239,10 @@
 			dependencies: ["30C364AC05822920"]
 			id: "0F550A972D2CC175"
 			rewards: [{
-				id: "691CA18D5061B931"
-				item: {
-					components: {
-						"ftbquests:missing_item": "ars_elemental:fire_relay"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -296,15 +256,10 @@
 		{
 			id: "6FBC7D12F531A361"
 			rewards: [{
-				id: "795322C016B396E5"
-				item: {
-					components: {
-						"ftbquests:missing_item": "irons_spellbooks:amethyst_rapier"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{

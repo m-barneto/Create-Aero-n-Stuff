@@ -1,0 +1,156 @@
+{
+	quest.066FA99DD39A0BF4.quest_desc: [
+		"Put the magnetic alloy on top of a lightning rod during a thunderstorm and wait for the rod to get hit. Channeling tridents also work."
+		""
+		"There is about a 50% yield from this process."
+	]
+	quest.0ADA2391DDE7466E.quest_desc: ["An advanced control unit that manages engine performance and power output. It optimizes efficiency, regulates speed, and ensures smooth operation of complex machinery systems."]
+	quest.0E63C1AD9074987E.quest_desc: ["Melt quartz in the blast furnace and cast the resulting liquid silicon."]
+	quest.1188D57C76DBD215.quest_desc: [
+		"Potentiometers allow a percentage of the input voltage to pass to the output side. Unlike in real life, they do not waste power."
+		""
+		"For example, if your base is wired at 3 kV but your lights only require 150 V, you can set a potentiometer for the lights at 5%. This way, they don’t consume several kW for no benefit."
+	]
+	quest.138B96B20044ED12.quest_desc: ["A coil of constantan wire known for its stable electrical resistance. It’s used in crafting electronic components and machinery that require precise power control."]
+	quest.19936E26E71B5F68.quest_desc: ["Energy is input through the bottom face and output from the top. "]
+	quest.19A9DA93FF046BD9.quest_desc: ["A sturdy yet lightweight frame used to encase and protect mechanical or electrical components. Its durability and resistance make it perfect for building advanced industrial machinery."]
+	quest.1CBE8399B440A1FD.quest_desc: ["A powerful multi-cylinder engine arranged in a circular pattern for balanced motion and high torque. Its efficient design provides strong, consistent power for advanced industrial machinery."]
+	quest.1E1016523BF3849D.quest_desc: ["A refined material obtained from crushing bauxite ore. It serves as a key ingredient in producing aluminum and other advanced industrial alloys."]
+	quest.21800FC0CDC937CB.quest_desc: [
+		"Produces much higher voltages and power than a basic generator."
+		""
+		"Components are assembled in a Mechanical Crafter using plenty of Aluminum and Steel."
+		""
+		"Surround the rotor with the stators to complete the multiblock."
+		""
+		"Operational details:"
+		""
+		"0 RPM - 70 RPM: No electricity generation"
+		""
+		"71 RPM - 256 RPM: Voltage rises linearly from 12V to 2232 kV. Current is limited to 24.6A, giving power output from 295W to 54.9kW"
+	]
+	quest.264E6FD715F41414.quest_desc: ["A standard power unit that converts fuel or pressure into rotational energy. Reliable and versatile, it’s suitable for powering a wide range of mechanical systems and factory machines."]
+	quest.27A11A6ED27A72D2.quest_desc: [
+		"Transformers can raise or lower voltage based on the ratio of turns on their electromagnetic coils. For example, an input coil with 100 turns and an output coil with 400 turns gives a turn ratio of 4, boosting the voltage by 4×."
+		""
+		"Coils are added by right-clicking them onto the transformer. The input coil is always placed first, followed by the output coil."
+		""
+		"Currently, there’s no clear way to distinguish input from output aside from the noise texture on top. Transformers are not bidirectional. The top part of the \"handle\" with the checkerboard pattern marks the input side, which will be on the left when the block is placed."
+	]
+	quest.2A2CE255693B7495.quest_desc: ["The Engine Base will prompt you to right-click each required part onto it. Once all components are added, the engine will request as many pistons as needed to complete the configuration you selected."]
+	quest.2E10AFB432824AB1.quest_desc: ["A durable alloy wire made from copper and nickel, valued for its consistent electrical resistance. Commonly used in advanced circuits and precision engineering applications."]
+	quest.2F9B52EA41B4DFF0.quest_desc: ["A conductive wire made from refined copper, used to transmit electrical energy between machines and components. Essential for building power networks and automation circuits."]
+	quest.39AC44DD78BB695F.quest_desc: ["A basic yet robust power unit built for generating strong rotational energy. It’s reliable and easy to maintain, making it suitable for medium to large mechanical systems."]
+	quest.3A059BC37D957B99.quest_desc: ["A core mechanical part used to transmit rotational force between connected machines. Essential for linking engines, gearboxes, and other moving components in automation systems."]
+	quest.407FBBE12EA9ED9B.quest_desc: ["A high-performance engine component built to handle intense pressure from diesel combustion. It delivers strong and efficient power output, perfect for heavy-duty machinery and advanced automation setups."]
+	quest.40BEBD299B406E1A.quest_desc: ["A versatile machine that converts rotational or kinetic energy into electricity. Essential for powering electrical systems, machinery, and automated setups efficiently."]
+	quest.445ACC0E40DB3D96.quest_desc: ["A partially assembled electrical component awaiting final processing. It’s used in crafting complete resistors and other advanced electronic parts."]
+	quest.4A19E3387DBD7FB0.quest_desc: [
+		"The Winder consumes spools of wire to wrap around items."
+		""
+		"Crafting recipes that use the Winder (such as generators or potentiometers) will always use exactly the amount required."
+		""
+		"For winding magnetic coils, a winding percentage can be set out of 1000 turns, with a minimum of 100 turns (10% = 100 turns). Any turns beyond 100 are used only for transformer coils. The remaining turns on the wire spool can be checked using Goggles."
+		""
+		"Items cannot be extracted manually (except for the wire spool), and there is no filter for unfinished items. For manual winding, use a Funnel and a Lever."
+	]
+	quest.4A859875AFC89A13.quest_desc: ["A key mechanical component that compresses and channels energy within an engine. It’s essential for converting fuel or pressure into smooth, consistent rotational motion."]
+	quest.4CDB3F8E217ADC8E.quest_desc: ["A specialized metal ingot infused with magnetic properties. It’s used in crafting advanced machinery, motors, and components that rely on magnetic energy or attraction."]
+	quest.4CEF6501FCD7D58D.quest_desc: ["A basic yet functional engine component that helps convert pressure or combustion into motion. Ideal for early-stage machinery and low-power mechanical systems."]
+	quest.4DAEDB4B0C8D2CE4.quest_desc: ["A high-speed power generator that converts heat or fluid pressure into rotational energy through turbine blades. It delivers efficient, continuous power for advanced machines and automation systems."]
+	quest.4E058BAF38B16EE0.quest_desc: ["An electrical component that stores and releases energy when needed. It helps stabilize power flow, improve efficiency, and support machines during energy fluctuations."]
+	quest.4EBD5363B552085D.quest_desc: [
+		"Organizes electrical appliances into series-parallel groups without needing diodes or other circuit-splitting components."
+		""
+		"Different group numbers run in parallel and behave as if they are on separate diodes."
+	]
+	quest.4F216AB740548F80.quest_desc: ["A powerful industrial engine designed to generate massive amounts of rotational energy. Ideal for driving heavy machinery, large-scale factories, and advanced automation setups."]
+	quest.4FFD6C191AD6FCC5.quest_desc: ["A much improved, portable version of the Electric Gauge. Extremely useful for checking if a device is receiving enough current and power."]
+	quest.52D8B15C3B75AB7F.quest_desc: [
+		"The generator consumes SU to produce electricity. The faster it spins, the more voltage and power it generates, up to a maximum of 255V and 12.1kW. More technical details follow."
+		""
+		"This is a multi-step deploying recipe, with one step involving the Winding Machine. Start with a shaft and follow these steps:"
+		""
+		"Add a Capacitor"
+		""
+		"Attach a Heavy Plate"
+		""
+		"Use a Winding Machine to wrap 75 turns of copper wire around it"
+		""
+		"Add a Magnet"
+		""
+		"Attach a Steel Mechanism"
+		""
+		"Use a Screwdriver"
+		""
+		"Repeat this process three times for an 83% chance of obtaining a generator."
+		""
+		"{@pagebreak}"
+		""
+		"0 RPM - 40 RPM: No electricity generation"
+		""
+		"41 RPM - 223 RPM: Voltage rises linearly from 1V to 255V. Current is limited to 40A, giving power output from 40W to 10.2kW"
+		""
+		"224 RPM - 255 RPM: Voltage remains at 255V while power output increases up to 12.1kW. Current limit rises to 47.5A"
+	]
+	quest.53EA40114B347A83.quest_desc: [
+		"Fireproof Vats are required in a 3x3x2 configuration."
+		""
+		"Graphite electrodes must be used, and make sure to pump out the CO2."
+		""
+		"The electrode holders require a minimum of 25A to operate, but they have three times the resistance compared to the electrolyzer. Each must be supplied with at least 31.5 kV. This can be achieved using two max-speed Generators, a Transformer with a turn ratio of 6, and Diodes on each electrode holder."
+	]
+	quest.53EA40114B347A83.title: "Arc Furnace"
+	quest.554102109E795CD3.quest_desc: ["An electrical component that limits or controls the flow of current in a circuit. It’s crucial for protecting devices and ensuring stable power distribution."]
+	quest.563A3503CD040E41.quest_desc: ["A coiled conductor that generates a magnetic field when energized. It’s essential for crafting motors, generators, and other advanced electromechanical systems."]
+	quest.563A3503CD040E41.quest_subtitle: "Made in a winding machine."
+	quest.5A14292FE47ED873.quest_desc: ["A precision-crafted component that captures fluid or air flow to generate rotational energy. It’s a key part of turbine engines, ensuring smooth and efficient power conversion."]
+	quest.5B960A074B904E80.quest_desc: [
+		"The electrical motor converts electrical power into SU with a small efficiency loss."
+		""
+		"This is a multistep deploying recipe, with one step involving the Winding Machine. Start with a shaft and follow these steps:"
+		""
+		"Use a Winding Machine to wrap 75 turns of copper wire around it"
+		""
+		"Add a Magnet"
+		""
+		"Attach a Steel Mechanism"
+		""
+		"Use a Screwdriver"
+		""
+		"Repeat this process three times for a 94% chance of obtaining a motor."
+		""
+		"Rotation direction can be configured."
+		""
+		"For 30V - 320V: SU output and motor speed depend on the input voltage, up to 11,220 SU at 255 RPM. This consumes 960W of power."
+		""
+		"For 320V - 1000V: The motor still produces its maximum SU but consumes more power. There is no benefit to going this high."
+	]
+	quest.5C21D02BB2644A39.quest_desc: [
+		"Despite what the tooltip says, it still requires Magnetic Alloy."
+		""
+		"Connect it to a generator, place one alloy on the prongs, and watch the needle rise until it creates a Magnet."
+	]
+	quest.5EB59B43781EB61D.quest_desc: [
+		"Use a Wrench to switch between input and output."
+		""
+		"Input is marked with a blue connection, and output is marked with an orange connection."
+		""
+		"When converting FE to TFMG energy, the voltage can be set up to 250V."
+	]
+	quest.6177966365A058A2.quest_desc: [
+		"Steel Vats are required in a 2x2x2 configuration and must be heated."
+		""
+		"Either Copper or Zinc electrodes can be used. Make sure to pump out the CO2."
+		""
+		"The electrode holders require a minimum of 25A to function, meaning each must be supplied with at least 3500V. This can be achieved using one max-speed Generator and a Transformer with a turn ratio of 4."
+	]
+	quest.6177966365A058A2.title: "Electrolysis"
+	quest.6D7CC9EA47063963.quest_desc: ["A lightweight and durable metal ingot used in crafting advanced machinery and components. Its strength and conductivity make it ideal for high-tech and industrial applications."]
+	quest.6D7CC9EA47063963.quest_subtitle: "Aluminium innit bruv"
+	quest.7111C78368C786CD.quest_desc: ["A partially crafted coil awaiting insulation or assembly. It’s an intermediate component used in producing fully functional electromagnetic devices and generators."]
+	quest.74FE4BDF6CEFAA42.quest_desc: ["A mechanical system that transfers and regulates rotational power between engines and machinery. It ensures optimal speed, torque, and efficiency across connected components."]
+	quest.776451A1A5F3B2FB.quest_desc: ["Place the Electric Gauge on a section of a circuit to measure various stats. Exact values can be viewed using Goggles, and the quantity being measured can be changed with the Wrench."]
+	quest.78019E2925B93446.quest_desc: ["A key mechanical component that compresses and channels energy within an engine. It’s essential for converting fuel or pressure into smooth, consistent rotational motion."]
+	quest.78C3192B690B7691.quest_desc: ["A high-performance component that compresses incoming air to boost engine power and efficiency. It enhances speed, output, and overall performance in advanced mechanical setups."]
+}

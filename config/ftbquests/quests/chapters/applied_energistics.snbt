@@ -2,12 +2,12 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "applied_energistics"
-	group: "0015B593B4889A40"
+	group: ""
 	icon: {
 		id: "ae2:singularity"
 	}
 	id: "49EA4A06D4508740"
-	order_index: 0
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{

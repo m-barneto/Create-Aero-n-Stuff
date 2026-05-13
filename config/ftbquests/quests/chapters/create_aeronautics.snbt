@@ -7,7 +7,7 @@
 		id: "offroad:large_tire"
 	}
 	id: "4E115E1260B9FA39"
-	order_index: 5
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{
@@ -33,16 +33,10 @@
 			dependencies: ["21355027240AAB0A"]
 			id: "51E22AFE9403C9E1"
 			rewards: [{
-				count: 3
-				id: "6B4FEA10A84492AB"
-				item: {
-					components: {
-						"ftbquests:missing_item": "create_new_age:overcharged_iron"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -57,13 +51,10 @@
 			dependencies: ["4D89B47FFF31585D"]
 			id: "095223210FCC48C3"
 			rewards: [{
-				count: 4
-				id: "0433141D179FEDB2"
-				item: {
-					count: 1
-					id: "create:deployer"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -79,15 +70,10 @@
 			dependencies: ["1E9E11F072665A05"]
 			id: "71A8D4B8F0EAFF90"
 			rewards: [{
-				id: "0B047C10D4250E4B"
-				item: {
-					components: {
-						"ftbquests:missing_item": "mysticalagriculture:slime_seeds"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -118,15 +104,10 @@
 			dependencies: ["4B574B802F83F725"]
 			id: "783C1961806EC8F6"
 			rewards: [{
-				id: "7F9B73902E8BB19A"
-				item: {
-					components: {
-						"ftbquests:missing_item": "mysticalagriculture:gold_seeds"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -183,15 +164,10 @@
 			icon_scale: 1.3d
 			id: "7097EFDECE9CDAF7"
 			rewards: [{
-				id: "511CD7EB2566481D"
-				item: {
-					components: {
-						"ftbquests:missing_item": "easy_mob_farm:mob_capture_card"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "octagon"
 			size: 1.3d
@@ -271,16 +247,10 @@
 			dependencies: ["71A8D4B8F0EAFF90"]
 			id: "7C91F7477216A2D2"
 			rewards: [{
-				count: 8
-				id: "4AE4DA3DB9962756"
-				item: {
-					components: {
-						"ftbquests:missing_item": "create_new_age:overcharged_diamond"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -295,15 +265,10 @@
 			dependencies: ["7C91F7477216A2D2"]
 			id: "4B574B802F83F725"
 			rewards: [{
-				id: "71E326DC6718661A"
-				item: {
-					components: {
-						"ftbquests:missing_item": "mysticalagriculture:coal_seeds"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -341,31 +306,12 @@
 		{
 			dependencies: ["1583C85390362BB4"]
 			id: "4C990203ACAAB823"
-			rewards: [
-				{
-					count: 64
-					id: "3FE4B2B72C92B465"
-					item: {
-						components: {
-							"ftbquests:missing_item": "mekanism:enriched_redstone"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "451BCA6B47C259A8"
-					item: {
-						components: {
-							"ftbquests:missing_item": "ars_nouveau:glyph_redstone_signal"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11AFA26ABCD2DB5E"
+				table_id: 2000574392533299735L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "4F1EAF9EB9793A59"

@@ -29,11 +29,10 @@
 	chapter.66F98B6CCBBBF2A2.title: "Create Crafts \\& Additions"
 	chapter.7332B6BB3E51839A.title: "Big Voltage"
 	chapter.78AA124AC9E370B1.title: "Mob Spawners"
-	chapter_group.0015B593B4889A40.title: "Technology"
-	chapter_group.181E781F1BAE7410.title: "Create"
+	chapter_group.181E781F1BAE7410.title: "Create Addons"
 	chapter_group.4A842940CEB7DFFB.title: "Create TFMG"
 	chapter_group.6398AB49C115030C.title: "CREATE"
-	file.0000000000000001.title: "Create Ultimate Selection 2"
+	file.0000000000000001.title: "Create: Aero n' Stuff"
 	quest.0000000080010000.quest_desc: ["Craft an **Acacia Cabinet** (or any wood type) for a dedicated food storage block on your farm or in your kitchen."]
 	quest.0000000080010000.title: "Food Storage"
 	quest.0000000080010003.quest_desc: ["Make a bowl meal like **Cabbage Rolls** or a **Beef Stew**. These full meals offer high saturation and are great for exploration."]
@@ -556,11 +555,12 @@
 		"The Value Settings Screen can be accessed from the side of the block, and can be used to change the order of the hands or switch to a 24-hour reading resembling the Clock item."
 	]
 	quest.17953D4234D44C01.quest_desc: [
-		"Place the drilling machine on the ore vein chunk you found and place a drill on it."
+		"Place the fluid extractor on the fluid vein chunk you found and right click a drill into it."
 		""
-		"The ore/fluid will come out in the output of the multiblock."
+		"The fluid will come out in the output of the multiblock."
 		""
-		"Fluid can be extracted in the copper pipe."
+		"Fluid can be extracted with a copper pipe and pump."
+		""
 		""
 		"The machine requires RPM to work."
 	]
@@ -2780,11 +2780,10 @@
 	quest.7F38E9C6DA5B99EA.quest_desc: ["The &4Flamethrower&r is a ranged weapon which uses &3Hydrogen&r gas as its fuel."]
 	quest.7F5D32DA7E8D094F.quest_desc: ["{ \"text\": \"Click Me!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"35639D4A6DDF6FF9\" } }"]
 	quest.7F64AD61416A9157.quest_desc: [
-		"Place the drilling machine on the ore vein chunk you found and place a drill on it."
+		"Place the drilling machine on the ore vein chunk you found and right click a drill into it."
 		""
-		"The ore/fluid will come out in the output of the multiblock."
+		"The ore will come out in the output of the multiblock."
 		""
-		"Fluid can be extracted in the copper pipe."
 		""
 		"The machine requires RPM to work."
 	]

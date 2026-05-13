@@ -1,0 +1,51 @@
+{
+	quest.06E2A9904675C5C2.quest_desc: ["Steel vat + heating is required. Made from naphtha, but these two products don't \"live\" for very long."]
+	quest.06E39E99E00A5283.quest_desc: [
+		"This requires a very precise redstone timing in order to extract the ethylene before it turns into plastic."
+		""
+		"Cooling fluid is mainly used for improving modular engine efficiency."
+		"Please consider if this is worth your time before trying to get some."
+	]
+	quest.0B7FFB9FF90F10CF.quest_subtitle: "Yummers"
+	quest.11D8E015814D44F8.quest_desc: ["Goes on top of the vat and takes different attachments. Requires rotational power."]
+	quest.1210C5B720AE249F.quest_subtitle: "Just crush some dirt i guess."
+	quest.13CAA74DEE1F21A3.quest_desc: ["A reinforced container designed to safely hold and process volatile or high-temperature substances. Its heat-resistant structure makes it ideal for chemical reactions, refining, and industrial production."]
+	quest.2239CC2E6B914090.quest_desc: ["A powered device that moves fluids through pipes using electrical energy. It provides precise and consistent flow control, perfect for automation systems and industrial machinery."]
+	quest.2951D84F8F0F389A.quest_desc: ["An electronic screen made up of individual light segments used to show numbers or simple symbols. Perfect for building clocks, counters, or digital readouts in advanced machinery and control panels."]
+	quest.2CD6597AE3312F20.quest_desc: ["Will form nearly instantly in the naphtha vat, so you can think of liquid plastic being a direct result of naphtha."]
+	quest.2DEF812916A51C34.quest_subtitle: "Found in the nether."
+	quest.2F74E955A2455025.quest_desc: [
+		"When electrical components are connected directly without any diodes they share the voltage between them. The more devices you add, the less current each one receives. In other words, don’t overload your line unless you like watching things fizzle out."
+		""
+		"Diodes, on the other hand (along with potentiometers and transformers), act as circuit splitters. Anything on the output side gets the full voltage all to itself clean, isolated, and ready for action."
+	]
+	quest.33FE53F9B5BA0001.quest_desc: ["A throwable grenade with a copper casing designed to deal area damage upon detonation. Its metal body makes it sturdy and slightly heavier, ideal for clearing groups of enemies or breaking through obstacles."]
+	quest.35296382603A6E78.quest_desc: ["A lightweight throwable explosive with a zinc casing that favors portability and quick deployment. Its lighter shell means slightly reduced raw blast power compared to heavier metal grenades, but it’s easier to carry and toss repeatedly—useful for fast skirmishes or clearing small groups of foes."]
+	quest.3E1695A1D5FA81AD.quest_desc: ["A signal device that controls movement with red, yellow, and green lights. It’s perfect for managing automated transport systems or adding realism to city and road builds."]
+	quest.44E8D5277063565A.quest_desc: ["A monitoring device that measures and displays the voltage within an electrical circuit. Useful for diagnosing power fluctuations and ensuring your systems run at optimal efficiency."]
+	quest.459AA2AD67CA6AAA.quest_desc: ["Mix aluminum and crimsite."]
+	quest.4F78375EDADAFEC2.quest_subtitle: "Don't forget your PPE"
+	quest.57FCBFBA8789F893.quest_subtitle: "Works underwater."
+	quest.5F68F1D8533B534F.quest_subtitle: "Right click the industrial mixer to install."
+	quest.637EBAB0500A2295.quest_desc: ["An incendiary grenade that triggers a high-temperature chemical reaction on impact, melting through metal and igniting nearby flammable materials. It deals persistent area damage and can disable machinery or break through reinforced structures, but use with caution—its intense heat affects friend and foe alike."]
+	quest.67F7FBDD9CC782F7.quest_desc: [
+		"There are three tiers of vats to work with:"
+		""
+		"Cast Iron"
+		"Steel"
+		"Fireproof"
+		""
+		"Each tier has its own limits some recipes will only run if you’re using a vat of a certain level or higher."
+		""
+		"Mixers and Centrifuges are simple they only need a single vat block to do their job. But for the heavy-duty setups like the Electrolyzer or Arc Furnace, you’ll need larger vats. The required minimum dimensions (LxWxH) will be specified when needed."
+		""
+		"Some processes demand heat and a single Blaze Burner won’t cut it. You’ll either need multiple burners or a superheated setup. Fireboxes act like permanently superheated Blaze Burners, perfect for the job."
+		""
+		"And here’s a neat trick: grab your wrench and take a peek inside the vat!"
+	]
+	quest.67F7FBDD9CC782F7.title: "Chemical Vat"
+	quest.68E50F7501B945BB.quest_desc: ["A lightweight, high-energy metal ingot prized for its excellent conductivity and use in advanced batteries and electronic components. Valued in high-tech crafting and power-storage applications where energy density and low weight matter."]
+	quest.6C9157A690AA5F3C.quest_subtitle: "Don't drink it."
+	quest.6FFC4582D3620F32.quest_desc: ["A simple control device that opens or closes an electrical circuit. It allows you to start, stop, or redirect power flow to machines, lights, and automated systems with precision."]
+	quest.7A4D01AF34BB7E0E.quest_subtitle: "Right click on the industrial mixer to install it."
+}

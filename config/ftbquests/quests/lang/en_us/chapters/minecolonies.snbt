@@ -1,0 +1,149 @@
+{
+	quest.00A3AD4BD4EE0FC7.quest_desc: ["The **Guard Tower** is your first line of defense, providing a safe elevated position for guards to patrol and attack hostile mobs (or players) within the colony borders."]
+	quest.00A3AD4BD4EE0FC7.title: "Build the Guard Tower"
+	quest.085F473094778DCD.quest_desc: ["The **Resource Scroll** is a valuable utility item that can be used to instantly summon needed resources from the warehouse, or to place requested items into the warehouse."]
+	quest.085F473094778DCD.title: "Utility: Resource Scroll"
+	quest.0B009391E3F76D6E.quest_desc: ["The **Fisherman Hut** provides a steady, hands-off source of fish. Place the hut over water and hire a Fisherman to keep your early food stocks filled."]
+	quest.0B009391E3F76D6E.title: "Fisherman Hut"
+	quest.0D6E099A1A242153.quest_desc: [
+		"The **Town Hall** is the heart of your colony, defining the colony boundaries and housing the Colony Control block."
+		"Place the Town Hall block inside the deployment boundary you set with the **Supply Deployer**."
+		"Use the **Block of Gold Scepter** to select the Town Hall block, choose a build style, and give it resources to start construction with the Builder."
+	]
+	quest.0D6E099A1A242153.title: "The Town Hall: Heart of the Colony"
+	quest.0EBB4E5195610A82.quest_desc: ["The **Sawmill** is an advanced wood production building that turns logs into planks, crafting items needed by the Builder, and can eventually craft advanced wood blocks."]
+	quest.0EBB4E5195610A82.title: "Advanced Wood: Sawmill"
+	quest.0F409DACBEB7BBF8.quest_desc: ["The **Supply Chest Deployer** offers a more robust start than the Camp, providing a larger initial chest and more resources for the Town Hall construction."]
+	quest.0F409DACBEB7BBF8.title: "Option: Supply Chest Deployer"
+	quest.120152510AD4B59A.quest_desc: ["The **Build Goggles** allow you to see the outline of buildings *before* they are placed, helping you perfectly plan your colony layout."]
+	quest.120152510AD4B59A.title: "Utility: Build Goggles"
+	quest.130E8FC7479E4271.quest_desc: ["The **Shepherd Hut** manages a herd of sheep for wool production. They require shears to operate."]
+	quest.130E8FC7479E4271.title: "Herder: Shepherd Hut"
+	quest.132AF80A62FFF98D.quest_desc: ["The **Tavern** is the hub for attracting new citizens. A higher level Tavern will draw new recruits more quickly. Ensure there is food in the system to encourage them to stay!"]
+	quest.132AF80A62FFF98D.title: "Build the Tavern: Recruit Citizens"
+	quest.14DA3DC7C0009A6A.quest_desc: ["The peak of colony population! **50** citizens is a massive achievement. Maintaining this population requires immense resource management and high-level buildings."]
+	quest.14DA3DC7C0009A6A.title: "Population Milestone: 50 Citizens"
+	quest.15B51FB56A64C303.quest_desc: ["The **University** is the primary building for training citizens into specialized roles, enabling high-level jobs like the Scholar, which can boost research speed and citizen quality."]
+	quest.15B51FB56A64C303.title: "The University: Advanced Training"
+	quest.15F03A5E7E14C022.quest_desc: ["The **Stonemason Hut** specializes in cutting, shaping, and crafting stone blocks and complex stone decorations needed for higher-tier buildings and specific schematics."]
+	quest.15F03A5E7E14C022.title: "Advanced Stone: Stonemason"
+	quest.19D03831EB5EED02.quest_desc: ["The **Blacksmith** is responsible for crafting all metal tools, weapons, and armor required by your citizens and military forces."]
+	quest.19D03831EB5EED02.title: "Production: Blacksmith Hut"
+	quest.1BB571557F74D3A1.quest_desc: [
+		"MineColonies allows you to build a thriving player-run civilization. You recruit NPCs, assign them jobs, and manage all resources needed for growth."
+		""
+		"The journey starts by obtaining a **Supply Camp** or **Supply Chest** deployer."
+	]
+	quest.1BB571557F74D3A1.title: "Welcome to MineColonies"
+	quest.1C16AEE8E29FB5A0.quest_desc: ["The **Rally Banner** is a military utility block used to summon all guards to a specific location for defense or a planned attack."]
+	quest.1C16AEE8E29FB5A0.title: "Military: Rally Banner"
+	quest.1E1870FAD295DEDE.quest_desc: ["The **Supply Camp Deployer** sets up a temporary construction site with a chest for the initial Town Hall build. This is the simple start for a new colony."]
+	quest.1E1870FAD295DEDE.title: "Option: Supply Camp Deployer"
+	quest.201CB898A399F1D5.quest_desc: ["The **Swineherder Hut** manages a herd of pigs for pork and leather production."]
+	quest.201CB898A399F1D5.title: "Herder: Swineherder Hut"
+	quest.206159A3C7A78447.quest_desc: ["The **Mystical Site** opens the door to high-level magic-based production and resources. An excellent long-term goal for advanced colonies."]
+	quest.206159A3C7A78447.title: "Production: Mystical Site"
+	quest.22F4C38E79DEFF1E.quest_desc: ["The **Town Hall Block** must be placed within the claimed territory to establish the official center of your colony. Choose a safe spot, as this block cannot be moved once placed!"]
+	quest.22F4C38E79DEFF1E.title: "Place the Town Hall Block"
+	quest.23012F6C4C522CEB.quest_desc: ["The **Lumberjack Hut** is your primary source of wood. Recruit a Lumberjack and they will chop down trees in their designated work area (set with the Build Tool)."]
+	quest.23012F6C4C522CEB.title: "Lumberjack Hut"
+	quest.2B01B964638DFBD1.quest_desc: ["The **Crusher Hut** is a basic processing unit that breaks down stone, cobblestone, and other blocks into raw resources for the Builder to use."]
+	quest.2B01B964638DFBD1.title: "Production: Crusher Hut"
+	quest.33058894ACD9CB06.quest_desc: ["The **Graveyard** manages citizen mortality. If a citizen dies, they can be resurrected here using a specific resource (check the building GUI). It also employs the **Undertaker**."]
+	quest.33058894ACD9CB06.title: "Support: Graveyard"
+	quest.342A1EF584823D2C.quest_desc: ["The **Sawmill** and other workshops allow the Worker to craft items for the Builder. Ensure your Sawmill has the recipe for Torches to keep the colony safe at night."]
+	quest.342A1EF584823D2C.title: "Torch Production"
+	quest.360E9E02A494217C.quest_desc: ["The **Barracks Tower** is an upgraded, high-defense version of the guard tower. Guards stationed here are more effective and have a longer range of vision."]
+	quest.360E9E02A494217C.title: "Military: Barracks Tower"
+	quest.37BE190EE466D697.quest_desc: ["Upgrading the **Town Hall to Level 5** is the final stage of the original Town Hall structure, granting maximum influence and unlocking all available base features."]
+	quest.37BE190EE466D697.title: "Town Hall Level 5 (MAX)"
+	quest.37E43341FA234E84.quest_desc: ["The **Florist Hut** focuses on growing and collecting flowers and tall grass, producing dyes and other decorative resources."]
+	quest.37E43341FA234E84.title: "Production: Florist Hut"
+	quest.3AE1C3290500638F.quest_desc: ["Your colony has grown to a population of **10** citizens! You will need to build more residences and ensure a steady food supply to keep growing."]
+	quest.3AE1C3290500638F.title: "Population Milestone: 10 Citizens"
+	quest.3B40A769EDB26EA2.quest_desc: ["The **Postbox** and **Stash** blocks are essential for the **Deliveryman** to properly manage and move resources around the colony."]
+	quest.3B40A769EDB26EA2.title: "Craft Logistics Blocks"
+	quest.3B91163DE3DA885C.quest_desc: ["The **Nether Worker Hut** is key for automating the collection of essential Nether-only resources like Netherrack and Quartz, allowing your colony to grow into the mid-game."]
+	quest.3B91163DE3DA885C.title: "Production: Nether Worker Hut"
+	quest.430475E11D259B74.quest_desc: ["The **Stone Smeltery** processes stone materials like cobblestone into smooth stone and various resource blocks efficiently."]
+	quest.430475E11D259B74.title: "Advanced Stone: Stone Smeltery"
+	quest.48AC8545D66B71B7.quest_desc: ["Upgrading the **Builder's Hut** grants the Builder access to more complex schematics (larger buildings) and increases their maximum skill level."]
+	quest.48AC8545D66B71B7.title: "Builder Hut Upgrade"
+	quest.490628CE108A833A.quest_desc: ["The **Deliveryman** is the key logistics worker, transporting goods between the Warehouse and other buildings (like the Builder's Chests). Hire one to greatly speed up building projects!"]
+	quest.490628CE108A833A.title: "The Deliveryman"
+	quest.493B9FC17C3CF3CA.quest_desc: ["The **Rabbit Hutch** manages rabbits for rabbit meat and rabbit hide."]
+	quest.493B9FC17C3CF3CA.title: "Herder: Rabbit Hutch"
+	quest.49793060345FB28C.quest_desc: ["The **Cowboy Hut** requires a herd of cows and manages them for milk, leather, and beef production."]
+	quest.49793060345FB28C.title: "Herder: Cowboy Hut"
+	quest.4D61009737D94BDA.quest_desc: ["A major milestone! Your colony now hosts **25** thriving citizens. Logistics, food, and military defense are becoming critically important at this scale."]
+	quest.4D61009737D94BDA.title: "Population Milestone: 25 Citizens"
+	quest.4D9DC4973FD340E5.quest_desc: ["The **Combat Academy** is where your Guards practice and upgrade their melee fighting skills, making them more effective defenders against raiders and mobs."]
+	quest.4D9DC4973FD340E5.title: "Military: Combat Academy"
+	quest.4DD7E2BD8508A117.quest_desc: ["Congratulations, you have mastered all the Herder jobs! Your colony now manages every animal type, providing a stable source of food, leather, wool, and more."]
+	quest.4DD7E2BD8508A117.title: "All Herders Established"
+	quest.52453550206EC770.quest_desc: ["The **Dyer Hut** automates the production of various dyes, which are necessary for cosmetic changes to buildings, uniforms, and specific recipes."]
+	quest.52453550206EC770.title: "Production: Dyer Hut"
+	quest.537A8F99CC3F525D.quest_desc: ["This milestone tracks when your armed forces reach a size of **8** guards. This provides a respectable defense for a growing colony."]
+	quest.537A8F99CC3F525D.title: "Military Strength: 8 Guards"
+	quest.53F8923B85A8A9CC.quest_desc: ["This milestone tracks when your armed forces reach a size of **80** guards. This is considered maximum strength, enabling complete colony defense and large-scale attack preparation."]
+	quest.53F8923B85A8A9CC.title: "Military Strength: 80 Guards"
+	quest.57C889EC980D33D9.quest_desc: ["The **Farmer Hut** automatically plants, tends, and harvests crops within its boundary. They require a hoe and seeds/crops to start work."]
+	quest.57C889EC980D33D9.title: "Farmer Hut"
+	quest.583A7AA84FEC027F.quest_desc: [
+		"The **Builder's Hut** is the most important building. Hire a Builder and place the schematic, then stock the Builder's chest with the required materials."
+		"The Builder will automatically construct the Town Hall and other buildings you place."
+	]
+	quest.583A7AA84FEC027F.title: "Build the Builder's Hut"
+	quest.5A11A2FC20E5CE2A.quest_desc: ["The **Barracks** is the military hub, allowing you to train, equip, and manage your guards. Build this to gain full control over your military forces."]
+	quest.5A11A2FC20E5CE2A.title: "Build the Barracks"
+	quest.5F5DB67F6A470C73.quest_desc: ["This milestone tracks when your armed forces reach a size of **30** guards, enabling strong defense and potential expeditions."]
+	quest.5F5DB67F6A470C73.title: "Military Strength: 30 Guards"
+	quest.5FC01763770A062E.quest_desc: ["This advancement triggers upon completing the building of the Town Hall structure after it was initially placed as the control block. This is a crucial milestone!"]
+	quest.5FC01763770A062E.title: "The Town Hall is Complete"
+	quest.647F95EED59927B7.quest_desc: ["The **Cook Hut** takes raw food (from Farmers, Fishermen, etc.) and processes it into edible, health-restoring meals for the citizens. Essential for growing the population."]
+	quest.647F95EED59927B7.title: "Cook Hut"
+	quest.65D23E7683812E26.quest_desc: ["Citizens are not picky. They will consume any edible item you place in storage, even **Rotten Flesh**! This is helpful in emergencies or automating early food supply."]
+	quest.65D23E7683812E26.title: "Citizens Eat Anything!"
+	quest.67E8B8DCFC93F832.quest_desc: ["The **Warehouse** is vital for logistics. It stores all produced resources and allows the **Deliveryman** to deliver materials to Builders. You must build this early!"]
+	quest.67E8B8DCFC93F832.title: "The Warehouse: Storage Hub"
+	quest.68500900087F92BC.quest_desc: ["The **Sawmill** can be programmed to craft specific blocks needed for your colony. This advancement confirms you have added the recipe for a door, a common building component."]
+	quest.68500900087F92BC.title: "Sawmill Production: Doors"
+	quest.68FC81E133443E76.quest_desc: ["The **Library** is where the **Scholar** works, researching technology and increasing the max skill level of all workers. Essential for high-tier colony progress."]
+	quest.68FC81E133443E76.title: "Advanced Research: Library"
+	quest.696BDC29ACCBBE29.quest_desc: ["The **Undertaker Totem** is a powerful late-game upgrade to the Graveyard, allowing for more efficient resurrection and burial services."]
+	quest.696BDC29ACCBBE29.title: "Endgame: Undertaker Totem"
+	quest.69EAF1072D492F1A.quest_desc: ["The **Ancient Tome** is a rare item that can be found via exploration or occasionally traded for. It is required for upgrading high-tier buildings."]
+	quest.69EAF1072D492F1A.title: "Resource: Ancient Tome"
+	quest.6A60B76053393288.quest_desc: ["The **Smeltery Hut** processes raw ores (like iron) into ingots for use in other production chains like the Blacksmith."]
+	quest.6A60B76053393288.title: "Advanced Metal: Smeltery Hut"
+	quest.6B0CE8AD86991E28.quest_desc: ["The **Composter Hut** turns organic waste into **Bone Meal**, which is essential for speeding up farm growth and other related production buildings."]
+	quest.6B0CE8AD86991E28.title: "Production: Composter Hut"
+	quest.6B26495A9E7D77FC.quest_desc: ["This is an early population goal! You need at least **5** citizens to begin running basic jobs and making the colony self-sufficient."]
+	quest.6B26495A9E7D77FC.title: "Population Milestone: 5 Citizens"
+	quest.6BB0C51EE8CA5966.quest_desc: ["The **Miner Hut** automatically digs and collects resources in a deep mine shaft (set the boundaries). Miners will require tools and torches to work safely."]
+	quest.6BB0C51EE8CA5966.title: "Miner Hut"
+	quest.6D56AD1BEC644A10.quest_desc: ["The **Archery** range trains your guards in ranged combat, allowing them to use bows and crossbows more efficiently from their Guard Towers."]
+	quest.6D56AD1BEC644A10.title: "Military: Archery Range"
+	quest.6EEA012FA11C7C08.quest_desc: ["You must first claim the land your colony will occupy. Craft and use the **Supply Deployer** to place a temporary supply chest and claim your territory. Be careful of mobs!"]
+	quest.6EEA012FA11C7C08.title: "Claim Your Territory"
+	quest.71FCF06A98CC66D7.quest_desc: ["The **Clipboard** is a useful tool that shows the building being constructed in the selected Builder's Hut, and the resources it currently needs."]
+	quest.71FCF06A98CC66D7.title: "Utility: Clipboard"
+	quest.72C749AD9F1C634E.quest_desc: ["The **Citizen Advancement** triggers upon recruiting your very first citizen! This usually happens automatically once the Town Hall and a residential building are complete."]
+	quest.72C749AD9F1C634E.title: "First Citizen Recruited"
+	quest.743D7D9204915A13.quest_desc: ["When a citizen dies, they leave behind a grave. Another citizen (the Undertaker) will travel to the grave to mourn and bury the deceased. This advancement triggers upon the first burial."]
+	quest.743D7D9204915A13.title: "Citizen Burial"
+	quest.74C114D0C0D4D374.quest_desc: ["The **Hospital** heals sick or injured citizens, preventing deaths and ensuring your workforce remains healthy and productive."]
+	quest.74C114D0C0D4D374.title: "Support: Hospital"
+	quest.75599A9909C7A8C8.quest_desc: [
+		"Your citizens must eat to survive. Place food, especially bread, apples, or complex meals, in the **Town Hall** or **Warehouse** for distribution."
+		"This advancement confirms your first citizen has eaten and is happy."
+	]
+	quest.75599A9909C7A8C8.title: "First Meal Consumed"
+	quest.7870800C28A7E199.quest_desc: ["The **Chicken Herder Hut** manages a flock of chickens for eggs, feathers, and chicken meat."]
+	quest.7870800C28A7E199.title: "Herder: Chicken Herder Hut"
+	quest.7B5E2CD676A1A1C4.quest_desc: ["The **Baker Hut** is an early food processor that turns wheat into bread, a good staple food source for your growing population."]
+	quest.7B5E2CD676A1A1C4.title: "Production: Baker Hut"
+	task.0D31FB2D2AF9C5F2.title: "Place the Town Hall Block"
+	task.69C59B97E310195D.title: "Claim Colony Territory"
+	task.7BE92C777F0CDFCE.title: "Read the Introduction"
+}

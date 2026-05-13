@@ -3,12 +3,12 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "create"
-	group: "181E781F1BAE7410"
+	group: ""
 	icon: {
 		id: "create:large_cogwheel"
 	}
 	id: "5C3FF9D1ECAC4860"
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{

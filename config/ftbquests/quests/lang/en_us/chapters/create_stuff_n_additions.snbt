@@ -1,0 +1,36 @@
+{
+	quest.0D158BAE5A38798A.quest_desc: ["Allows the player to fly, move and swim faster. Works with water"]
+	quest.16665DE6F0921C26.quest_desc: ["A powerful kinetic generator that converts heat into rotational energy. By harnessing temperature differences, it provides a steady power source for your machines and automation systems."]
+	quest.191A2F855396BDCD.quest_desc: ["Automatically refills gadgets and armor that use fuel."]
+	quest.22E01FE041DE9C54.quest_desc: ["A compact power source that transforms water pressure into rotational energy. It provides smooth and consistent motion, ideal for efficiently running mechanical systems."]
+	quest.2580602D7B567F11.quest_desc: ["A reinforced handle crafted for advanced tools, offering improved grip, durability, and performance. Essential for creating high-quality mechanical instruments and machinery parts."]
+	quest.2A6ECCE28B9C64FB.quest_desc: ["An aerial brass companion that follows the player if they hava a controller."]
+	quest.2B3A70E34CB0CE21.quest_desc: ["Automatically refills gadgets and armor that use fuel."]
+	quest.331934749C1DE9A0.quest_desc: ["A mechanical component used for mixing and processing materials. It’s essential in crafting setups where ingredients need to be blended or stirred using rotational energy."]
+	quest.3B73F2EBCCD1884C.quest_desc: ["Automatically refills gadgets and armor that use water."]
+	quest.41A3DDA294728106.quest_desc: [
+		"Create Stuff 'N Additions is a mod that uses the resources of Create to offer a new set of equipment, tools and gadget! "
+		""
+		"Equipments that increase your physical abilities (Your Strength or Mining Speed) but also give you new ways to move like floating, bouncing and even flying! Depending on your type of equipment (brass, andesite or copper) you will need different fuels such as steam (using water and fuel), heat energy (using fuel) or hydraulic energy (using water)! "
+		""
+		"This mod also adds a lot of recipes that make certain Minecraft items (Chainmail Armor, Coral, Netherrack, Crying Obsidian and Magma Cream...) craftable with the new ways added by Create such as haunting and filling!"
+	]
+	quest.421EA2CE61003DA1.quest_desc: ["Allows the player to fly, move and swim faster. Works with fuel."]
+	quest.45CEF843FA33853F.quest_desc: ["You can grab and move blocks and launch them into the air!"]
+	quest.4905CD63121F13EA.quest_desc: ["Automatically refills gadgets and armor that use fuel."]
+	quest.4A961ADDC8054AA1.quest_desc: ["A magnetic device that attracts nearby items toward it using rotational energy. Perfect for automation setups where item collection needs to be fast and efficient."]
+	quest.4F2F6E31C38DA17F.quest_desc: ["Automatically refills gadgets and armor that use water."]
+	quest.5243675B5E7C5618.quest_desc: ["A grappling \"whisk\" allows you to grapple to most surfaces and sling you across terrain! AKA spiderman style."]
+	quest.52DA19C0A068BAD8.quest_desc: ["Can destroy a 3x3 area works with fuel(coal) and water."]
+	quest.53DCD54202753184.quest_desc: ["A durable drill component made of brass, designed to enhance mining efficiency and precision. Ideal for upgrading drills to achieve smoother and faster block breaking."]
+	quest.66C3C169307A8025.quest_desc: ["Allows the player to fly, move and swim faster. Works with water"]
+	quest.68331DDD9F01BDC5.quest_desc: [
+		"Works with fuel."
+		"If you have fuel you can burn anything!!!"
+	]
+	quest.6B20F8F08E5F3848.quest_desc: ["A kinetic generator that converts heat and water into rotational energy. It’s a reliable way to power your machinery and automation systems with steady output."]
+	quest.77C016A83AD73399.quest_desc: ["Allows the player to controll a Brass Drone"]
+	quest.794ED2661B8E4621.quest_desc: ["Allows the player to fly, move and swim faster. Works with water and fuel."]
+	quest.79E01F6906DA951A.quest_desc: ["Automatically refills gadgets and armor that use water."]
+	task.7801ADA863C2CC13.title: "Create Stuff 'N Additions"
+}

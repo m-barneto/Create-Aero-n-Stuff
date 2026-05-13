@@ -1,0 +1,35 @@
+{
+	quest.00654F576522DDCA.quest_desc: [
+		"A gearbox with shafts on all 6 sides."
+		"Top and bottom spin at half speed."
+	]
+	quest.0221FE72F998600E.quest_subtitle: "A Create mod add-on adding quality-of-life blocks that you wish existed in Create."
+	quest.1A61ABEC34369F47.quest_desc: ["A gearshift that changes rotation direction unless powered."]
+	quest.1D197B1919452187.quest_desc: ["A compact Redstone Link that adds wireless redstone to buttons, levers, and linked levers."]
+	quest.1E01AC22D5903AD1.quest_desc: ["Hand cranks with a cogwheel installed."]
+	quest.261ABBDC3DABD8B3.quest_desc: ["A clutch that is only coupled if the input spins in the correct direction as configured."]
+	quest.2ADDA74C73C08DB2.quest_desc: ["A gearbox where the rotation direction of all 4 sides are independently configurable."]
+	quest.2AF85A5EE9A8CCBA.quest_desc: ["A clutch that is only coupled if the input RPM is faster than a configurable threshold."]
+	quest.2F6B432512FA2A65.quest_desc: ["Attach to any inventory to expand its surface area. Great for access in tight spaces and smart setups with threshold switches."]
+	quest.30D6BFA1A3B6B205.quest_desc: ["A gearbox where the rotation direction of all 4 sides are independently configurable."]
+	quest.35F24F6E403AADA1.quest_desc: ["A gearbox with shafts on all 6 sides. Conceptually uses the same internal mechanism as Parallel Gearbox, so top and bottom spins at half speed."]
+	quest.4A47E558AD90EB64.quest_desc: ["Provides an interface to access two inventories simultaneously. Also comes with filter slots to quickly sort incoming items."]
+	quest.4EC20D5D0EEC1DF7.quest_desc: [
+		""
+		"{ \"text\": \"Click Me!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3617DE87C4E1BCB9\" } }"
+	]
+	quest.4EC499B88FBFA01C.quest_desc: ["Stores kinetic stress for later use. Retains charge in item form to enable long-distance energy transport. Battery capacity, RPM at discharge and stress impact values are all configurable."]
+	quest.54589F10802DFE16.quest_desc: ["A clutch that is uncoupled unless powered."]
+	quest.63B4B83F528E6AD6.quest_desc: ["{ \"text\": \"Click Me!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4CFE8B1C53B429E9\" } }"]
+	quest.63E8F78EEA3063F7.quest_desc: ["{ \"text\": \"Click Me!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"24DDED464AE48E05\" } }"]
+	quest.6832CFEAFA7922E8.quest_desc: ["A device that produces immense stress when powered, halting the network by overstressing it."]
+	quest.69816C16E81355E8.quest_desc: ["A clutch that uncouples after a set delay when the network is overstressed."]
+	quest.6B7188472F6ED6AF.quest_desc: ["Allow redstone links to match any frequency for the slot it is placed in."]
+	quest.6B8966D7EA9BB5FB.quest_desc: ["Hand cranks with a cogwheel installed."]
+	quest.6DE8ACA4F08C420E.quest_desc: ["Transfer stress capacity from one network to another while keeping the networks separate. Guarantees that the source network will not be affected when the destination network is overstressed."]
+	quest.6FE2FE40C2F60183.quest_desc: ["Relays rotation in two directions independently."]
+	quest.7AA7094E591A373B.quest_desc: ["A gearbox with all 4 sides spinning in the same direction."]
+	quest.7EB1BE897B2B8C1A.quest_desc: ["A mechanical component that redirects rotational force vertically while keeping the same rotational direction. Perfect for compact contraptions where space is limited and precise gear alignment is essential."]
+	quest.7F5D32DA7E8D094F.quest_desc: ["{ \"text\": \"Click Me!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"35639D4A6DDF6FF9\" } }"]
+	task.708C1FEDF64B2466.title: "Create Connected"
+}

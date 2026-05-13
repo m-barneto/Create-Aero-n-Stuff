@@ -1,0 +1,50 @@
+{
+	quest.01E0820861BE3E93.quest_desc: ["The ultimate drilling tool, forged from powerful Netherite for unmatched strength and endurance. It tears through the hardest blocks with ease, offering top-tier performance for advanced automation and late-game mining setups."]
+	quest.0E547F2503A07ACE.quest_desc: ["A sturdy mechanical drill made of iron, designed for efficient mining and material processing. It delivers reliable power and durability, perfect for automating excavation tasks and breaking tough blocks with ease."]
+	quest.140EA40A9ABA65DB.quest_desc: ["An upgraded, high-performance drill built for maximum efficiency and durability. Its diamond-tipped head cuts through even the toughest materials, making it perfect for advanced automation and large-scale mining operations."]
+	quest.17953D4234D44C01.quest_desc: [
+		"Place the fluid extractor on the fluid vein chunk you found and right click a drill into it."
+		""
+		"The fluid will come out in the output of the multiblock."
+		""
+		"Fluid can be extracted with a copper pipe and pump."
+		""
+		""
+		"The machine requires RPM to work."
+	]
+	quest.17953D4234D44C01.quest_subtitle: ""
+	quest.17953D4234D44C01.title: ""
+	quest.357E50BEAF1E8F74.quest_desc: ["A special book that stores information about discovered ore veins. It allows you to track and locate valuable resources easily, making mining and excavation more efficient and organized."]
+	quest.3F249BE37B1BB214.quest_desc: [
+		"This mod adds hidden infinite ore veins to your world. You can extract these ores using machines. This mod requires Create"
+		""
+		"Features:"
+		""
+		"Adds hidden ore veins and fluid reservoirs that has a random chance to spawn in a chunk. Only one ore vein can exist in each chunk"
+		""
+		"The veins are infinite"
+		""
+		"Harvest the ores using Drilling Machine, and Fluid Extractor"
+		""
+		"The machines are powered by Rotational Force"
+		""
+		"Use the 'Ore Vein Finder' item to find ore veins and fluid reservoirs"
+	]
+	quest.60844520BAC54952.quest_desc: [
+		"Place the sample drill and add a oxygen backtank to it then activate the sample drill."
+		""
+		"Then right click it with the Atlas to get the info about the ore vein."
+	]
+	quest.629BCF8065DFD8B1.quest_subtitle: "Use it to find a Chunk with a ore vein"
+	quest.7F64AD61416A9157.quest_desc: [
+		"Place the drilling machine on the ore vein chunk you found and right click a drill into it."
+		""
+		"The ore will come out in the output of the multiblock."
+		""
+		""
+		"The machine requires RPM to work."
+	]
+	quest.7F64AD61416A9157.quest_subtitle: ""
+	quest.7F64AD61416A9157.title: ""
+	task.26344D2831BDA0D3.title: "Create Ore Excavation"
+}

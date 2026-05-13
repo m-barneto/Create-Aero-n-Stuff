@@ -18,39 +18,39 @@ hash = "b9c3e375caddb13a2ff50e5a92a69ee8f101c0e05adcc6866955005414c3cce8"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "5dcc2bf34f4abeb9a8541e300d178e9769fbd9796cc4a23fd81b8e9a2f0d1f6f"
+hash = "e06032b1e9b59d626dc5d820bf3fedda4c58926cce861f02da13c83f3e7ca166"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/applied_energistics.snbt"
-hash = "7a6650e062fb522b2a037fd4de32cf7c32d2a109349e653269d4025958fa6bec"
+hash = "7d15588090d6c6e1f6abc359d1db05401a4c01a04605a38843c88ba462e5ea84"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "8920320239602d34fe24a7608db513d6ca8bbba9259921b05f2225d37ec943ed"
+hash = "4951c27c1f3e455627281875ad569eb12b8459b7fe9955d0e42721f51332e00a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_aeronautics.snbt"
-hash = "39182a50d9ca6bc0b5bbe1784f5d9175f7b7bb924429261029b5911d839e4398"
+hash = "b84c2383071b8ad61a647f64044f2f58e5769223b0e62b1b7956fcd6d0b32d45"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_aeronautics_2.snbt"
-hash = "da1c344d6fc1e7f7c5724f5e18d02d808439a054cc465997462a86418bb5dbe8"
+hash = "3cee7adf23f433e4121580336a3fc74eefbf5fd6e564db38c75df7833dea1336"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_connected.snbt"
-hash = "184dab25fea1642abb821c08291927af9bc717d2e801fabe1c0a2dec2ac9b6a7"
+hash = "26ae23ced42d7690d71f8a7a8c9559ee05c2a8168d7a07be926be7452f6847a4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_crafts__additions.snbt"
-hash = "4db656d39aa5712d194e7d43b32b116c058320957ddae4abdeb19b872e7c151e"
+hash = "103ceb457f6d0fe049ddcd174b2bd76b24beebc6e2019c74a1a94bc0062a03be"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_ore_excavation.snbt"
-hash = "f47b0f50d761d0bea686ebd820cb12924f5bb087e9cad1b363068066fa3536f7"
+hash = "c4a1ce4c43e127eea3d9e77fd4e73eb715140c4f9f82e3eddc5593bec8109297"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_stuff_n_additions.snbt"
-hash = "dc0d615f386b277158c02329a759df28acee24431e73f1ddd689d7b7f91324fd"
+hash = "9d1a7b37ab601e55a5a3e2c100f36d63f4c3ce00da17410d5fb3ef20b6141e61"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/minecolonies.snbt"
@@ -70,27 +70,95 @@ hash = "0a889da30d7106fbc75802406a4152d0b6adc4e1742684d7908438aeb931af22"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "e6f05d215c7180f063bae0e67e69d2ff4b2992a350710f73e9f6cbc444283daf"
+hash = "4cf3f5aa424f5ce04d77ed57a97969511ba4a080dbdfb34007e55a6960a5ce32"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "1151eaaae4546773bcfcdcdcdbf4e55eea3ae8c03826dba57159e92fcfcf1b49"
+hash = "4849e052dc9efa6c5ab371e20cde96125514563c851c809b36ff0d59073b074a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapter.snbt"
+hash = "82be6c6d64bd0cf743e020b6a3fc9922e2be6f8c51d3c78efd0e6e6ac2f065a2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapter_group.snbt"
+hash = "7d3cee601d763d8f904d13a753acc4c0dba8013ff76276c00ba23009215f4fd2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/7create_aeronautics_2.snbt"
+hash = "4483f981d9eedb941009b9d6daf9642440b9fa95bd4e3dbe9b1bf818a487d3e7"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/applied_energistics.snbt"
+hash = "71afc1e78b6ff8252dbb7caa505cb71303020e469ad9fa20fe4d7369cb66532e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/create.snbt"
+hash = "dc4c72df15058695d845cd1b0b2edc8bf0e0f2826bfd28e01d5205e54c430feb"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/create_aeronautics.snbt"
+hash = "e51cda24d97053d44bea5395db15c1d38c21c26ee985ba92927143d742209da5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/create_aeronautics_2.snbt"
+hash = "4483f981d9eedb941009b9d6daf9642440b9fa95bd4e3dbe9b1bf818a487d3e7"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/create_connected.snbt"
+hash = "cdf9e6eeaf57e61cd25a5be19bc187c0d617e4874a63e2bd6173d4d9e7491089"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/create_crafts__additions.snbt"
+hash = "0644ccae495db9817bc70e0c9b6e8b632bfda19f20ef3d786c1191b356bba212"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/create_ore_excavation.snbt"
+hash = "5bef8267a91698f0fa0231b853605a57dbfc296448c5a2d5b0269e0aad2f08be"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/create_stuff_n_additions.snbt"
+hash = "f963c11240371f928185f574d91db34eea99fb2fc035ebc4ea0e74ce65df4f57"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/minecolonies.snbt"
+hash = "8d87f19a45dbfee38579e3d126b0633d0b87bb3d06c89cb1c7924c559d72bbad"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/tfmg_chemistry.snbt"
+hash = "f855d8d1adf343117599ea7eb214fa32bb778ab974e5c9a5523463d44f6db318"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/tfmg_electricity.snbt"
+hash = "6676a2fcab379605e1a3cf732fa51354112fb6a6ebd20f18c1c05dbaac420aa5"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/tfmg_steel.snbt"
+hash = "4465ee7cb004451faadc20ca00514cf83bfc166f5b750cbfaf8ee50d5919b390"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/file.snbt"
+hash = "feafbc40327bd28ea4f71105b99468a0e72c53c1237fa9ec90ec3acbf538094f"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/reward_table.snbt"
+hash = "66f084b0b215ac7a74b7fe1a1ffc9c4f7b3acd23081b135ff8c482785993d5a8"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/1BC377CF7DB0B217.snbt"
-hash = "588b1f17fb0660d95293f083491254c0b97a472516ea98bdb4e23f1ac36b6a2f"
+hash = "7b00c41b70ef69c7a55ae3a8f0c14204cccd9f046089941c3857f6e251cf2bf0"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/65F5978C49103D7A.snbt"
-hash = "f6cfa2b4ac37c9315cc89b03205ab6873e656f4612e9436b58e6955d450f2b71"
+hash = "7c6bdc85643249835be08527da22c6d65f865f2dabf7e02cccdd6705335be874"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/7648BE1B9ACA5A64.snbt"
-hash = "6c1e0aaa7b100b8b7cc00df4dcd64eb7b50b45a7f8dc5ebfa9441efbe33b70e0"
+hash = "0edbb150887546eeb004d142e26a9c564f3076368ee8012f7c733b3c9b61df82"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/minecolonies_common.snbt"
-hash = "f82991082419132d8e3e69e8097143278021768c54639ae8ac791b7b31595765"
+hash = "7cf2898f91439e4da2bbaf0f00802cb6944e948b380d3817a3a1ae8d0d13dec3"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -110,11 +178,147 @@ hash = "256e8963bd2e58e8fa99c31adaa70d1ead97f5f4285e22221c7eca560784a327"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "3e791ede34ed5125b9e012de381bdd4b145235efee60bcefe9c0f29bc1223204"
+hash = "0e50c2ceabfce404c096a4f74829cd455cf3c390d6d9880be2910092d0703d0a"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
 hash = "f9a87e72967d8bc572a3665d05e7945306233351e85b7a33dc9b22fad08ede63"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "2f1f762bcc5575488d1346c0b676eb4e5fe2a7185f6ec8c5b7d00461647b21aa"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/lang/en_us.json"
+hash = "aeeb4fc6ea2e365a3ede0ea7a58b6694a9eeb028ab337b164215c30216162c98"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_advanced_card.json"
+hash = "4f0ca5c69fc18d4d3fdbeeae299f2028e9ecca806ebdb2f8507ea6bc494835ba"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_basic_card.json"
+hash = "5a86a033cc813e5a185b2968c670658a55bb0afd1afac38c96243b19417661ce"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_blank_pattern.json"
+hash = "a76d72b07a9815f10e7dc7c250c4ceeed4e905af6c783b76efc7841d5c20d73c"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_calculation_processor.json"
+hash = "3a2d85e36d412483c183f0e216a2639eb973b94ffea8487451d02dea67f3b5a0"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_cell_component_16k.json"
+hash = "99539f0c3428fc2b1389ef0b8caf2567d90dfd7796bcd81fef328211857cb4d1"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_cell_component_1k.json"
+hash = "3be89ee79b1be435b79c77afb960f3a128667840ff342cd529dbe5dc5d8e1e74"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_cell_component_256k.json"
+hash = "f17c171e8a7d5305b8178cf86603d77b97d693b94cdacb93bec4257377aa8bca"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_cell_component_4k.json"
+hash = "44aea672ba9e3168f4a6b8f212887d6163efefc563d97254efcfb59daede01e1"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_cell_component_64k.json"
+hash = "f17c171e8a7d5305b8178cf86603d77b97d693b94cdacb93bec4257377aa8bca"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_engineering_processor.json"
+hash = "ebf24b63b70922ac359383d4f4a59af32a84818cd48fc7e86538fbf822c0155d"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_fluid_cell_housing.json"
+hash = "64b8da5735a0288fcbb074344b5abf6505dba675d24fb490fc6303f32937b7eb"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_item_cell_housing.json"
+hash = "9158cbcadd312101480d709fa4107016a0a2972c6de562cf75369a5f412391ce"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_logic_processor.json"
+hash = "bc341a0e14e842a8cd81b8c31b9f42e28f34013fca801cd1f3ea0797e2c9d405"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_spatial_cell_component_128.json"
+hash = "2c89bdcd31629cafb2ecd20434ea291350d6d8fd1d5230e3f0b4d538fcf2f54d"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_spatial_cell_component_16.json"
+hash = "cf1eac212e01e55345039fcbf4ebd433f2a7636d0179d199429d28359980e276"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/models/item/incomplete_spatial_cell_component_2.json"
+hash = "40e82a92e131c38ac048c89b41ceb1d176641a6e6a9f849c57cd78a74f485ab8"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_advanced_card.png"
+hash = "f559791a92b45bb56ede4780e8b1676e92c64a690b388dfa4dc886cef22c4ccb"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_basic_card.png"
+hash = "d28e57ab8d2f20c850dfb12db900729e9588d5ae873ce92607b2d5c2e9f186d3"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_blank_pattern.png"
+hash = "c25d4b53980ab3ba5bac7dd820355a03bdea23b54f1ba6da456a4c424f9b29de"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_calculation_processor.png"
+hash = "19f2a7bb3307c16d1e61af1e519bf7b215fb33d226eef99b0760b017691f0452"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_cell_component_16k.png"
+hash = "92d8aba529e76ac1eeb82f2cf9aa7138b92e15b4b7e97636e80da111a018c777"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_cell_component_1k.png"
+hash = "e3f717162b6cef767ef113889f0291ea80aa35c0d081918e604b945bab0be621"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_cell_component_256k.png"
+hash = "9876a55081d532cdf5c5118587a006d573d6f207b8fe8b541c8b6600ab3744ef"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_cell_component_4k.png"
+hash = "1e5cc46f25562ab3cfaf5c13f36a0c75defb710748a1cfc63c3048354cbe57b8"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_cell_component_64k.png"
+hash = "910539877c150f77b6ec763ba6bd9b042a7ec35a45e093beae9e7a9ea3be7854"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_engineering_processor.png"
+hash = "645fd041a85615dff3bc4d158c034bedba23a4072a26cbf718eda385f15d13f9"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_fluid_cell_housing.png"
+hash = "ef58be01681d083b5d7ffb659df1ecf79e1f7eea9b0a64b6510f5d855f5c46c3"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_item_cell_housing.png"
+hash = "420fe6424ceae2c96e567cf96b3831f162ee6fced2a8471d04bf5a9d15b731d5"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_logic_processor.png"
+hash = "c1c471b2b59569a9bf2090523ef3ac578ef803e457da8d1bf432d97cc1351ffc"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_spatial_cell_component_128.png"
+hash = "6e74b5e5a03fba0177b315701ae7dd9e795cf4d3985730e1411418ef41584284"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_spatial_cell_component_16.png"
+hash = "fa3008288b385f279d38844b2bf45e3ca62bca0f791cfd47f1b0ad29f5251089"
+
+[[files]]
+file = "kubejs/assets/create_ae2recipes/textures/item/incomplete_spatial_cell_component_2.png"
+hash = "19fa28b9fd9c8d30eb6ffbeec7121c118a3eb3ba2665b045058c46ba2e52705f"
 
 [[files]]
 file = "kubejs/assets/minecolonies/textures/quests/hc_build_tool.png"
@@ -157,6 +361,150 @@ file = "kubejs/assets/minecolonies/textures/quests/minecolonies_logo_medium.png"
 hash = "02d809eca8d4f4e60698e1e5b467a9045d5d9f8f2b864aa0100aeb3ab1389336"
 
 [[files]]
+file = "kubejs/assets/quests/ftb_quests_theme.txt"
+hash = "78a0524f8aa1e00a9ab33699bddd9ffadd47108438a39a2e247fb4c90f22ecc9"
+
+[[files]]
+file = "kubejs/assets/quests/textures/car_example.png"
+hash = "a42ce55fc91c4b81628ee429b54a1a0c4528591edf980318a992b565e68a8b50"
+
+[[files]]
+file = "kubejs/assets/quests/textures/gearbox.png"
+hash = "19e1df637e9bed860edfd09d1c57246cde1ab82fee763ddbfc061fd56790dfa3"
+
+[[files]]
+file = "kubejs/assets/quests/textures/gui/background_squares.png"
+hash = "40adbdc3e7ebee59bbdb9c8f9d9d69fccb54af1a642f98fba97a1a5aec7fa501"
+
+[[files]]
+file = "kubejs/assets/quests/textures/honey.png"
+hash = "950fe060e22d16a1778d3eeb71b6b32b46700c4765511584c685b82693715dc8"
+
+[[files]]
+file = "kubejs/assets/quests/textures/item/book.png"
+hash = "2e976ef928f1cb5632c5731176b7e6ede03e278bff0d5987964aaa1bd333d127"
+
+[[files]]
+file = "kubejs/assets/quests/textures/redstone_link_dentro.png"
+hash = "2478f776545364db6b9f2387e2eca5da84339f51eb716a97c64e28ea701e46cb"
+
+[[files]]
+file = "kubejs/assets/quests/textures/redstone_link_fora.png"
+hash = "91c03b71a74114a0f6eadc66656bd9698630709a2b309b4334d6e4cf99fa73db"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/circle/background.png"
+hash = "6da5ea5123d3d418a37ed647cede8562a8f9490e423d714fb06f536a272c8644"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/circle/outline.png"
+hash = "7b44047da5bab58054d278b6186af7a7bbd85f448927e563ead5e9667da7a65c"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/circle/shape.png"
+hash = "5440de6b4471b00c3c6c3a18d0635f9f227e2489d433c644957c936cdf54a20e"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/diamond/background.png"
+hash = "7fe6fce11e854adeab4606f51f8850fb91561750431aa358a0bb5ae0fecec67c"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/diamond/outline.png"
+hash = "f5254865aa175937fd9ed315bec401807fc970889989c1a048bc0c07e30afdee"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/diamond/shape.png"
+hash = "79dfd8e9f581eba64d79a97f51a645b8a6d46f405b5faa497d1c282eac3feaec"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/gear/background.png"
+hash = "0a892c294734796aae8eb7a35d48a3dd97142a2bedaf9cf8aa357d089eb73421"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/gear/outline.png"
+hash = "1b746e205961b71fe0c8843e10ebf954e8311884fc8f35de1743e7186b0802d3"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/gear/shape.png"
+hash = "c6beb30f14adb8fd0e34d9740a11a1f741f5bf4fee0a144edfb657efba2cc9fd"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/heart/background.png"
+hash = "8fbe77a93178aeb7044679ef5061b291e5fea31e7c53fa6958600ac9729997bc"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/heart/outline.png"
+hash = "7022b87de823786a0d21418f1bda638c8646d7d8c007c337a562d9e95940f06b"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/heart/shape.png"
+hash = "2fa0b2c1d4f44f7e391de128235a6d98db6b722807758d679579d1903468c8e4"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/hexagon/background.png"
+hash = "cc4ee3c77e89e951636829295cd1ca48cdbd381bfb7d33f9f1c94d264df2f967"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/hexagon/outline.png"
+hash = "792e84833473c01af7854776753405f57241bf1c2fd66e544ebe01e94993793c"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/hexagon/shape.png"
+hash = "ab4c4a723102fee324ad0ad37c7c44b9d50eea9c0c049b934c8e5f69a2efd5d8"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/octagon/background.png"
+hash = "b0aa54be39b732583be2e72c80aea64ea22b67dd06439e245d72945b3a0178fc"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/octagon/outline.png"
+hash = "d349ceb93b778c8a89317d9bf9eb1b0f70223fdba416343f414ae2e9cc842300"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/octagon/shape.png"
+hash = "2dd3edd6cffaca3770222c21428e130a2487d205b973b0c4bd226e9e9f855ec2"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/pentagon/background.png"
+hash = "4fcd24662b3e988e42a8a58c4fe898caefe11f48c14c05e4a69e206175220fdf"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/pentagon/outline.png"
+hash = "875b1fe1a008f8982fe73f4faf4576a1c97b4141a326bd299081f736c7513f42"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/pentagon/shape.png"
+hash = "b0a37930c39d430340ef1d4ca8154008cc2355d2ec42026cf2dc97d141131304"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/rsquare/background.png"
+hash = "9848e5ec76d5fe499d522f01f96605543cc37d090b014a88b3d00634dbdce35f"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/rsquare/outline.png"
+hash = "82cda1ef554330935907c4c0bb37ddc9f702712f92f50976692a5c770c6d44f7"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/rsquare/shape.png"
+hash = "de9428384cf6bf732177bfdff3d127ba8a87f45daf40c3cec0c95390c3277c0a"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/square/background.png"
+hash = "c365a04cf47ca7af1571a9a8442b1536854d258402abfc2eef2189a92e1a0859"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/square/outline.png"
+hash = "9d2a92fb8cbb4c32480a9c8d87b238fef0293a831cedb65d2345a63da5f335a3"
+
+[[files]]
+file = "kubejs/assets/quests/textures/shapes/square/shape.png"
+hash = "10d3f3879fcec47c5def614346849a03490cce6fe882c6b9632d63a7771ac663"
+
+[[files]]
+file = "kubejs/assets/quests/textures/wrench.png"
+hash = "1bf8168ad111f2b8c51f2a5c896333edf8bc16357376045ec13c34702309121c"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
@@ -181,20 +529,377 @@ file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
 hash = "da190105bc91c8d1370b26d87d4f0cb2ec06a05355fdcd05590b56766c908589"
 
 [[files]]
-file = "kubejs/server_scripts/main.js"
-hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+file = "kubejs/data/create_ae2recipes/recipes/charging/meteorite_compass.json"
+hash = "bd994e66756cbb271b6c75620bbc3489f7cb5d588b3aab2f9e83b56decfee79b"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/compacting/fluix_glass_cable.json"
+hash = "7e3e8ff28d08d56025fa71b3a2974d42de92bf75cf9a32fda92d4a9e6b99f8df"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/compacting/quartz_fiber.json"
+hash = "e8e1d3761624ae6aff5ffb57fe634f98157f3920199b9f82baf4bb5c7c3bf2d9"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/cutting/cable_anchor.json"
+hash = "2552388f00e8f93b8ad54a218d1c5f89f6d9f38f29aab5992478cc8e9ea62d4a"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cable/fluix_covered_cable.json"
+hash = "18418855d0963ab1972fb27f1e9bff8564541e95994f4cceacf326487d29ce69"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cable/fluix_smart_cable.json"
+hash = "f7c5cac9b6702ab4a0bb15022a3e2792bbe2a78c4b76635ce925600b33c7cb3c"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cable/fluix_smart_dense_cable.json"
+hash = "6f5340e28c362c4c4724caf96c62c7d74e079cdd36f4e683a2c64843be40ac7b"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/card/capacity_card.json"
+hash = "2dd34baddb2f102b8122e8a7234241d87d5dac7ae4d0ffaf053a76801aad2593"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/card/crafting_card.json"
+hash = "b448d403e2f1a377aa047da79650db2d412bcca9d88a743531446a61eac151ab"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/card/energy_card.json"
+hash = "148c2bd01af0cbd573d1c68a78c8847d1a7cd24733f52ccf372237ae7e4be1b8"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/card/equal_distribution_card.json"
+hash = "e3e273c9d07449862c1eda48db155ee17002288fbd126caf7d47788ea8a7c3f0"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/card/fuzzy_card.json"
+hash = "236dbb10795b8fb143515d31ac464a18e6159dd6bb2f3f1cbdf333b5746548b1"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/card/inverter_card.json"
+hash = "37d67ccc92d364df12d301ce1c767e52f5e599c1877b47c5cfa50abca8f4dbc6"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/card/redstone_card.json"
+hash = "b31ed637a54afa19f8d1b9820938e5eb16a6bd0fd07c60784b3ced8d06f91c99"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/card/speed_card.json"
+hash = "2f4f583af24815703ead000f2293bacc5ee66e40618f93c181ec6617ebf9c5b7"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/card/void_card.json"
+hash = "fe35b8e405d34a94a7d11ac46ce8c7244386ec6eb7ef5c97c83de08d2aa41802"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/fluid_storage_cell_16k.json"
+hash = "c5328324dbb21ccf0460b4c5aef0d5c738a32ca517da54efd45337e770461938"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/fluid_storage_cell_1k.json"
+hash = "c8f4b16756968034d5574acabc7c847238b5cad88e00e715c76e50e69a6c85b1"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/fluid_storage_cell_256k.json"
+hash = "b3fd2f921c7fadbfe9395d5454e5c5b6e2f2fe17abb5a411014ec3ea7c9f460b"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/fluid_storage_cell_4k.json"
+hash = "3477a40519e8c2a66195ff54b0717ae128c11c6fe63be95840026364fef23fc4"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/fluid_storage_cell_64k.json"
+hash = "786794e9c505fa9e162195ee6db8903d94accb2bcf5cdd90fb014bb3ea8cee92"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/item_storage_cell_16k.json"
+hash = "122fa91f0493725bfe4d0ffbb7b86cdb63fb6b487497a2f1388693348ab10d54"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/item_storage_cell_1k.json"
+hash = "4537fa99646c354f02f177b4acce3bf2f05b721c2bb6599dcf383c59f86cf3b5"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/item_storage_cell_256k.json"
+hash = "8b9760806bc241059db0d856001b3ade0f5569c4b0953cc99e7564047f107149"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/item_storage_cell_4k.json"
+hash = "9bbda31dc419fb8f2d9a3bf5116fc75c91b13a2fc8b0b3206bbbe55b135a0460"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/item_storage_cell_64k.json"
+hash = "d8146772106e2aa9a309f93fac45aba9428128848c6107f1c895960ac2a24af5"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/spatial_storage_cell_128.json"
+hash = "410b9ade1b2898f0c59bb7a0828a1e7fcdc4cf88d1490425880883bdd2171692"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/spatial_storage_cell_16.json"
+hash = "e8e9db173027b5b5a8d5cc84c1d01666d7c5cc4dcb69e5eaad65086e8abbb947"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/spatial_storage_cell_2.json"
+hash = "74fe405af5cd00a271e119a11e32982cce44470b19240a0ddab4fe203997743a"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/view_cell.json"
+hash = "a6567408b2ee75afca4c9775e6d628ded7ff534461017446c530fb9fe948bb9e"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/16k_crafting_storage.json"
+hash = "7d2365ed4a18447dee3ba2ec96e59c576fc78167735d6908379f4b5a43710e62"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/1k_crafting_storage.json"
+hash = "9ac71368e50178922f3ecd2c1e314b3410816f8ca68f92bc44f007611ea89f9b"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/256k_crafting_storage.json"
+hash = "f842a376109a5808c7ed87dbf033e95c0d01aeb1b0257ab5598c9a006612f398"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/4k_crafting_storage.json"
+hash = "5d1945217f86b2e3f3de3eb7bd4788595975759885bf3017eb82c0476972974c"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/64k_crafting_storage.json"
+hash = "223545a73623ade0e5732801fc14bebd50d2d272c4cd3bc27267c3ca34a1c3f3"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/crafting_accelerator.json"
+hash = "691203fe2eae9f820f0259975fc6feb27091bb7df21cf6fd03e41dd7a2b1a9a0"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/crafting_monitor.json"
+hash = "c347185b1fb7d56f8e9a21e50b74742def657b6afd0369fff3b6e43f61fd1b21"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/network/crafting_terminal.json"
+hash = "ee9e74710732c5a6bb4ec1e3252b032d9156550852e07cdae4aa46a1a9bd069d"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/network/energy_level_emitter.json"
+hash = "3aa120dcdd8edbc4f27a8348ca04ebfa9bee7755706d6dd717fecb130f4c2c59"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/network/level_emitter.json"
+hash = "af6ac0175f41ea952d15e559c63aa03d1f5de581aa4563a9cc00863e9d664331"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/network/pattern_encoding_terminal.json"
+hash = "51b3125d6782cb5226ef56d0c12d5a26c36cb52ae98643deb180d42c2185ab23"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/network/storage_bus.json"
+hash = "01ebd786c9cb3d9b1fdc6e65a7261e37eb05e7d9bf29b572711dcf7fce4b1637"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/network/storage_monitor.json"
+hash = "fa8fda0821845c1cfcd8a9cc9fa1d72109dd25696ad0ccdd7b22db9348bcdc72"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/network/toggle_bus.json"
+hash = "b216923fc7a67738f7d24785c676f8df95872ba5583b3f346165d0f1fb9a7487"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/calculation_processer_press.json"
+hash = "0b374ad50de9bdaa1357f8e9daac00c7388e779e3419316a9813dc8f22681f6d"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/engineering_processor_press.json"
+hash = "5dab4bde9dace7638865bb3193c91d22759c6e263d9e00919503cfea46d6c237"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/logic_processor_press.json"
+hash = "b04609ae9b0ed3099c16330a3327098c965617f8b63043a6b3e1233085b2aa31"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/printed_calculation_processor.json"
+hash = "c9b71c79535782342b77f3f419649555e57a3e4197e2af989f600e091de75cb1"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/printed_engineering_processor.json"
+hash = "289a0eecf08ba82b02d604709473578bd87cb9f717b5c760aa32c2d8d68d7457"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/printed_logic_processor.json"
+hash = "40adbf75c240af9693de65bd208e4d65a02c46ab4478660e5f97510f03ddbf26"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/printed_silicon.json"
+hash = "d6bb788d5356733072c800acfdb00e4c17ce0cdc9950b44d578d99f8cf7fc9b4"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/silicon_press.json"
+hash = "122c5797999de0c7cd03a66b31337753c7213b3754b63ed70c99a90bd6338dff"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/haunting/sky_stone_block.json"
+hash = "2ef313da8b59f9b611bb2b18c01a80d12642e1c5db7473f38be3b56a0f7486e9"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mechanical_crafting/conversion_monitor.json"
+hash = "1b7650a15b31f2ef00538cfb4318ca5ccbd465ebe5c002bae5ca739db227ecdb"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mechanical_crafting/pattern_access_terminal.json"
+hash = "3e8f9c3da0425a5706ddde8746fb96a262dd5f60149ab7cabc80c52966766f32"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mechanical_crafting/terminal.json"
+hash = "d2edfe7cb5ca4b83dd48090b7ce3cefb60ef6ff9111bc588c0782b3a0ab1c872"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mixing/basalt.json"
+hash = "07720b753e14bfa232744b1914768c22e0264bd8b88e637ee3239ba0e1159f22"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mixing/certus_quartz_crystal.json"
+hash = "ed4e4574c499ca705adbd6389c68b98e95eaa70571f89a5fd1263391b3193ba6"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mixing/chipped_budding_quartz.json"
+hash = "d3b1c37b6b0cf1e95c9a26148175540c69c4448554d3b70477c248f9e88b7c8a"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mixing/damaged_budding_quartz.json"
+hash = "dba83e119cea8d633cc80901fd564831db6ba1c8299ea0f44ffd830d3975f1dc"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mixing/flawed_budding_quartz.json"
+hash = "38aed990adbc0715ddc31c3b428cf9adb4239a90fd60e3e031f750abbbe44d23"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mixing/flawless_budding_quartz.json"
+hash = "9f9a72cb5bf4b426b5db69b5aaae39a1080379d08bd0731ead8705f3ab3ea0e7"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mixing/fluix_crystal.json"
+hash = "9afc58ab4081f3c95eef5d74b440d03f9831d6e0d499ef13c57f7e81da7bfa01"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mixing/fluix_pearl.json"
+hash = "710186b1f1250bdb4ce7de9e5cdce5050bb6902f040cc9e6a883ae97907a95c9"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mixing/quartz_glass.json"
+hash = "7f4070193b8b7206e69ed7644f46dae5b1a4c994aae9060095115ec8cdf93662"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/mixing/quartz_vibrant_glass.json"
+hash = "5162e078d73b116e2115508de8d8536eb57f3958c46556db6c539e3610210e85"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/advanced_card.json"
+hash = "ae3f25009a29b3bd1381b580a08b1729a0b6d1dc36d312b398879521a9e765ee"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/basic_card.json"
+hash = "0c071b40491be756139c879d202faaace522b44a39badc36bfe58b496b250069"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/blank_pattern.json"
+hash = "452d6f716aedb33731254f1a3873b710811a17129134a9e689ec003d6cd36017"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/calculation_processor.json"
+hash = "f993713124e61abef5e737f0e87ed3e7448268a784e55e20ebdc444e3681a205"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/cell_component_16k.json"
+hash = "ea375f860d2a28e6162b65505f05bdbeb859e866886f71d87ab8e4e0b17d190b"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/cell_component_1k.json"
+hash = "2cf01139b8731c17cce9556e4e96b2f3b9a6c67502d11d9327bd5d0522e15b91"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/cell_component_256k.json"
+hash = "d6f0fbdd97efc889911470cfd02b7ba2de7d0abd286ecea14e3a5bb91aa3095c"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/cell_component_4k.json"
+hash = "44a1e7f88271d1a7b475507f6119a0b649d0cff56a14159ac686b498fecf7ca9"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/cell_component_64k.json"
+hash = "bdda6f36ccd55e0827755988ca0cefa9cf534f2612b82babad7f9b17df15e34c"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/engineering_processor.json"
+hash = "5ac08380d3bfc1c0b0d6b92b23135686165e6164eec3434b998bd64decb5246d"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/fluid_cell_housing.json"
+hash = "d658b50ce831aec5d6b14448ff5b29a62949dd29666f7a435a1fc53413a9e777"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/item_cell_housing.json"
+hash = "5a60f59c2078d6a445f92136bfb6d1de6cc8176f1f45096847418debc823da5e"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/logic_processor.json"
+hash = "26a32f8acc10a9a61ed0aedf76bae813a87b9b08d001c983c5531085c425a271"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/spatial_cell_component_128.json"
+hash = "c4d531c9f158baaf39d6aeb99727a55c5bbd0e0c0510b9af1c2819d62dc55d6f"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/spatial_cell_component_16.json"
+hash = "d2a9ae82d8f5ff3f96492c67bc5057c5680d46aee5dbd87097e7c53290b393e0"
+
+[[files]]
+file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/spatial_cell_component_2.json"
+hash = "78e36c57054f1d84c35e41a5a6fe4b50e098d7655d9a6f5ba896c75117973cdb"
+
+[[files]]
+file = "kubejs/data/incendium/function/technical/toast.mcfunction"
+hash = "3a462c97d2c226cd510d970bc821d97be5fb85cc7ac2be2beb7a6754d4ca858a"
+
+[[files]]
+file = "kubejs/data/nullscape/function/toast.mcfunction"
+hash = "3a462c97d2c226cd510d970bc821d97be5fb85cc7ac2be2beb7a6754d4ca858a"
+
+[[files]]
+file = "kubejs/data/terralith/function/toast.mcfunction"
+hash = "3a462c97d2c226cd510d970bc821d97be5fb85cc7ac2be2beb7a6754d4ca858a"
+
+[[files]]
+file = "kubejs/server_scripts/banlist.js"
+hash = "45dd4ed52a7f20f1d86865aa57352f51dd115d51aa487e26bd02b5001166e447"
+
+[[files]]
+file = "kubejs/server_scripts/new_player.js"
+hash = "58915d99286305346d0d041ffca986217b264c0afa0a9fdb060974feeae1c53f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/ae2.js"
 hash = "4cb0bdafa8e8ce09f96c3b54f1348c57d99b2a96f723dc8908a8478c6b509354"
 
 [[files]]
-file = "kubejs/startup_scripts/main.js"
-hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+file = "kubejs/server_scripts/recipes/ae2_create.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/blueprint.js"
+hash = "187f1ae59e7104de80498de788b5c1b24437dc27ca0c234a7de80a40864e0ff7"
+
+[[files]]
+file = "kubejs/startup_scripts/ae2_create.js"
+hash = "c4d3f68a730212014afda3bff96d9f5601b7c25184a6b7a53544e5f26067ad38"
 
 [[files]]
 file = "mods/ae2-crafting-tree.pw.toml"
 hash = "50387e948be96b51d9d18d5be33c997de15d7f06f22ca8b61f694b418047d35f"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "90cf6e0de096a6d7b3a961559dd40bb8f8c60c654bf79ccdf38e16641978e9c1"
 metafile = true
 
 [[files]]
@@ -210,6 +915,11 @@ metafile = true
 [[files]]
 file = "mods/anvilcore.pw.toml"
 hash = "6cea29f80c69c77c7e4001668a3f72f15eb3eb33bb99ad9cfc8b004ce41ff018"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
 
 [[files]]
@@ -447,6 +1157,11 @@ hash = "3e5b740a6fdc7b981eb2537956b8d062d57e40a3809c0440f668455d52cd4a1d"
 metafile = true
 
 [[files]]
+file = "mods/create-mob-spawners.pw.toml"
+hash = "a032980d1168c573a1ed5308bee78edc5781c0fb36ff9ffa499bd224c9fc67dc"
+metafile = true
+
+[[files]]
 file = "mods/create-more-linked-remote.pw.toml"
 hash = "e979197c5b9364435b7535ff741f25cb0dc917917dc633e4684dfde16aa1119c"
 metafile = true
@@ -474,6 +1189,11 @@ metafile = true
 [[files]]
 file = "mods/create-oxidized.pw.toml"
 hash = "cde568a867601aaf6b779b6565bf2ed19f127fa1415f8d68f30b25b2dc70de42"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "933542ef6b68b15a91e20f9d87cb1f03546d0081b12c2e489df860fd47b3be28"
 metafile = true
 
 [[files]]
@@ -697,6 +1417,11 @@ hash = "d480787d9c86b5abe27284195ace63101ac1ccea7f2cb39649b4dcd172932e7e"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "01d2dc33988b6daf0fad9a63b7474832d3876455d1119d6c6e1dde9d203ad718"
 metafile = true
@@ -724,6 +1449,11 @@ metafile = true
 [[files]]
 file = "mods/jadecolonies.pw.toml"
 hash = "94f69e149cc3604cb09197de52e6d07731d56cca3d10388ccb9dbfe8b36ee76e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
@@ -803,6 +1533,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "c183fb8843a6c04da0417e5d51c62b2def40b994f0e9f1176243877b104d88a8"
 metafile = true
 
 [[files]]

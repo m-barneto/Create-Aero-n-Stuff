@@ -1,0 +1,39 @@
+{
+	quest.00ACD837E30165B3.quest_desc: ["Generates rotational energy from FE. Enables bridging between electrical mods and Create's kinetic systems."]
+	quest.0488989FD7F5AF42.quest_desc: ["Obtained by putting an Iron Ingot in a Rolling Mill."]
+	quest.0488989FD7F5AF42.quest_subtitle: "Crafting component."
+	quest.0834527ED1C0E83B.quest_desc: ["Allows FE to be carried into and used inside Create contraptions."]
+	quest.0B8148DAF5CC9DF1.quest_desc: ["High current"]
+	quest.0C8F501F6BDFFB92.quest_desc: ["Obtained by putting a Gold Ingot in a Rolling Mill."]
+	quest.0C8F501F6BDFFB92.quest_subtitle: "Crafting component."
+	quest.113E1D3C37C63088.quest_desc: ["Obtained by putting a Gold Sheet in a Rolling Mill."]
+	quest.113E1D3C37C63088.quest_subtitle: "Crafting component."
+	quest.17709C4D6222244B.quest_desc: ["Connects forge energy compatible blocks with wires to transfer energy, provides light when reciving power."]
+	quest.1F36CF5D11E08839.quest_desc: ["Connects forge energy compatible blocks with wires to transfer energy."]
+	quest.215D766150B54B17.quest_desc: ["Low current"]
+	quest.22AC3C79141AB3FC.quest_desc: ["Obtained by putting an Electrum Sheet in a Rolling Mill."]
+	quest.22AC3C79141AB3FC.quest_subtitle: "Crafting component."
+	quest.39124F73B82400F4.quest_desc: ["Converts rotational energy from Create machines into FE at around 75% efficiency."]
+	quest.3CA5DFF1105281D6.quest_desc: [
+		"This is a multiblock battery."
+		"You can input and output FE using a small connector."
+	]
+	quest.3CA5DFF1105281D6.quest_subtitle: "Big battery"
+	quest.40F8FF1E85694FD4.quest_desc: ["Obtained by putting a Copper Sheet in a Rolling Mill."]
+	quest.40F8FF1E85694FD4.quest_subtitle: "Crafting component."
+	quest.43E4EE94BB396A7C.quest_desc: ["Used to make rods and wires."]
+	quest.4A22534045841AE4.quest_desc: ["Low current"]
+	quest.4F1FA866A2F510A1.quest_desc: ["Obtained by putting an Electrum Ingot in a Rolling Mill."]
+	quest.4F1FA866A2F510A1.quest_subtitle: "Crafting component."
+	quest.4FCCEB8B6A6AA643.quest_subtitle: "Crafting component."
+	quest.60DBF181ED929607.quest_desc: ["Charges items below it and can be used for damaging players and mobs."]
+	quest.62671BDA7C583957.quest_desc: ["A natural fuel source produced from organic materials. It can be processed into Bioethanol, making it an eco-friendly alternative for generating energy and powering your Create machines sustainably."]
+	quest.62F1177325B16068.quest_desc: ["High current"]
+	quest.64AB5CCDD9860DD8.quest_desc: ["Obtained by putting an Iron Sheet in a Rolling Mill."]
+	quest.64AB5CCDD9860DD8.quest_subtitle: "Crafting component."
+	quest.66108B4F2DBF2E3F.quest_desc: ["Obtained by putting a Copper Ingot in a Rolling Mill."]
+	quest.66108B4F2DBF2E3F.quest_subtitle: "Crafting component."
+	quest.71FB3EA8CB37A038.quest_desc: ["Applie on to a Blaze Burner to enable them to burn liquid fuels, some can superheat a blaze burner for way more time."]
+	quest.77B2C22D776D1B60.quest_desc: ["Connects forge energy compatible blocks with wires to transfer energy."]
+	quest.7B6E46D719CFB570.quest_desc: ["An item used to hold and craft Spools of Wire. It serves as a key component in producing electrical materials, helping you advance toward automation and power generation within the Create ecosystem."]
+}

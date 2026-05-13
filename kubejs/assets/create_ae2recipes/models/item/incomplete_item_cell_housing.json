@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures":
+  {
+    "layer0": "create_ae2recipes:item/incomplete_item_cell_housing"
+  }
+}

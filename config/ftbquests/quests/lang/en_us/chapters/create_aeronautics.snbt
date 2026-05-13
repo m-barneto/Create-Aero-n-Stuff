@@ -1,0 +1,58 @@
+{
+	quest.026FF42DA59E112A.quest_desc: ["Now our little car needs its 4 wheels"]
+	quest.026FF42DA59E112A.quest_subtitle: "THE WHEEL!"
+	quest.026FF42DA59E112A.title: "Tire"
+	quest.095223210FCC48C3.quest_desc: ["We need the Wheel Mount to put on our car; it will make the wheel axles rotate. You can also change the wheel suspension by configuring them by clicking on the axle."]
+	quest.095223210FCC48C3.quest_subtitle: "Wheel axle"
+	quest.095223210FCC48C3.title: "Wheel Mount"
+	quest.1583C85390362BB4.quest_desc: ["Until now our car only goes forward and backward; for this, we need to use the redstone signal to turn the car's wheel. We can use a redstone link. We need to put 4 links on the wheel mount, always on the front wheels. Place 2 levers on each and leave it in receiver mode; remember to invert the sides of each redstone link so the wheel turns in the correct direction."]
+	quest.1583C85390362BB4.quest_subtitle: "Controlling the direction"
+	quest.1583C85390362BB4.title: "Redstone Link"
+	quest.1E9E11F072665A05.quest_desc: [
+		"We need to start creating our car; we can use the Chain Drive to make the chassis, place the axle and wheels, the seats, and the Physics Assembler. Build the car without it being stuck to the ground."
+		""
+		"{image:quests:textures/car_example.png width:150 height:100 align:center}"
+	]
+	quest.1E9E11F072665A05.quest_subtitle: "Bringing the car to life"
+	quest.21355027240AAB0A.quest_desc: ["Hello explorer, I know you must be mega curious to know how aeronautics works, I am too! let's learn together to create ships, planes, cars, balloons and much more!"]
+	quest.21355027240AAB0A.quest_subtitle: "Playing with physics"
+	quest.21355027240AAB0A.title: "Create Aeronautics"
+	quest.41CEBA836A8BA22C.quest_desc: [
+		"We now need to place a clutch in front of the generator; in front of the clutch, place a vertical gearbox. On top of the generator, place an andesite casing block; in front of the andesite casing block, place a redstone, and on top of the andesite casing block, a redstone link with 2 torches. Use \"Shift\" + \"Click\" to set it to receiver mode."
+		""
+		"{image:quests:textures/gearbox.png width:180 height:100 align:center}"
+	]
+	quest.41CEBA836A8BA22C.quest_subtitle: "Connecting"
+	quest.4B574B802F83F725.quest_desc: ["We need to generate torque for our car; we can use a coal-powered torque generator, place it at the back of our car."]
+	quest.4B574B802F83F725.quest_subtitle: "Generating torque"
+	quest.4C990203ACAAB823.quest_desc: ["Now we can finally control the wheels and the movement of our car; click with the linked controller on top of each redstone link and configure a keybind to define acceleration and move the vehicle to the sides."]
+	quest.4C990203ACAAB823.quest_subtitle: "Time to take control"
+	quest.4D89B47FFF31585D.quest_desc: ["We can use the Chain Drive to make our car's chassis, but if it gets too big, it may cost more fuel."]
+	quest.4D89B47FFF31585D.quest_subtitle: "Car body"
+	quest.4D89B47FFF31585D.title: "Encased Chain Drive"
+	quest.51E22AFE9403C9E1.quest_desc: ["To start, we need a Physics Assembler; with it, we can give physics to the car, and it will be very important!"]
+	quest.51E22AFE9403C9E1.quest_subtitle: "Creating our first car"
+	quest.6CCC8862AC60DA2A.quest_desc: ["To create the brake for our car, we need to put a redstone signal on top of the wheel mount block; for that, we will again use 2 redstone links and put 1 on top of each wheel mount block with 2 redstones on each in wireless mode. Pair it with the linked controller and bind a key to brake!"]
+	quest.6CCC8862AC60DA2A.quest_subtitle: "Braking"
+	quest.6D34125C705B2B73.quest_desc: ["We need to add a seat where we will drive the car, or where our companions will go"]
+	quest.6D34125C705B2B73.quest_subtitle: "Car seats"
+	quest.6D34125C705B2B73.title: "Seat"
+	quest.7097EFDECE9CDAF7.quest_desc: ["Is your car stuck? Use an iron handler connected to your car, this way you can hold your car in your arm and take it out of somewhere."]
+	quest.7097EFDECE9CDAF7.quest_subtitle: "Recovering the broken-down car"
+	quest.71A8D4B8F0EAFF90.quest_desc: [
+		"We need a new glue that is better and more powerful to help us make our first car; with this glue, we can use \"Ctrl\" + \"Scroll\" to better adjust the glue."
+		""
+		"{image:quests:textures/honey.png width:150 height:100 align:center}"
+	]
+	quest.71A8D4B8F0EAFF90.quest_subtitle: "Gluing everything together"
+	quest.783C1961806EC8F6.quest_desc: [
+		"We need to take the Wrench and turn the chain drive that is 2 blocks in front of the torque generator."
+		""
+		"{image:quests:textures/wrench.png width:150 height:100 align:center}"
+	]
+	quest.783C1961806EC8F6.quest_subtitle: "Turning into a piece"
+	quest.7C91F7477216A2D2.quest_desc: ["We need to be careful with the weight we have on our car; heavy blocks can unbalance the car's weight."]
+	quest.7C91F7477216A2D2.quest_subtitle: "Controlling weight"
+	task.43AB00104FE02F00.title: "Chassi"
+	task.5EF407C1D549F702.title: "Aeronatics"
+}
