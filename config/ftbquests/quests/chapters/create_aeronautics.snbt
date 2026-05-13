@@ -7,7 +7,7 @@
 		id: "offroad:large_tire"
 	}
 	id: "4E115E1260B9FA39"
-	order_index: 5
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{
@@ -36,11 +36,8 @@
 				count: 3
 				id: "6B4FEA10A84492AB"
 				item: {
-					components: {
-						"ftbquests:missing_item": "create_new_age:overcharged_iron"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "create_new_age:overcharged_iron"
 				}
 				type: "item"
 			}]
@@ -81,11 +78,8 @@
 			rewards: [{
 				id: "0B047C10D4250E4B"
 				item: {
-					components: {
-						"ftbquests:missing_item": "mysticalagriculture:slime_seeds"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "mysticalagriculture:slime_seeds"
 				}
 				type: "item"
 			}]
@@ -120,11 +114,8 @@
 			rewards: [{
 				id: "7F9B73902E8BB19A"
 				item: {
-					components: {
-						"ftbquests:missing_item": "mysticalagriculture:gold_seeds"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "mysticalagriculture:gold_seeds"
 				}
 				type: "item"
 			}]
@@ -186,10 +177,14 @@
 				id: "511CD7EB2566481D"
 				item: {
 					components: {
-						"ftbquests:missing_item": "easy_mob_farm:mob_capture_card"
+						"easy_mob_farm:mob_capture_data": {
+							entityType: "minecraft:iron_golem"
+							name: "entity.minecraft.iron_golem"
+							type: "minecraft:iron_golem"
+						}
 					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "easy_mob_farm:mob_capture_card"
 				}
 				type: "item"
 			}]
@@ -274,11 +269,8 @@
 				count: 8
 				id: "4AE4DA3DB9962756"
 				item: {
-					components: {
-						"ftbquests:missing_item": "create_new_age:overcharged_diamond"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "create_new_age:overcharged_diamond"
 				}
 				type: "item"
 			}]
@@ -297,11 +289,8 @@
 			rewards: [{
 				id: "71E326DC6718661A"
 				item: {
-					components: {
-						"ftbquests:missing_item": "mysticalagriculture:coal_seeds"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "mysticalagriculture:coal_seeds"
 				}
 				type: "item"
 			}]
@@ -346,22 +335,16 @@
 					count: 64
 					id: "3FE4B2B72C92B465"
 					item: {
-						components: {
-							"ftbquests:missing_item": "mekanism:enriched_redstone"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "mekanism:enriched_redstone"
 					}
 					type: "item"
 				}
 				{
 					id: "451BCA6B47C259A8"
 					item: {
-						components: {
-							"ftbquests:missing_item": "ars_nouveau:glyph_redstone_signal"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "ars_nouveau:glyph_redstone_signal"
 					}
 					type: "item"
 				}

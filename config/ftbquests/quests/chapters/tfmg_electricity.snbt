@@ -700,11 +700,8 @@
 				count: 5
 				id: "6FB1E6A6CE56C892"
 				item: {
-					components: {
-						"ftbquests:missing_item": "mekanism:ingot_steel"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "mekanism:ingot_steel"
 				}
 				type: "item"
 			}]
@@ -727,11 +724,8 @@
 			rewards: [{
 				id: "47592058DB5FDE15"
 				item: {
-					components: {
-						"ftbquests:missing_item": "mekanism:block_steel"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "mekanism:block_steel"
 				}
 				type: "item"
 			}]
@@ -778,11 +772,8 @@
 				count: 5
 				id: "78642EB029B90E00"
 				item: {
-					components: {
-						"ftbquests:missing_item": "mekanism:ingot_steel"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "mekanism:ingot_steel"
 				}
 				type: "item"
 			}]

@@ -310,18 +310,16 @@
 			y: -9.5d
 		}
 		{
-			can_repeat: true
 			dependencies: ["6A4CF3A1CF4D4928"]
 			id: "6847F5D14FCB5BF8"
 			min_width: 300
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "405FF7EBDE3A90A5"
-				table_id: 8523271320569010788L
-				type: "choice"
+				id: "7A439E802F08CB29"
+				table_id: 7346944995901848954L
+				type: "random"
 			}]
 			tasks: [{
-				consume_items: true
 				id: "3ED80BDC06AC8D47"
 				item: { count: 1, id: "ae2:meteorite_compass" }
 				type: "item"
