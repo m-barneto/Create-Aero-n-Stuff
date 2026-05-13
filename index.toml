@@ -10,11 +10,87 @@ hash = "be079b33f920a2dadfe58b887ce498e4a321b3cfbb1ee71755efb62459e01781"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "9f68d40fe8d9c5414e5b230439be0b2d9fa39021eff9cf5cb01992b6d1fb0c06"
+hash = "a501f17a42f6e804b961864c47360f0e04fd2a23f2c515ad35adc768503d08df"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "b9c3e375caddb13a2ff50e5a92a69ee8f101c0e05adcc6866955005414c3cce8"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "5dcc2bf34f4abeb9a8541e300d178e9769fbd9796cc4a23fd81b8e9a2f0d1f6f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/applied_energistics.snbt"
+hash = "7a6650e062fb522b2a037fd4de32cf7c32d2a109349e653269d4025958fa6bec"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "8920320239602d34fe24a7608db513d6ca8bbba9259921b05f2225d37ec943ed"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_aeronautics.snbt"
+hash = "39182a50d9ca6bc0b5bbe1784f5d9175f7b7bb924429261029b5911d839e4398"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_aeronautics_2.snbt"
+hash = "da1c344d6fc1e7f7c5724f5e18d02d808439a054cc465997462a86418bb5dbe8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_connected.snbt"
+hash = "184dab25fea1642abb821c08291927af9bc717d2e801fabe1c0a2dec2ac9b6a7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_crafts__additions.snbt"
+hash = "4db656d39aa5712d194e7d43b32b116c058320957ddae4abdeb19b872e7c151e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_ore_excavation.snbt"
+hash = "f47b0f50d761d0bea686ebd820cb12924f5bb087e9cad1b363068066fa3536f7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_stuff_n_additions.snbt"
+hash = "dc0d615f386b277158c02329a759df28acee24431e73f1ddd689d7b7f91324fd"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/minecolonies.snbt"
+hash = "e283b3ec384d385d89f1627f95f15cf3d8ab98ef98fd538296e7c0210064c75a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tfmg_chemistry.snbt"
+hash = "70f97e8558265edb081d9240389fdb387b91d29bc67e0d5b5d34acdb41bd1466"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tfmg_electricity.snbt"
+hash = "c7f69aa5aaf57528dab2c56ef218a142758766dff1ebf45e5e6e8e7e1cdcde5b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tfmg_steel.snbt"
+hash = "0a889da30d7106fbc75802406a4152d0b6adc4e1742684d7908438aeb931af22"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "e6f05d215c7180f063bae0e67e69d2ff4b2992a350710f73e9f6cbc444283daf"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "1151eaaae4546773bcfcdcdcdbf4e55eea3ae8c03826dba57159e92fcfcf1b49"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/1BC377CF7DB0B217.snbt"
+hash = "588b1f17fb0660d95293f083491254c0b97a472516ea98bdb4e23f1ac36b6a2f"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/65F5978C49103D7A.snbt"
+hash = "f6cfa2b4ac37c9315cc89b03205ab6873e656f4612e9436b58e6955d450f2b71"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/7648BE1B9ACA5A64.snbt"
+hash = "6c1e0aaa7b100b8b7cc00df4dcd64eb7b50b45a7f8dc5ebfa9441efbe33b70e0"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/minecolonies_common.snbt"
+hash = "f82991082419132d8e3e69e8097143278021768c54639ae8ac791b7b31595765"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -101,36 +177,16 @@ file = "kubejs/config/web_server.json"
 hash = "2839e57b2f8d68b239c6202bc2cc7248e3207bbe66a05911e9dc4808f3464fa8"
 
 [[files]]
-file = "kubejs/data/ae2/recipes/inscriber/calculation_processor_press.json"
-hash = "1cf7df0cfea91afe5c98f5a460592012b1b3f7d6ee2b8dc466a27c9996f19d6e"
-
-[[files]]
-file = "kubejs/data/ae2/recipes/inscriber/engineering_processor_press.json"
-hash = "40f647ce8415f12589186382106c5cca855abf72ce6e53265bbaa3c43416cce2"
-
-[[files]]
-file = "kubejs/data/ae2/recipes/inscriber/logic_processor_press.json"
-hash = "b23773f669a12b4525ef9991f3e4a9526ec5e2dacfee1a839efac0f5f06e8951"
-
-[[files]]
-file = "kubejs/data/ae2/recipes/inscriber/silicon_press.json"
-hash = "86fdd8984c91d20b00a9a7704681a3af205da20339e66d3e66b478f85daa10d8"
-
-[[files]]
-file = "kubejs/data/ae2/recipes/shapeless/certus_quartz.json"
-hash = "8d645f2ff004f326b757dd2f812166460451ead093cb245b57b634c4eec40118"
-
-[[files]]
-file = "kubejs/data/ae2/recipes/shapeless/sky_dust.json"
-hash = "fe6a944796282894f305deb9de37ffdf3b28144f206b35d4f70778146ce172a9"
-
-[[files]]
 file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
 hash = "da190105bc91c8d1370b26d87d4f0cb2ec06a05355fdcd05590b56766c908589"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/ae2.js"
+hash = "4cb0bdafa8e8ce09f96c3b54f1348c57d99b2a96f723dc8908a8478c6b509354"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -691,18 +747,12 @@ hash = "f000346274d4b8ede7a4704098a2a1e9dbafe27c7c81f83ca179b95782a0dc24"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-neoforge-2101.7.2-build.367.jar"
+hash = "d6e33264de99af3bad75bf38149e58ba2796c3b90288132abd7a335cc9a4c710"
+
+[[files]]
 file = "mods/kubejs-tweaks.pw.toml"
 hash = "f8207cca95fb83e76e544bbfe2af4ed6e00bf30a827022c5c2c9767434d0822a"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "aef79b9deb5d4f2921ef8e4d58df69d8b71eaaded52149ed6aca41f0cf225be9"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-bloomingnature.pw.toml"
-hash = "3652b3e64c6585f6c3a962c1626802a25d152cec90fcd3cf6222a7cb1db87091"
 metafile = true
 
 [[files]]
@@ -767,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/probejs.pw.toml"
-hash = "98bbba48eddf402b09107de563d7b4370d1ae70a1a6210054cd13065072a9d97"
+hash = "34828ae4b7e6f6fa46e70209f8d1c52e28a6fa801fddb9803f6288ecb92eee61"
 metafile = true
 
 [[files]]
@@ -893,6 +943,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "cbbc06cd921b629776f574566af0b5dbd58819fad7513cfaac2967d3fb750845"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]

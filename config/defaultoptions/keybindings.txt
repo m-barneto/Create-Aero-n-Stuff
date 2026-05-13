@@ -37,7 +37,7 @@ key_iris.keybind.reload:key.keyboard.r:
 key_iris.keybind.toggleShaders:key.keyboard.k:
 key_iris.keybind.shaderPackSelection:key.keyboard.o:
 key_iris.keybind.wireframe:key.keyboard.unknown:
-key_zume.zoom:key.keyboard.z:
+key_zume.zoom:key.keyboard.c:
 key_zume.zoom_in:key.keyboard.equal:
 key_zume.zoom_out:key.keyboard.minus:
 key_key.curios.open.desc:key.keyboard.g:
