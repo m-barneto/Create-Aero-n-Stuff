@@ -1,0 +1,12 @@
+{
+	chapter_groups: [
+		{ id: "0810E42B2DD79973", title: "{cabin.chapter_group.0810E42B2DD79973}" }
+		{ id: "331B6409EF6A7840", title: "{cabin.chapter_group.331B6409EF6A7840}" }
+		{ id: "3BE4B4DE6A6F6C40", title: "{cabin.chapter_group.3BE4B4DE6A6F6C40}" }
+		{ id: "408D0BD6C358F867" }
+		{ id: "3B8AF43E1258A852" }
+		{ id: "62A749137B71D06F" }
+		{ id: "0ED9F00893D42C69" }
+		{ id: "2F8B068425AF05D4" }
+	]
+}

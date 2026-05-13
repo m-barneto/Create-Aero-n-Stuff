@@ -6,15 +6,215 @@ hash = "7eb9aca804e5f6f94b181fbc0cd0e87b768c32b20febe417211bd0f84fc0356d"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "7014888c0b55937a7ef49540ef7dd903555b6b5f4a20569931af4f032d6036d7"
+hash = "9f68d40fe8d9c5414e5b230439be0b2d9fa39021eff9cf5cb01992b6d1fb0c06"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "b323271e1513d44daba4ff08262ec2bfb0197a1a8dcfad5d875bc33a84a39109"
+hash = "b9c3e375caddb13a2ff50e5a92a69ee8f101c0e05adcc6866955005414c3cce8"
+
+[[files]]
+file = "config/ftbquests/chapter_groups.snbt"
+hash = "83df404311bb7bf1864c5bc0fdb906d6a47b669ee092bd0eaae8071c238edf50"
+
+[[files]]
+file = "config/ftbquests/chapters/6minecarts.snbt"
+hash = "d55d3a6b7419aca771def3f9047ef1e7464623767da9d72ce734b1999112438e"
+
+[[files]]
+file = "config/ftbquests/chapters/aeronautics.snbt"
+hash = "1e974553deb361a32713cbbd00b8fd1b0a8a9fba8548498d9789ec209b08346a"
+
+[[files]]
+file = "config/ftbquests/chapters/aquatic_ambitions.snbt"
+hash = "c1472919ac5114d7afa0287913d011e29ecd5772a19069058f1d5e11735cfbcb"
+
+[[files]]
+file = "config/ftbquests/chapters/blaze_burner_fuels.snbt"
+hash = "13de2f60212ef01520aa612df4d30056ea5a4c217fee73c383ce4b60ca535c49"
+
+[[files]]
+file = "config/ftbquests/chapters/create.snbt"
+hash = "c0f0b851d5134e8fe5585bd7dc1dd937ad45f11bdf9e057373540d8c379fd818"
+
+[[files]]
+file = "config/ftbquests/chapters/create_connected.snbt"
+hash = "00d9441dadc2e95a42fab00e38deacb6688e04d107156af261a350b9d920576c"
+
+[[files]]
+file = "config/ftbquests/chapters/create_optical.snbt"
+hash = "5f003515f757616677a7c092d8dba27d0e8828cdde2a0f372c40aec1983370aa"
+
+[[files]]
+file = "config/ftbquests/chapters/deep_dark.snbt"
+hash = "8211b4a06822e2af614640f50ad07a6ea2ccec115399afd1d7219464551678ba"
+
+[[files]]
+file = "config/ftbquests/chapters/e_central_kitchen.snbt"
+hash = "e74335194b417ef0652340ebb5268d6b139d131c56ab651f6f151666b3dbcaa2"
+
+[[files]]
+file = "config/ftbquests/chapters/e_totem_factory.snbt"
+hash = "e76a1f90e42095c3de66b89111b5c19693ed02a881dfa250aac2048ac2a8491f"
+
+[[files]]
+file = "config/ftbquests/chapters/enchantment_industry_7FF2874A6AAD533C.snbt"
+hash = "7fb67a8334222422598bdc549fb9a1d3f44fc0605cf496679b8911d522c2ecd4"
+
+[[files]]
+file = "config/ftbquests/chapters/epump_dat_oil.snbt"
+hash = "aa330f4644afe454db8a7bbc9b5dbb2b51d5645a14091fc3c8b4ac47683ea455"
+
+[[files]]
+file = "config/ftbquests/chapters/etrains.snbt"
+hash = "5c27ff90846e30066d8e276194dd8a8ad06c6fb818427754321ca9e68f9035e1"
+
+[[files]]
+file = "config/ftbquests/chapters/food_factory.snbt"
+hash = "0e3dfd6b718f31cd9ce920d604a88f325310b0b9fbf5b3ec89259ae949ff23ea"
+
+[[files]]
+file = "config/ftbquests/chapters/fun_additions.snbt"
+hash = "314ebd7a195c9d2bc1775a7e7729de01e80a5c2a005f97bbf449621fe9387c43"
+
+[[files]]
+file = "config/ftbquests/chapters/lifesavers.snbt"
+hash = "e88c2b9facca89477608a964c1be5047fd7554d23909fa10e4a99a1793084d22"
+
+[[files]]
+file = "config/ftbquests/chapters/market.snbt"
+hash = "719bd50ad733f24a8e8475c4250f4afd4a36365170abe4dc4b7c4cd48f8623ee"
+
+[[files]]
+file = "config/ftbquests/chapters/metallurgy.snbt"
+hash = "04bda347c709faea65e40babfec59d17d6f6a769e57e0d53e84b274988e2a2c4"
+
+[[files]]
+file = "config/ftbquests/chapters/minecolonies.snbt"
+hash = "c3b37275ade271698012227afd61af405c7b3e57ec87e5510e16fa5685593a41"
+
+[[files]]
+file = "config/ftbquests/chapters/new_age.snbt"
+hash = "0c56b8f9e002149d2cf233b48bc2f386df0ed0cd14a89b5a651c525e6816e3de"
+
+[[files]]
+file = "config/ftbquests/chapters/offroad.snbt"
+hash = "0bd46c7579a969bfbd95a1f364fce0beed173fdfc459a982b71fa86b4a5c454f"
+
+[[files]]
+file = "config/ftbquests/chapters/overview.snbt"
+hash = "ed7a44aad123d94f915ab7edd8a7fa214caa691e38ccd09b3052d4ba99f7a27c"
+
+[[files]]
+file = "config/ftbquests/chapters/professions.snbt"
+hash = "2a99345286028477e790415d8f3b564b041940a1b3f341bd7a973e375f0e254d"
+
+[[files]]
+file = "config/ftbquests/chapters/shipments.snbt"
+hash = "7b7462becb69adcf346d6e1fe9ceed005beef16897235e802c36773c7e171b26"
+
+[[files]]
+file = "config/ftbquests/chapters/simulated.snbt"
+hash = "c5f49d50a21b33d73d976203e31181353ff4f0b8ad009b41303879d7a007eab8"
+
+[[files]]
+file = "config/ftbquests/chapters/stage_1.snbt"
+hash = "bdc0a15ed4b7d30cb3d93a2b8f146a29dc1e3d229e25180b00c646df246ac2ac"
+
+[[files]]
+file = "config/ftbquests/chapters/stage_2.snbt"
+hash = "5d7696134e3bd794686cc5a6ebf5f62c591723af04e175e52222da93632c1cf7"
+
+[[files]]
+file = "config/ftbquests/chapters/stage_3.snbt"
+hash = "4a643fa1a012d553ff583e34fce397fc0503903e071b119747eeb8dff5eff06b"
+
+[[files]]
+file = "config/ftbquests/chapters/stage_4.snbt"
+hash = "b42bdcddcbcaeb1099d377a640579695e14ac7ab62acabc0cbfaee4799275d31"
+
+[[files]]
+file = "config/ftbquests/chapters/stage_4b.snbt"
+hash = "808f0a5413c521c97a82e091a40a0e38d4ca02b84d6c115b96eac78af5eef7f9"
+
+[[files]]
+file = "config/ftbquests/chapters/stage_5.snbt"
+hash = "f375ff7f638a79edc662c25c78e2aaeefa012a1253355c1aef5370d17890aa6b"
+
+[[files]]
+file = "config/ftbquests/chapters/to_know.snbt"
+hash = "f13ba5efb72e947a640dd8ee8b59c0372df14d2db1db072f3d06d57109d17dbe"
+
+[[files]]
+file = "config/ftbquests/chapters/transportation.snbt"
+hash = "7f8be4016c828e364ca3ce60654ef5e75d3d803b4c05468df68351a5d335dde9"
+
+[[files]]
+file = "config/ftbquests/chapters/welcome.snbt"
+hash = "f3049bd51ef256ab0f6bbeb0f4cd5ee73f3b30a29ccb692a01b78c9acfdff218"
+
+[[files]]
+file = "config/ftbquests/reward_tables/minecolonies_common.snbt"
+hash = "1b858e2b16108565a3418fb20a9fc5ec4b4de3989fc2482eeda9d1f30befaa4e"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "db32225b6a07ae43537b227f688120b69b9bed250e28545fda642c66880c3317"
+
+[[files]]
+file = "config/sodiumextras-client.toml"
+hash = "ddd8950d7d4c21a8bb2761a196ffb397a2d3b65fe293aa0938b7a381b196cdee"
 
 [[files]]
 file = "config/waterframes-server.toml"
 hash = "256e8963bd2e58e8fa99c31adaa70d1ead97f5f4285e22221c7eca560784a327"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "3e791ede34ed5125b9e012de381bdd4b145235efee60bcefe9c0f29bc1223204"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "f9a87e72967d8bc572a3665d05e7945306233351e85b7a33dc9b22fad08ede63"
+
+[[files]]
+file = "kubejs/assets/minecolonies/textures/quests/hc_build_tool.png"
+hash = "76d1dc2aa2947fc1860d712db45923cee123cb3b26a7c3e1cf9e72084e01bb01"
+
+[[files]]
+file = "kubejs/assets/minecolonies/textures/quests/hc_defense.png"
+hash = "7b77b49721ce876d3e5347ee879521685e6e6efb13d5c4cfafad4205ad7381d4"
+
+[[files]]
+file = "kubejs/assets/minecolonies/textures/quests/hc_feed_the_machine.png"
+hash = "a694a7cc227b8253ad6dac61ed25dec6bfb19c107b960cb73aa2d871467cf096"
+
+[[files]]
+file = "kubejs/assets/minecolonies/textures/quests/hc_getting_started.png"
+hash = "5a03306a897db4e6eeea306aefd778f6abe3f48710a7feb150d1272e9603cd76"
+
+[[files]]
+file = "kubejs/assets/minecolonies/textures/quests/hc_logistics.png"
+hash = "584e9c66fd7e246d25d1b0f169d0dcfd1fd768f96e93e9d4a7394e71d957b283"
+
+[[files]]
+file = "kubejs/assets/minecolonies/textures/quests/hc_production.png"
+hash = "a6477caee18d8d9b48eeb95a704e6c97763e2515f7900dcbcf26a6a92127353b"
+
+[[files]]
+file = "kubejs/assets/minecolonies/textures/quests/hc_the_builder.png"
+hash = "1fde5e5a14ef4909e465dbcf0c33cefec7cf48af83ecd522d2394abc01d8ec7c"
+
+[[files]]
+file = "kubejs/assets/minecolonies/textures/quests/hc_university_research.png"
+hash = "772e2e789bb4b643c11763c0c1915404325861045d44de43fa051d5216f77e7b"
+
+[[files]]
+file = "kubejs/assets/minecolonies/textures/quests/hc_utility.png"
+hash = "83de7c75e965aef7b6a1fefe3b211392017ceb13b0c8198c1a603a716e296445"
+
+[[files]]
+file = "kubejs/assets/minecolonies/textures/quests/minecolonies_logo_medium.png"
+hash = "02d809eca8d4f4e60698e1e5b467a9045d5d9f8f2b864aa0100aeb3ab1389336"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
@@ -474,6 +674,11 @@ hash = "eeb686993eeab4daf934079946966780ba7d367c41316e5febcda85059b4f85e"
 metafile = true
 
 [[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "9cb8d355c77067b00a96d96db398f60db62a6ee238dabff45ade33dd8d9f9e3b"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "54b6ce5c7ccf54db4cf8888e1c7e56b2d840cddc0e3e3fd15869a03d5c76c2ef"
 metafile = true
@@ -486,6 +691,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "43287a3c5030a05b370b45ec1ab9a4a8d5c3d43e9c740aae5218f07ffd041fd2"
 metafile = true
 
 [[files]]
