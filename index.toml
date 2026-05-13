@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "96eab3328337034b9503173a460c1ce11ce1666b9094dcdc05990976985f72c5"
+hash = "05abf6fafe4a8adf5aaa24f09b7dedfbe199a8727d925e816fc608d6357f5ba8"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-sable.pw.toml"
-hash = "b2fd83d33952e7db9a6643f700d05416aea6ac82b4af203b288e6e81accb3f00"
+hash = "9b8211d6db388c8f289d7134f584ed817b24a3ab202857e0f631a5c168972095"
 metafile = true
 
 [[files]]
@@ -1063,7 +1063,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-automated-logistics.pw.toml"
-hash = "87a03e9eaccde4fa535affa5eeaf9b6aa44b715e45f51a4e940a6cd5125eef93"
+hash = "5863b8496a75118c8c120889fdb305d5449761fcf5f3cd83594e792c6595bfb7"
 metafile = true
 
 [[files]]
@@ -1263,7 +1263,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "9d93dfc367eb58ff112a7ea21959b8c8864890d0a0b5f9d825fa67dba9262471"
+hash = "acf14ebf63e023fd7b1a58c187f88f2091d5632e1723a816c460e511f6df711d"
 metafile = true
 
 [[files]]
@@ -1283,7 +1283,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "187eed40d3c7e31150ca2cd7642f794ef93ba8fb9f1407845ae5b329cf8632d6"
+hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
 metafile = true
 
 [[files]]
@@ -1393,7 +1393,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "bac64d66334b78287575f7717aeb542bf4871c0fda866e9a9df4c080f7fdfed7"
+hash = "37e62ad6e7cde4983ac6c4a4173e7332e0b157f080dd71d615a9aa7423c985d4"
 metafile = true
 
 [[files]]
@@ -1512,7 +1512,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "205410294ed5a394b19c9a5c480220f459090b80b6bf10b4d474214fbaf9ccc5"
+hash = "3ea53a3421a50217c28e1aed057fd7baf08e946e90013ba12e84d3e04fad4600"
 metafile = true
 
 [[files]]
@@ -1602,7 +1602,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "243033139e54f4ed31c168d45ac50e1ec9085fd88d9cc1f3949f52300525a02a"
+hash = "0d76b6f0f8b2cbe44931c7094c416aab1d1534c47cbee499f01c546e5e09b42b"
 metafile = true
 
 [[files]]
@@ -1657,7 +1657,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "c5e57870a5a389d305dd742881d322494c1d40a1bf603e008ca572b6d7edf791"
+hash = "9ef81e3a2eedc119c659940b940e5ab1a1ed6e37fbbc83c3edf53a8ea859aaeb"
 metafile = true
 
 [[files]]
@@ -1727,12 +1727,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "ae4c442f0049d0af3abbe851d1b51126c43e614cb97636c9958036b910b619c9"
+hash = "4de2401ceb3e57167eda98da5a6bc2d08be987c9c79b92badca1d2a1b4a1b9db"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "0528731743be7df4ba5a8952264861920f90475ed333f914fddea75473cd6012"
+hash = "ea26b3361cce36fd5bfef7b3db163841ce28eace15a5587ff3578873b175da44"
 metafile = true
 
 [[files]]
@@ -1787,7 +1787,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "3f74e4ca818072bcf5eec9bf30686021947ac4e63f22ff6da7fee956b4427173"
+hash = "5c8fcbfb87b007760aaa642a6992640ef852b50f726feabf3de3d4f360b5d35f"
 metafile = true
 
 [[files]]
