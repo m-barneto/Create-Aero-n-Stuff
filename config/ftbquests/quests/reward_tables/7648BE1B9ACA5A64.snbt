@@ -1,0 +1,9 @@
+{
+	id: "7648BE1B9ACA5A64"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ id: "3B88C77B2F32ED78", item: { count: 1, id: "ae2:mysterious_cube" } }
+		{ id: "5D4E6307F8F482EC", item: { count: 1, id: "ae2:quartz_block" } }
+	]
+}

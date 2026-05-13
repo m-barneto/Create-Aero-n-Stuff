@@ -1,21 +1,63 @@
 {
 	chapter.09FBD576F87881B4.title: "Create Ore Excavation"
-	chapter.1CFC7955957D28B7.title: "Create Central Kitchen"
+	chapter.0E21FB2EFB41A583.title: "Minecolonies"
+	chapter.0F6CCDB4ABBAE4C6.title: "Connected"
+	chapter.16FB60006AEFF4EA.title: "awddaw"
+	chapter.1A29E39877A391C3.title: "Crafts and Additions"
 	chapter.1E0B14B8BEAE3175.title: "Create Stuff 'N Additions"
+	chapter.1FED0B2DC9E5C6AC.title: "Farmers Delight"
 	chapter.21FFEEC5D27A5737.title: "Steel Age"
-	chapter.23983F4DC524B14B.title: "Mekanism"
+	chapter.2EDCB11C700F8BAE.title: "Enchantment Industry"
+	chapter.31DE2AF4A3147EDF.title: "Handy Stuff!"
+	chapter.3E72C52E7F86053A.title: "Confectionary"
+	chapter.3F0013667E35E963.title: "Tetra"
+	chapter.41D954C3F57B4BF1.title: "Sophisticated"
 	chapter.4206A58542561BF0.title: "Create Connected"
 	chapter.49EA4A06D4508740.title: "Applied Energistics 2"
+	chapter.4ADD1419A62943A4.title: "Diesel Generators"
 	chapter.4E115E1260B9FA39.title: "&7Create Aeronautics: 1"
 	chapter.54D57FF8C31ABBAE.title: "Chemicals"
 	chapter.56096636DE3BAEC1.title: "&7Create Aeronautics: 2"
+	chapter.563CFCB2EA16C2A8.title: "AERONAUTICS"
+	chapter.5643BBCABC0964A5.title: "WELCOME"
+	chapter.58FD0DDD46EF0A83.title: "Create"
 	chapter.5C3FF9D1ECAC4860.title: "Create"
+	chapter.5FB589EA440C356B.title: "Immersive Armors"
+	chapter.612AE87D4BCDF0A6.title: "NEW AGE"
+	chapter.63FBDE11A8970B12.title: "Stuff and Additions"
+	chapter.658AA64BA56F0E68.title: "Trading Floor"
 	chapter.66F98B6CCBBBF2A2.title: "Create Crafts \\& Additions"
 	chapter.7332B6BB3E51839A.title: "Big Voltage"
+	chapter.78AA124AC9E370B1.title: "Mob Spawners"
 	chapter_group.0015B593B4889A40.title: "Technology"
 	chapter_group.181E781F1BAE7410.title: "Create"
 	chapter_group.4A842940CEB7DFFB.title: "Create TFMG"
+	chapter_group.6398AB49C115030C.title: "CREATE"
 	file.0000000000000001.title: "Create Ultimate Selection 2"
+	quest.0000000080010000.quest_desc: ["Craft an **Acacia Cabinet** (or any wood type) for a dedicated food storage block on your farm or in your kitchen."]
+	quest.0000000080010000.title: "Food Storage"
+	quest.0000000080010003.quest_desc: ["Make a bowl meal like **Cabbage Rolls** or a **Beef Stew**. These full meals offer high saturation and are great for exploration."]
+	quest.0000000080010003.title: "Basic Sustenance"
+	quest.0000000080010007.quest_desc: ["Use your new **Skillet** to prepare a **Fried Egg** or cook some **Bacon**. Skillet recipes are quick ways to cook small meals."]
+	quest.0000000080010007.title: "A Quick Fry"
+	quest.000000008001000B.quest_desc: ["Prepare a decorative block meal like **Stuffed Pumpkin** or a **Roast Chicken Block**. These grant substantial bonuses and can feed multiple people."]
+	quest.000000008001000B.title: "The Feast Block"
+	quest.0000000080010023.quest_desc: ["The Slicer provides a means for mechanical cutting, speeding up the preparation of large batches of ingredients"]
+	quest.0000000080010023.title: "Mechanical Slicing (Slice and Dice)"
+	quest.0000000080010026.quest_desc: ["The Sprinkler automates crop watering"]
+	quest.0000000080010026.title: "Efficient Farming (Slice and Dice)"
+	quest.000000008001002A.quest_desc: ["Begin cultivating **Bell Peppers**, **Cotton**, and **Coffee Beans** to unlock the unique recipes offered by **Rustic Delight**."]
+	quest.000000008001002A.title: "New Exotic Crops (Rustic Delight)"
+	quest.000000008001002F.quest_desc: ["Craft **Syrup** to use as a primary sweetener in coffee, pancakes, and cookies. It is the liquid gold of the rustic kitchen."]
+	quest.000000008001002F.title: "Liquid Gold (Syrup)"
+	quest.0000000080010032.quest_desc: ["Bake a stack of **Pancakes**! Use **Syrup** or fruit for toppings to create a high-saturation breakfast."]
+	quest.0000000080010032.title: "The Perfect Stack (Pancakes)"
+	quest.0000000080010035.quest_desc: ["Roast your **Coffee Beans** and craft a simple **Coffee**. This provides a temporary boost to speed and focus."]
+	quest.0000000080010035.title: "A Morning Brew (Coffee)"
+	quest.0000000080010038.quest_desc: ["Combine coffee with milk, syrup, or chocolate to create advanced drinks like **Syrup Coffee** or **Chocolate Coffee**."]
+	quest.0000000080010038.title: "Barista's Best"
+	quest.000000008001003C.quest_desc: ["The **Squid Ink Pasta** is a high-tier specialty dish that uses squid to create a unique and flavorful meal."]
+	quest.000000008001003C.title: "Ocean Harvest"
 	quest.00654F576522DDCA.quest_desc: [
 		"A gearbox with shafts on all 6 sides."
 		"Top and bottom spin at half speed."
@@ -25,23 +67,39 @@
 		""
 		"It uses &3Hydrogen&r gas as a fuel, of which it can store up to &o&b24,000mB&r."
 	]
+	quest.00925514C4C0BBCE.quest_desc: ["The **Extractor** attaches to the **Drilling Machine** to pull out mined ores. Use a simple item transport method (like belts or funnels) to collect the resources."]
+	quest.00925514C4C0BBCE.title: "Collecting the Goods"
+	quest.00A3AD4BD4EE0FC7.quest_desc: ["The **Guard Tower** is your first line of defense, providing a safe elevated position for guards to patrol and attack hostile mobs (or players) within the colony borders."]
+	quest.00A3AD4BD4EE0FC7.title: "Build the Guard Tower"
 	quest.00ACD837E30165B3.quest_desc: ["Generates rotational energy from FE. Enables bridging between electrical mods and Create's kinetic systems."]
 	quest.00C88180C14B1A91.quest_desc: ["Used with &6Spatial IO Port&r to store spatial regions."]
+	quest.00C8C2FAC2459375.quest_desc: ["The **Everlasting Upgrade** ensures that even if you die, the backpack and its contents remain in your inventory."]
+	quest.00C8C2FAC2459375.quest_subtitle: "Keep inventory, permanently."
+	quest.00C8C2FAC2459375.title: "Everlasting Upgrade"
 	quest.00EFC7B327E79076.quest_desc: [
 		"After zapping away trillions of power in the &dSPS&r, we can finally create &5Antimatter Pellets&r."
 		""
 		"Run the &3Antimatter Gas&r you get from the &dSPS&r into a &2Chemical Crystallizer&r and you'll get &o&b1&r &5Antimatter Pellet&r for every &o&b1,000mb&r you make."
 	]
 	quest.0104893F8F3458DA.quest_subtitle: "Right click steel casings with a heavy plate."
+	quest.011207A61DF23A64.quest_desc: ["The **Drilling Machine** is the central block for excavation. Place it directly above the center of a discovered ore vein (or where you think one is) and attach a **Drill Head** to start mining."]
+	quest.011207A61DF23A64.title: "The Excavator Setup"
+	quest.0146F1A6865A373B.quest_desc: ["**Treatise Scrolls** are obtained by trading with villagers and offer benefits like enhancing material forging quality or reducing the resource cost for component crafting."]
+	quest.0146F1A6865A373B.title: "A Synergistic Approach (Treatise)"
 	quest.0149B3F7F08D7E35.quest_subtitle: "Crafting ingredient"
 	quest.01C3B23461807007.title: "&dUltimate Mechanical Pipe"
 	quest.01E0820861BE3E93.quest_desc: ["The ultimate drilling tool, forged from powerful Netherite for unmatched strength and endurance. It tears through the hardest blocks with ease, offering top-tier performance for advanced automation and late-game mining setups."]
 	quest.0203D270DDDC7E84.quest_subtitle: "Made by spouting creosote oil in planks."
+	quest.0213C3F63A653227.quest_desc: ["A sturdy spot for connecting a rope"]
 	quest.0221FE72F998600E.quest_subtitle: "A Create mod add-on adding quality-of-life blocks that you wish existed in Create."
 	quest.026FF42DA59E112A.quest_desc: ["Now our little car needs its 4 wheels"]
 	quest.026FF42DA59E112A.quest_subtitle: "THE WHEEL!"
 	quest.026FF42DA59E112A.title: "Tire"
+	quest.02C39AF9B0CDB5A4.quest_desc: ["Randomize block placement"]
 	quest.02D05B1D0B266578.quest_desc: ["Once you have steel, you might choose to speed up your blast furnace by making these reinforcing walls for it."]
+	quest.030E3962451BB4BD.quest_desc: ["The **Storage Controller** links all *physically connected* Sophisticated storage blocks into a single network for automation. The **Storage Tool** allows you to view, configure, and link **Storage Links** wirelessly to the network."]
+	quest.030E3962451BB4BD.quest_subtitle: "The key to your storage network."
+	quest.030E3962451BB4BD.title: "Storage Controller and Network Tools"
 	quest.037B8971900F3840.quest_desc: [
 		"The Factory Must Grow (TFMG for short) is an addon to the Create mod. The mod adds factory-style structures, processes, and items like Crude Oil, Steel Blasting, and various Electric Components."
 		""
@@ -49,13 +107,25 @@
 		""
 		"Processes that this mod adds are Oil Distillation by boiling Crude Oil into various oil products (more commonly known as \"fractions\") like Diesel and Gasoline. You can use your Diesel to power a easy-scalable Diesel Engine or further refine your Naphtha into Ethylene and Propylene for Plastic and Coolant Liquid. Make Napalm Bombs out of Gasoline, Sulfuric Acid, and Aluminum to \"prank\" your friends, but don't try this at home!"
 	]
+	quest.03A6C339A6F203C6.quest_desc: ["Increase your luck!"]
+	quest.03D3695417CE2B82.quest_desc: ["A large cog wheel with a crank"]
+	quest.03DB76C4A4A1386B.quest_desc: ["The **Hopper Upgrade** acts as a powerful integrated hopper for automated insertion or extraction. The **Advanced** version allows filtering and other complex routing logic."]
+	quest.03DB76C4A4A1386B.title: "Hopper Upgrades"
+	quest.03F9939977753992.title: "Iron Backpack"
+	quest.043D87F52A55D8F9.quest_desc: ["Works perfectly with the rock cutting wheel"]
 	quest.0488989FD7F5AF42.quest_desc: ["Obtained by putting an Iron Ingot in a Rolling Mill."]
 	quest.0488989FD7F5AF42.quest_subtitle: "Crafting component."
+	quest.04AC241FE350DD86.quest_desc: ["Good for handling a shipwreck "]
 	quest.04E2D539E33B7B0F.quest_desc: [
 		"The Chemical Infuser combines two gases to create another gas. The gas gauges on the left and right side of its GUI are the input tanks, and correspond to correspond with the left and right sides of the machine. The gauge in the middle is for the resulting gas, which likewise is output through the front of the machine. The input and output sides can be changed in the UI of the machine."
 		""
 		"Without any upgrades, it operates using 200 J/t and operates once per tick (according to the recipe's cost and output). Notably, each speed upgrade doubles the operation speed of this machine, for 256 operations/t production rate at maximum upgrades."
 	]
+	quest.051E5008AF90F86B.quest_desc: ["A gearbox with more sides"]
+	quest.05E72D0E7AC4B29A.quest_desc: ["The **Skillet** is used for recipes requiring frying or sautéing ingredients, often yielding delicious cooked patties and vegetable medleys."]
+	quest.05E72D0E7AC4B29A.title: "Frying up Dinner"
+	quest.0602CB99A77F9CB8.quest_desc: ["The ultimate in portable storage. The Netherite Backpack is fire-resistant and offers the most upgrade slots and storage space."]
+	quest.0602CB99A77F9CB8.title: "Netherite Backpack"
 	quest.062051ED6D130ACD.quest_desc: [
 		"Steel is used for almost everything in TFMG, make a lot of this."
 		""
@@ -85,6 +155,7 @@
 		"For this starter build, let's put a port on each side. Make sure to configure them to match the list of &9inputs&r and &coutputs&r!"
 	]
 	quest.0696B725E840B996.title: "Interacting with the Fission Reactor"
+	quest.06AFC3385C85BBD6.quest_desc: ["How many blocks long is that?"]
 	quest.06CA244E47D9C097.quest_desc: [
 		"&2QIO Dashboards&r allow a user to interface with the contents of a &9QIO Drive Array&r."
 		""
@@ -100,7 +171,11 @@
 		"Please consider if this is worth your time before trying to get some."
 	]
 	quest.06E5134C2F756BED.quest_desc: ["Say, rumor on the street is that killing an Ender Dragon with a Revolver is a fun challenge; it's also a way to get Shader Grabbags which can be used to get Shaders. Shaders can be used to make your Revolver look nifty."]
+	quest.074223593520B23E.quest_desc: ["This chapter serves as your initiation into the **Tetra** mod, guiding you through its core mechanics and features."]
+	quest.074223593520B23E.quest_subtitle: "Welcome to Tetra"
+	quest.074223593520B23E.title: "Introduction to Tetra"
 	quest.075E97B2BB5F93DF.quest_desc: ["Items cannot be added or removed by the player, but by components such as Chutes, Funnels, and Item Hatches."]
+	quest.076C39593E801A5E.quest_desc: ["A propeller for generating thrust"]
 	quest.07AD45DCF9EE3C2E.quest_desc: [
 		"&9Tier Installers&r are used to upgrade various machines into their &3Factory&r equivalent."
 		""
@@ -127,6 +202,12 @@
 		"and a Singularity. Any explosive force should be enough to trigger the reaction."
 	]
 	quest.0834527ED1C0E83B.quest_desc: ["Allows FE to be carried into and used inside Create contraptions."]
+	quest.085F473094778DCD.quest_desc: ["The **Resource Scroll** is a valuable utility item that can be used to instantly summon needed resources from the warehouse, or to place requested items into the warehouse."]
+	quest.085F473094778DCD.title: "Utility: Resource Scroll"
+	quest.08ACA2EAE7CB44AA.title: "Blasting Upgrades"
+	quest.08CEE78252594F5F.quest_desc: ["Sophisticated Storage blocks can be instantly upgraded to higher tiers in the world using Tier Upgrades. Start with the **Basic to Copper** to unlock mid-game capacity."]
+	quest.08CEE78252594F5F.quest_subtitle: "Right-click on your storage block to upgrade it."
+	quest.08CEE78252594F5F.title: "Storage Tier Upgrades"
 	quest.08DDE018A804BFE7.quest_desc: [
 		"This machine uses energy to extract dusts out of certain blocks and ores, making it essential to producing different kinds of tools. Not to be mistaken with the Crusher, this machine is the pulverizer equivalent in other mods."
 		""
@@ -135,6 +216,7 @@
 		"Note: Compressed Carbon is worth 100 carbon; Coal is worth 10 and Charcoal is worth 20; hence it is better to refine coal and use Compressed Carbon."
 	]
 	quest.08DDE018A804BFE7.quest_subtitle: "Breaks Raw Ores into Dusts"
+	quest.0902520ECB26E099.quest_desc: ["use a funnel to get fuel into your reactor"]
 	quest.0933E0EF37133C32.quest_desc: [
 		"Using the Circuit Table, you can create much smaller logic circuits. To do so, you will need a backplane, some vacuum tubes and some solder like blead or copper wires. The table also needs to be supplied with energy through the input at its back."
 		""
@@ -182,6 +264,13 @@
 		"Slag is removed from the back, items are loaded into the top and Blast Furnace Preheaters may be placed on either side to speed up manufacture."
 	]
 	quest.0A0D08D0032BAF5B.title: "Improved Blast Furnace"
+	quest.0ABA0995CC4AB6CB.quest_desc: ["Use the **Filter Upgrade** to define exactly what items can go in (or out) of the backpack. The **Advanced** version increases the filter slots."]
+	quest.0ABA0995CC4AB6CB.quest_subtitle: "Input/Output Item Control"
+	quest.0ABA0995CC4AB6CB.title: "Filter Upgrades"
+	quest.0AC85C39CEEE118C.quest_desc: [
+		"Mine Blocks from far away!"
+		"(useful for mining on sky islands)"
+	]
 	quest.0AD6897A8AB1CC5D.quest_desc: ["Use to check how much oil a deposit has."]
 	quest.0ADA2391DDE7466E.quest_desc: ["An advanced control unit that manages engine performance and power output. It optimizes efficiency, regulates speed, and ensures smooth operation of complex machinery systems."]
 	quest.0AE0E5AA8FB69FE2.quest_subtitle: "Gadgets for all situations"
@@ -217,6 +306,9 @@
 		"If that craft is a prerequisite for another craft in the request, the items are stored in that crafting CPU and then used in that craft."
 	]
 	quest.0AEDFC064B84C877.title: "Auto-Crafting"
+	quest.0B009391E3F76D6E.quest_desc: ["The **Fisherman Hut** provides a steady, hands-off source of fish. Place the hut over water and hire a Fisherman to keep your early food stocks filled."]
+	quest.0B009391E3F76D6E.title: "Fisherman Hut"
+	quest.0B12EBD18763F023.quest_desc: ["PONDER!"]
 	quest.0B281C34E455EE72.quest_desc: ["Just a larger pumpjack."]
 	quest.0B2DF0B5F4247A3F.quest_desc: [
 		""
@@ -232,9 +324,20 @@
 		""
 		"If the Stock Keeper is locked, other players will not be able to access its UI. The Stock Keeper will still be able to accept Shopping Lists."
 	]
+	quest.0BE6236A78C6894D.quest_desc: ["The **Compacting Upgrade** automatically converts items into their block form (e.g., nine iron ingots into an iron block) saving huge amounts of space."]
+	quest.0BE6236A78C6894D.quest_subtitle: "Maximize block storage density."
+	quest.0BE6236A78C6894D.title: "Compacting Upgrades"
+	quest.0C2B7732BCF7BC81.quest_desc: ["Obtain the **Quick Latch** component, which can be used on a **Tool Belt** or a **Bow**. Experience the convenience of this rapid-use ability!"]
+	quest.0C2B7732BCF7BC81.title: "Rapid Deployment Mechanism"
 	quest.0C8F501F6BDFFB92.quest_desc: ["Obtained by putting a Gold Ingot in a Rolling Mill."]
 	quest.0C8F501F6BDFFB92.quest_subtitle: "Crafting component."
 	quest.0D158BAE5A38798A.quest_desc: ["Allows the player to fly, move and swim faster. Works with water"]
+	quest.0D6E099A1A242153.quest_desc: [
+		"The **Town Hall** is the heart of your colony, defining the colony boundaries and housing the Colony Control block."
+		"Place the Town Hall block inside the deployment boundary you set with the **Supply Deployer**."
+		"Use the **Block of Gold Scepter** to select the Town Hall block, choose a build style, and give it resources to start construction with the Builder."
+	]
+	quest.0D6E099A1A242153.title: "The Town Hall: Heart of the Colony"
 	quest.0DA65A502C57261C.quest_desc: ["Just like any other create contraption, you can superglue basically anything to a pumpjack, with the stipulation that the main arm is complete."]
 	quest.0DA972D85BB3C86C.quest_desc: [
 		"Coke Oven is a multi-block machine added by the Immersive Engineering mod. It turns Coal into Coal Coke and creates Creosote as a byproduct."
@@ -245,6 +348,13 @@
 	]
 	quest.0DA972D85BB3C86C.quest_subtitle: "Hot Topic!"
 	quest.0DA972D85BB3C86C.title: "Coke Oven"
+	quest.0DCC41C7AEE63B32.quest_desc: ["A redstone powered burner for generating hot air"]
+	quest.0DF990C01E668B43.quest_desc: ["The bow is a powerful projectile weapon, and its **Tetra** counterpart is no exception. Experiment with different bow components to maximize your strength."]
+	quest.0DF990C01E668B43.title: "Master Archer's Weapon"
+	quest.0E000B8A071C1F4B.quest_desc: ["absorbs exp orbs!"]
+	quest.0E1056A87BB27BC9.quest_desc: ["Suround a Generator coil with magnitite to get &4FE POWER!&r"]
+	quest.0E3C466668EDC434.quest_desc: ["Utilize the **Stonecutter** material on your sword to gain the special ability to **sweep-mine stone** and similar blocks."]
+	quest.0E3C466668EDC434.title: "The Stone Carver Blade"
 	quest.0E547F2503A07ACE.quest_desc: ["A sturdy mechanical drill made of iron, designed for efficient mining and material processing. It delivers reliable power and durability, perfect for automating excavation tasks and breaking tough blocks with ease."]
 	quest.0E580153F1936699.quest_desc: ["A powerful machine that converts excess energy or items into stored matter. It’s essential for producing singularities and other high-tier materials used in advanced storage and automation systems."]
 	quest.0E5FC39E6C71A872.quest_desc: ["The shaft is a basic mechanical component in Create. A shaft can be used to connect two mechanical components such that the rotation of one rotates the other, and shafts serve as the only blocks upon which Mechanical Belts can be placed."]
@@ -255,10 +365,17 @@
 		""
 		"Useful for rotating blocks, and removing individual parts from Cables."
 	]
+	quest.0EBB4E5195610A82.quest_desc: ["The **Sawmill** is an advanced wood production building that turns logs into planks, crafting items needed by the Builder, and can eventually craft advanced wood blocks."]
+	quest.0EBB4E5195610A82.title: "Advanced Wood: Sawmill"
+	quest.0ED823E6406CCC36.quest_desc: ["Its not magic its SCIENCE"]
 	quest.0EE2E9EB6DC01E34.quest_subtitle: "Crafting ingredient"
 	quest.0EEA8C33BC327CCA.quest_desc: ["The Pattern Access Terminal serves to solve a specific issue: in a dense tower of ME Pattern Providers and Molecular Assemblers, you can't physically access the providers to insert new patterns. Additionally, perhaps you're lazy and don't want to walk across your base to insert a pattern. The pattern access terminal allows access to all pattern providers on the network."]
+	quest.0F409DACBEB7BBF8.quest_desc: ["The **Supply Chest Deployer** offers a more robust start than the Camp, providing a larger initial chest and more resources for the Town Hall construction."]
+	quest.0F409DACBEB7BBF8.title: "Option: Supply Chest Deployer"
 	quest.0F550A972D2CC175.quest_desc: ["To build balloons, we will need the hot air from this machine! It is not very cool to put fire on a netherrack, it might not work!"]
 	quest.0F550A972D2CC175.quest_subtitle: "Ballons"
+	quest.0F6777CAB70D17AE.quest_desc: ["The **Vein Finder** gives an initial direction to nearby veins. Try using poner on the Vein Atlas to see how it works"]
+	quest.0F6777CAB70D17AE.title: "Advanced Prospecting (Atlas)"
 	quest.0FF852DE33E41C90.quest_desc: [
 		"If we want to create massive amounts of &4Power&r, we'll need a way to store all of it, and those &aEnergy Cubes&r just won't cut it."
 		""
@@ -282,6 +399,15 @@
 		""
 		"Outputs can be configured to void excess fluid or stop refining when full to prevent wasting oil."
 	]
+	quest.10BC36D23A81AF11.quest_desc: ["The **Limited Barrel** series sacrifices inventory slots for enormous stack capacity, ideal for bulk storage of single item types like stone, wood, or dirt."]
+	quest.10BC36D23A81AF11.quest_subtitle: "High density bulk storage."
+	quest.10BC36D23A81AF11.title: "Limited Barrels"
+	quest.10DF3D58FD817EF2.quest_desc: [
+		"Upgrade hammer to tinker stronger item."
+		"You need another hammer to upgrade."
+		"(So I had gave you another above XD)"
+	]
+	quest.10DF3D58FD817EF2.title: "New Stone Age"
 	quest.1112E4E2CCEB2467.quest_desc: [
 		"So now, you should have 5 machines ready to go to process your Ores. "
 		""
@@ -291,13 +417,25 @@
 	quest.1112E4E2CCEB2467.title: "Ore Factory: Tier 3"
 	quest.113E1D3C37C63088.quest_desc: ["Obtained by putting a Gold Sheet in a Rolling Mill."]
 	quest.113E1D3C37C63088.quest_subtitle: "Crafting component."
+	quest.1157A9548EB3044A.quest_desc: ["Highly Conductive Metal"]
 	quest.1188D57C76DBD215.quest_desc: [
 		"Potentiometers allow a percentage of the input voltage to pass to the output side. Unlike in real life, they do not waste power."
 		""
 		"For example, if your base is wired at 3 kV but your lights only require 150 V, you can set a potentiometer for the lights at 5%. This way, they don’t consume several kW for no benefit."
 	]
 	quest.11D8E015814D44F8.quest_desc: ["Goes on top of the vat and takes different attachments. Requires rotational power."]
+	quest.120152510AD4B59A.quest_desc: ["The **Build Goggles** allow you to see the outline of buildings *before* they are placed, helping you perfectly plan your colony layout."]
+	quest.120152510AD4B59A.title: "Utility: Build Goggles"
 	quest.1210C5B720AE249F.quest_subtitle: "Just crush some dirt i guess."
+	quest.125C1B72258B20FE.quest_subtitle: "The Electric motor generates kinetic energy from &cFE&r. The Alternator generates electricity from &9Rotational Force.&r"
+	quest.125C1B72258B20FE.title: "Craft &cElectric Motor and Alternator"
+	quest.128D971AEC6AC230.quest_desc: ["The **Ultimate Drill** is the pinnacle of the mod, capable of drilling any vein at maximum speed, regardless of its composition."]
+	quest.128D971AEC6AC230.title: "Pinnacle Excavation"
+	quest.130E8FC7479E4271.quest_desc: ["The **Shepherd Hut** manages a herd of sheep for wool production. They require shears to operate."]
+	quest.130E8FC7479E4271.title: "Herder: Shepherd Hut"
+	quest.1312B33261493897.quest_desc: ["Better magnets means MORE &4FE POWER&r"]
+	quest.132AF80A62FFF98D.quest_desc: ["The **Tavern** is the hub for attracting new citizens. A higher level Tavern will draw new recruits more quickly. Ensure there is food in the system to encourage them to stay!"]
+	quest.132AF80A62FFF98D.title: "Build the Tavern: Recruit Citizens"
 	quest.135E27A19B935CD7.quest_desc: [
 		"Right-click the chain of a Chain Conveyor to set the frogport’s target, then place the frogport. Frogports can be placed up to 4 blocks to the side and down from their target chain."
 		""
@@ -306,6 +444,7 @@
 		"The frogport will only send packages that don’t match its address unless its set to “only send packages” in its UI."
 	]
 	quest.138B96B20044ED12.quest_desc: ["A coil of constantan wire known for its stable electrical resistance. It’s used in crafting electronic components and machinery that require precise power control."]
+	quest.138C764D48EB4127.title: "Welcome to the Farm"
 	quest.13B495F64F5C9D48.quest_desc: ["A refined fuel made by heating coal without oxygen. It burns hotter and longer than regular coal, making it ideal for powering furnaces, engines, and heavy industrial machinery."]
 	quest.13CAA74DEE1F21A3.quest_desc: ["A reinforced container designed to safely hold and process volatile or high-temperature substances. Its heat-resistant structure makes it ideal for chemical reactions, refining, and industrial production."]
 	quest.140DE53DC0FCD9F4.quest_desc: [
@@ -356,10 +495,18 @@
 		"{image:kubejs:textures/item/induction_inside.png width:200 height:100 align:1}"
 	]
 	quest.14D772808D1BEAE2.title: "Customizing Power Limits"
+	quest.14DA3DC7C0009A6A.quest_desc: ["The peak of colony population! **50** citizens is a massive achievement. Maintaining this population requires immense resource management and high-level buildings."]
+	quest.14DA3DC7C0009A6A.title: "Population Milestone: 50 Citizens"
 	quest.14F6CF9A5F807A51.quest_desc: ["Right click on a tank of lubrication to fill the can. Applying this to engines grant a 30% fuel saving."]
+	quest.1501C5011A3702F2.quest_desc: ["Ponder me!"]
+	quest.154A2371225585E9.quest_desc: ["You're gonna need some &4FE power&r and an &bEnergizer&r for this! "]
 	quest.1583C85390362BB4.quest_desc: ["Until now our car only goes forward and backward; for this, we need to use the redstone signal to turn the car's wheel. We can use a redstone link. We need to put 4 links on the wheel mount, always on the front wheels. Place 2 levers on each and leave it in receiver mode; remember to invert the sides of each redstone link so the wheel turns in the correct direction."]
 	quest.1583C85390362BB4.quest_subtitle: "Controlling the direction"
 	quest.1583C85390362BB4.title: "Redstone Link"
+	quest.15B51FB56A64C303.quest_desc: ["The **University** is the primary building for training citizens into specialized roles, enabling high-level jobs like the Scholar, which can boost research speed and citizen quality."]
+	quest.15B51FB56A64C303.title: "The University: Advanced Training"
+	quest.15F03A5E7E14C022.quest_desc: ["The **Stonemason Hut** specializes in cutting, shaping, and crafting stone blocks and complex stone decorations needed for higher-tier buildings and specific schematics."]
+	quest.15F03A5E7E14C022.title: "Advanced Stone: Stonemason"
 	quest.1610C8F55F59E82F.quest_desc: [
 		"The Quartz Fiber."
 		""
@@ -383,12 +530,23 @@
 	]
 	quest.162CE44400A63575.quest_subtitle: "The Starting Machine"
 	quest.16665DE6F0921C26.quest_desc: ["A powerful kinetic generator that converts heat into rotational energy. By harnessing temperature differences, it provides a steady power source for your machines and automation systems."]
+	quest.167C5A3841D3B89F.quest_desc: [
+		"The **Soul Catcher** is used to capture a mob's soul."
+		"To work, the target mob must have an active **Weakness effect**, often applied with a throwable potion."
+		"The time it takes to capture a mob depends on its hitbox volume, with smaller mobs being quicker."
+		"Bosses cannot be captured."
+	]
+	quest.167C5A3841D3B89F.quest_subtitle: "Capture a mob's soul for spawning"
+	quest.167C5A3841D3B89F.title: "Catching Souls"
 	quest.16A6C47E35F3B9D0.quest_desc: [
 		"Once we have an &9Isotopic Centrifuge&r, we can run our &2Uranium Hexafluoride&r in and create &3Fissile Fuel&r!"
 		""
 		"That wasn't really that bad, right?"
 	]
 	quest.16A6C47E35F3B9D0.title: "&3Fissile Fuel&r"
+	quest.172938CA9D2EF823.quest_desc: ["Vertical item vaults"]
+	quest.1762E8D84A5D523D.quest_desc: ["The **Pickup** upgrade absorbs nearby drops into the barrel's inventory. The **Magnet** upgrade attracts items from a wider radius. Use the **Advanced** variants for filtering and greater range."]
+	quest.1762E8D84A5D523D.title: "Pickup Upgrades"
 	quest.17709C4D6222244B.quest_desc: ["Connects forge energy compatible blocks with wires to transfer energy, provides light when reciving power."]
 	quest.177C0E37A35A14F4.quest_desc: [
 		"When Powered by kinetics:"
@@ -418,8 +576,10 @@
 		""
 		"A Mechanical Belt can be placed over any number of Shafts arranged horizontally, vertically, or diagonally (45° towards the y axis) in a single line, provided that no obstructions are present and that the total length is no longer than twenty blocks. The Mechanical Belt also require that the two shafts face the same direction."
 	]
+	quest.187073F9830ECE79.quest_desc: ["Connect this to one side of your &2Reactor Rod&r"]
 	quest.187A3F5B41D1C923.quest_desc: ["Let's take our &2Sulfuric Acid&r and combine it with &bFluorite&r in a &9Chemical Dissolution Chamber&r to make &bHydrofluoric Acid&r."]
 	quest.187A3F5B41D1C923.title: "&bHydrofluoric Acid"
+	quest.18922D8834A0CF95.quest_desc: ["Outputs a redstone signal baed on altitude. Also shows info about air pressure and altitude when wearing goggles"]
 	quest.18A75E664BAC6425.quest_desc: ["Power is output via the three copper looking dots on the top of the multiblock, and the machine can be turned off by applying a redstone signal to the red dot on the front of the machine face. It does not have a GUI, so all input/output must be triggered manually."]
 	quest.18A75E664BAC6425.title: "Diesel Generator"
 	quest.18D88932916C7A98.quest_desc: [
@@ -435,7 +595,10 @@
 	]
 	quest.18D88932916C7A98.quest_subtitle: "Time to Break It Down"
 	quest.18D88932916C7A98.title: "The Start of a Tier 2 Ore Factory"
+	quest.190D10907EC19AC1.quest_desc: ["Fuel for your reactor"]
 	quest.191A2F855396BDCD.quest_desc: ["Automatically refills gadgets and armor that use fuel."]
+	quest.194E863F24FFF1AD.quest_desc: ["Most standard tools can be converted into **Tetra** versions, which are modular, upgradeable, and grow stronger over time. Simply place your double- or single-headed tools into the workbench to begin!"]
+	quest.194E863F24FFF1AD.title: "Forging Superior Tools"
 	quest.195729280394ABFB.quest_desc: [
 		"The Osmium Compressor is used to create Refined Obsidian Ingots from Refined Obsidian Dust and Glowstone Ingots from Glowstone Dust."
 		""
@@ -459,6 +622,9 @@
 	quest.197AB0E07A40512F.quest_desc: ["The Water Wheel is a source of rotational power. It generates Rotational Force when water flows over it."]
 	quest.19936E26E71B5F68.quest_desc: ["Energy is input through the bottom face and output from the top. "]
 	quest.19A9DA93FF046BD9.quest_desc: ["A sturdy yet lightweight frame used to encase and protect mechanical or electrical components. Its durability and resistance make it perfect for building advanced industrial machinery."]
+	quest.19D03831EB5EED02.quest_desc: ["The **Blacksmith** is responsible for crafting all metal tools, weapons, and armor required by your citizens and military forces."]
+	quest.19D03831EB5EED02.title: "Production: Blacksmith Hut"
+	quest.1A17EFA6931E49CC.quest_desc: ["it only connects if the input is spinning in the right direction"]
 	quest.1A61ABEC34369F47.quest_desc: ["A gearshift that changes rotation direction unless powered."]
 	quest.1A72F7DA24E1BB09.title: "&cAdvanced Mechanical Pipe"
 	quest.1A7D9B32BD59417B.quest_desc: [
@@ -472,6 +638,7 @@
 	quest.1AEBFCD56E37DF8D.quest_subtitle: "Good Googles"
 	quest.1AFBE29BB6CC2C0D.title: "Mechanical Componets"
 	quest.1B04A295850D0F00.quest_desc: ["The Train Observer is used to detect passing Trains."]
+	quest.1B48D15EF425C8C9.quest_desc: ["a small tire"]
 	quest.1B65E8BE91A087DA.quest_desc: [
 		"After placing a Chain Conveyor, they can be connected to other Chain Conveyors by right-clicking them with a Chain. The selection can be cleared by right-clicking the Chain Conveyor again. "
 		""
@@ -491,6 +658,22 @@
 		"&3Steel&r is a major crafting component in a lot of recipes in Mekanism."
 	]
 	quest.1B6DDF50D00CBB31.title: "Steel"
+	quest.1BB571557F74D3A1.quest_desc: [
+		"MineColonies allows you to build a thriving player-run civilization. You recruit NPCs, assign them jobs, and manage all resources needed for growth."
+		""
+		"The journey starts by obtaining a **Supply Camp** or **Supply Chest** deployer."
+	]
+	quest.1BB571557F74D3A1.title: "Welcome to MineColonies"
+	quest.1BFEBF8CC804D3AB.quest_desc: ["A better solar heater!"]
+	quest.1C16AEE8E29FB5A0.quest_desc: ["The **Rally Banner** is a military utility block used to summon all guards to a specific location for defense or a planned attack."]
+	quest.1C16AEE8E29FB5A0.title: "Military: Rally Banner"
+	quest.1C29150EA7A53EFC.quest_desc: ["No more water everywhere!"]
+	quest.1C910B0F5B827E9B.quest_desc: [
+		"Build your first hammer to start tetra."
+		"Another crafting table can build workbench."
+	]
+	quest.1C910B0F5B827E9B.title: "Your First Hammer"
+	quest.1CA1F6BC2F508536.quest_desc: ["A gearshift but backwards"]
 	quest.1CB243F7E197B883.quest_desc: ["Displays the top level job and its current progress so you can see what a particular Crafting CPU is currently working on."]
 	quest.1CBE8399B440A1FD.quest_desc: ["A powerful multi-cylinder engine arranged in a circular pattern for balanced motion and high torque. Its efficient design provides strong, consistent power for advanced industrial machinery."]
 	quest.1D00D782B8F0B6D6.quest_desc: [
@@ -506,6 +689,14 @@
 		"They do not accept power directly, but are used to add additional power storage to an already existing ME Network."
 	]
 	quest.1D197B1919452187.quest_desc: ["A compact Redstone Link that adds wireless redstone to buttons, levers, and linked levers."]
+	quest.1D267ADE18DD9817.quest_desc: [
+		"The &6printer&r will take any enchanted book by right clicking on it to save the enchantments you want to print onto new books."
+		""
+		"As long as the printer is given enough liquid xp it will make a duplicate of the book you have given it"
+		""
+		"You can also duplicate books you have written in by giving it the written book, then giving the &6printer&r liquid ink &a(made in the mixer)&r"
+	]
+	quest.1D267ADE18DD9817.quest_subtitle: "Enchanted Book Duplication kind of"
 	quest.1DBA8DD396081924.quest_desc: ["The Interfaces must be placed facing each other at 1-2 blocks apart, one on a Contraption with Fluid Tanks and one stationary. A Fluid Pump is required to insert or extract liquid from the Contraption. To pump liquids to another tank, simply connect the stationary interface and the fluid tank with fluid pipes, although pumps are required to move the liquids."]
 	quest.1DCDA89DA49A8EF0.quest_desc: ["Refinery is a structure added by the Immersive Engineering mod. It uses energy and combines Ethanol (8 mb) and Plant Oil (8 mb) to create Biodiesel (16 mb), a combustible fuel for Diesel Generator."]
 	quest.1DCDA89DA49A8EF0.title: "Refinery"
@@ -528,6 +719,8 @@
 	quest.1DE8B0C9A7195720.title: "&3Completed Fission Reactor"
 	quest.1E01AC22D5903AD1.quest_desc: ["Hand cranks with a cogwheel installed."]
 	quest.1E1016523BF3849D.quest_desc: ["A refined material obtained from crushing bauxite ore. It serves as a key ingredient in producing aluminum and other advanced industrial alloys."]
+	quest.1E1870FAD295DEDE.quest_desc: ["The **Supply Camp Deployer** sets up a temporary construction site with a chest for the initial Town Hall build. This is the simple start for a new colony."]
+	quest.1E1870FAD295DEDE.title: "Option: Supply Camp Deployer"
 	quest.1E1EF430810D08BF.quest_desc: [
 		"The &6Solar Neutron Activator&r is a machine that directs the neutron radiation of the sun into its internal reservoir, allowing for the slow creation of various isotopes."
 		""
@@ -535,6 +728,10 @@
 		""
 		"It does not need &nenergy&r except for &ndirect sunlight&r which can be intercepted by transparent blocks such as glass, cables, pipes, etc."
 	]
+	quest.1E3B2C2A5B3F8891.quest_desc: ["The **Compacting Upgrade** automatically converts items into blocks and vice versa. Essential for maximizing storage density of metal and stone resources."]
+	quest.1E3B2C2A5B3F8891.title: "Compacting Upgrades"
+	quest.1E9890769102E276.quest_desc: ["Generates rotational force when fed with &8coal&r or &4blaze cakes&r"]
+	quest.1E99ACD96AD8A826.quest_desc: ["connect two blocks together with a spring! use a wrench to change its strength"]
 	quest.1E9E11F072665A05.quest_desc: [
 		"We need to start creating our car; we can use the Chain Drive to make the chassis, place the axle and wheels, the seats, and the Physics Assembler. Build the car without it being stuck to the ground."
 		""
@@ -554,7 +751,13 @@
 		""
 		"&bRight-click&r with &7Empty Hand&r will &ninsert&r all of the shown item from &nyour inventory&r into &nthe network&r."
 	]
+	quest.1EEED0E88E2869EB.quest_desc: ["A precise source of redstone power"]
 	quest.1F36CF5D11E08839.quest_desc: ["Connects forge energy compatible blocks with wires to transfer energy."]
+	quest.1F6879A74DD18F0B.quest_desc: ["a REALLY big tire"]
+	quest.1F879560512B92E5.quest_desc: ["The **Filter Upgrade** provides fine-grained control over which items can be inserted or extracted from the storage block."]
+	quest.1F879560512B92E5.title: "Filter Upgrades"
+	quest.1F8C7E4FF3FCF23B.quest_desc: ["Ya cant catch ME!!"]
+	quest.1F8C7E4FF3FCF23B.title: "WHO IS THE MUFFIN MAN!?"
 	quest.1F980CFE55E589A6.quest_desc: [
 		"The Industrial Squeezer is a 3x3x3 multiblock added by Immersive Engineering. It is used to make Plant Oil or HOP Graphite Dust"
 		""
@@ -577,12 +780,22 @@
 		"This will also create a byproduct of &7Spent Nuclear Waste&r, which needs to be pumped into a &6Waste Barrel&r for storage."
 	]
 	quest.1FB657F4DEC4885C.quest_desc: ["Crafting Storage provides 1k - 265M of storage for crafting."]
+	quest.1FC3C1EC91AD1443.quest_desc: ["The **Jukebox Upgrade** allows you to play records placed in the storage block. The **Advanced** version adds multiple slots and playback controls."]
+	quest.1FC3C1EC91AD1443.title: "Jukebox Upgrades"
 	quest.1FC7E9DBF92BE6AA.quest_desc: ["The Energy Tablet is a portable, rechargeable battery pack that can be charged with up to 1,000kJ of energy and can then be used to power other devices. It is also an ingredient in many recipes."]
 	quest.1FDBB75ECD39FB24.quest_desc: [
 		"The Item Drain can hold up to 1500mb of fluid at a time. A Fluid Pump is needed to extract the fluid."
 		""
 		"A Basin will automatically deposit output fluids into an Item Drain placed near it."
 	]
+	quest.201CB898A399F1D5.quest_desc: ["The **Swineherder Hut** manages a herd of pigs for pork and leather production."]
+	quest.201CB898A399F1D5.title: "Herder: Swineherder Hut"
+	quest.203A0C651EA25098.quest_desc: ["The **Magnet Upgrade** constantly attracts items, similar to the backpack version. It can be paired with a filter for targeted collection."]
+	quest.203A0C651EA25098.title: "Magnet Upgrades"
+	quest.206159A3C7A78447.quest_desc: ["The **Mystical Site** opens the door to high-level magic-based production and resources. An excellent long-term goal for advanced colonies."]
+	quest.206159A3C7A78447.title: "Production: Mystical Site"
+	quest.20B6827D7EBF60D3.quest_desc: ["Acts like a blaze burner! just add some &4HEAT&r"]
+	quest.20D05EB3BBB0FAAB.quest_desc: ["a big tire"]
 	quest.21355027240AAB0A.quest_desc: ["Hello explorer, I know you must be mega curious to know how aeronautics works, I am too! let's learn together to create ships, planes, cars, balloons and much more!"]
 	quest.21355027240AAB0A.quest_subtitle: "Playing with physics"
 	quest.21355027240AAB0A.title: "Create Aeronautics"
@@ -612,6 +825,8 @@
 		""
 		"The name will also show up on a Map if it is used on the station, similarly to Banners."
 	]
+	quest.21B2D54BEC60EEBA.quest_desc: ["The &6item drain&r has the ability to take liquid out of a container and then it stores it until it it is piped out into a container"]
+	quest.21B2D54BEC60EEBA.quest_subtitle: "Fluid extraction"
 	quest.21B40BEC30B40491.quest_desc: [
 		"While held, funnels prevent the player from accessing inventories, instead placing them. Sneak right clicking with a Funnel places it in input mode."
 		""
@@ -621,6 +836,8 @@
 	quest.21C7AA9059B16A83.quest_desc: ["It's this... it launches potatoes... what else did you think it would do? honestly..."]
 	quest.21C7AA9059B16A83.quest_subtitle: "Potato Launcher"
 	quest.21D45D2B85002B6E.quest_desc: ["A thick, tar-like substance derived from crude oil. It’s used as a base material for producing asphalt, fuel, and other industrial resources essential for large-scale factory operations."]
+	quest.21F20E65F0CF4FB7.quest_desc: ["Sophisticated Storage blocks offer immense, modular capacity. Craft a basic Chest or Barrel. Right-click with a **Packing Tape** to pick it up fully loaded."]
+	quest.21F20E65F0CF4FB7.title: "Sophisticated Chests and Barrels"
 	quest.2239CC2E6B914090.quest_desc: ["A powered device that moves fluids through pipes using electrical energy. It provides precise and consistent flow control, perfect for automation systems and industrial machinery."]
 	quest.22AC3C79141AB3FC.quest_desc: ["Obtained by putting an Electrum Sheet in a Rolling Mill."]
 	quest.22AC3C79141AB3FC.quest_subtitle: "Crafting component."
@@ -641,6 +858,11 @@
 	]
 	quest.22C5D2CD84E6E9EF.title: "&eModification Station"
 	quest.22E01FE041DE9C54.quest_desc: ["A compact power source that transforms water pressure into rotational energy. It provides smooth and consistent motion, ideal for efficiently running mechanical systems."]
+	quest.22F4C38E79DEFF1E.quest_desc: ["The **Town Hall Block** must be placed within the claimed territory to establish the official center of your colony. Choose a safe spot, as this block cannot be moved once placed!"]
+	quest.22F4C38E79DEFF1E.title: "Place the Town Hall Block"
+	quest.23012F6C4C522CEB.quest_desc: ["The **Lumberjack Hut** is your primary source of wood. Recruit a Lumberjack and they will chop down trees in their designated work area (set with the Build Tool)."]
+	quest.23012F6C4C522CEB.title: "Lumberjack Hut"
+	quest.2316FFE66B36924B.title: "Chipped Workbenches II"
 	quest.2331FCDD2F2B709A.quest_desc: [
 		"The &9Supercharged Coil&r is placed on an &3SPS Port&r in the center of two faces, like the image below. When given power, these will supercharge &dPolonium&r into &5Antimatter&r. Only &o&b1&r is required, but you can use &o&b2&r if you want."
 		""
@@ -649,6 +871,9 @@
 		"{image:kubejs:textures/item/sps_coils.png width:200 height:125 align:1}"
 	]
 	quest.2331FCDD2F2B709A.title: "The Supercharged Coils"
+	quest.2342ED0D00362854.quest_desc: ["Zipline by right clicking with a wrench! Use shears to cut it."]
+	quest.238BD8E064D2D4CB.quest_desc: ["The **Prismarine Armor** (Prismarine) is a heavy set that grants permanent Depth Strider for fast underwater movement. Its sharp texture causes spike damage to any mobs that attack you."]
+	quest.238BD8E064D2D4CB.title: "Tier 3: Aquatic Spikes"
 	quest.23A9A2D399A7BF94.quest_desc: [
 		"The Elevator Pulley moves much like the Rope Pulley and shares certain functionalities. Unlike the Rope Pulley, it can phase through blocks, and will not turn back into blocks unless the Pulley is right-clicked."
 		""
@@ -663,6 +888,7 @@
 	]
 	quest.24174700F7FB771C.quest_subtitle: "*Unlocked by completing the &b&n&oMekanism: Phase one&r quest*"
 	quest.24174700F7FB771C.title: "Welcome to&r &dMekanism:&r Phase two"
+	quest.2421FAEB8BE21B1D.quest_desc: ["P O N D E R"]
 	quest.24CFA0022432887E.quest_desc: [
 		"When placed by the player, the Threshold Switch will attempt to orient itself toward an adjacent inventory. If multiple or no inventories are present, the Threshold Switch may orient itself toward the player and can be adjusted as normal using the Wrench. At present, it cannot be oriented vertically."
 		""
@@ -674,7 +900,9 @@
 		"The signal can be inverted by clicking the button showing two opposing arrows next to the lower threshold bar."
 	]
 	quest.24DDED464AE48E05.quest_desc: ["Reverses outgoing Rotational Force when a Redstone signal is applied."]
+	quest.25606F0A9C843721.quest_desc: ["Atempts to face upwards along only one axis"]
 	quest.2580602D7B567F11.quest_desc: ["A reinforced handle crafted for advanced tools, offering improved grip, durability, and performance. Essential for creating high-quality mechanical instruments and machinery parts."]
+	quest.25AFA8426F16F7DE.quest_desc: ["its a grappling hook!"]
 	quest.25C93EDEDDF8CBE4.quest_desc: [
 		"The &2Toggle Bus&r. "
 		""
@@ -682,6 +910,8 @@
 		""
 		"This allows you to &ncut off&r a section of a &dME Network&r."
 	]
+	quest.25D87D5522FD4861.quest_desc: ["Try mixing an apple with Purple dye"]
+	quest.25D87D5522FD4861.title: "Chorus Fruit?"
 	quest.261ABBDC3DABD8B3.quest_desc: ["A clutch that is only coupled if the input spins in the correct direction as configured."]
 	quest.263220DCCDB90E29.quest_desc: [
 		"So far, to double your ingot output, your setup should look something like this:"
@@ -695,11 +925,16 @@
 	]
 	quest.263220DCCDB90E29.title: "Ore Factory: Tier 2"
 	quest.264E6FD715F41414.quest_desc: ["A standard power unit that converts fuel or pressure into rotational energy. Reliable and versatile, it’s suitable for powering a wide range of mechanical systems and factory machines."]
+	quest.265DEDBF34CB37AF.quest_desc: ["Like a Pikarang but on FIRE"]
+	quest.2694808D51042470.title: "Gold Backpack"
 	quest.26A58E2711BC7B28.quest_desc: [
 		"The Spatial IO Port is used in spatial IO to hold the spatial cell and control the spatial IO operation."
 		""
 		"The cell can be inserted and extracted by any item logistics like hoppers or ae2 busses, if you want to automate it."
 	]
+	quest.26D2235E1F464F42.quest_desc: ["The **Inception Upgrade** is a unique, high-tier upgrade that allows you to put a backpack *inside* another backpack."]
+	quest.26D2235E1F464F42.quest_subtitle: "Backpacks within Backpacks."
+	quest.26D2235E1F464F42.title: "Inception Upgrade"
 	quest.270E0BC2E8565FFE.quest_desc: [
 		"Pulls items from the inventory it is pointed at and places them into the &dME Network's&r Networked Storage."
 		""
@@ -711,6 +946,7 @@
 		""
 		"This is the functional opposite of the &6ME Export Bus&r."
 	]
+	quest.2721013051EA0F4E.quest_desc: ["Outputs a redstone signal based on its orientation"]
 	quest.2774D37126FE6785.quest_desc: [
 		"The piston's and the Conveyor Belts' direction matters. The piston should face downwards. The Conveyor Belts should both travel down the length or up the machine."
 		""
@@ -726,18 +962,30 @@
 		""
 		"Currently, there’s no clear way to distinguish input from output aside from the noise texture on top. Transformers are not bidirectional. The top part of the \"handle\" with the checkerboard pattern marks the input side, which will be on the left when the block is placed."
 	]
+	quest.27BCC7C61D5BD336.quest_subtitle: "Multiblock Battery Can hold 9M FE"
+	quest.27C37C8E3AB82D99.quest_desc: ["For cutting through rock in a simulated contraption"]
+	quest.2859F1B560AC334B.quest_desc: ["Moveable campfire"]
 	quest.28B88FFE1B735E3E.quest_desc: ["A vital mechanical component used in the operation of a pumpjack. It converts rotational force into vertical motion, enabling the extraction of fluids like oil from underground reservoirs."]
+	quest.28EE13DE7CBE9518.quest_desc: ["The basic **Storage Upgrade Base** (Wood texture) is used to craft upgrades for Barrels, Chests, and Shulker Boxes."]
+	quest.28EE13DE7CBE9518.quest_subtitle: "For Barrels, Chests, and Shulkers"
+	quest.28EE13DE7CBE9518.title: "Storage Upgrade Base"
 	quest.2951D84F8F0F389A.quest_desc: ["An electronic screen made up of individual light segments used to show numbers or simple symbols. Perfect for building clocks, counters, or digital readouts in advanced machinery and control panels."]
+	quest.298B1994C646424F.quest_desc: ["The **Compression Upgrade** is a sophisticated version of the Compacting Upgrade, offering flexible block-to-item and item-to-block conversion logic."]
+	quest.298B1994C646424F.title: "Compression Upgrade"
+	quest.29D06B640C276146.quest_desc: ["Throw away energy"]
 	quest.2A2CE255693B7495.quest_desc: ["The Engine Base will prompt you to right-click each required part onto it. Once all components are added, the engine will request as many pistons as needed to complete the configuration you selected."]
 	quest.2A404708E175235F.quest_desc: [
 		"Fluids can be stored and extracted from fluid tanks via Fluid Pipe. The fluid pipes can be placed on any face of the fluid tank: top, bottom, or sides. The window of a tank can be toggled with a Wrench."
 		""
 		"The direction of flow in the fluid pipe indicates whether fluids will be put into the tank or extracted from the tank; if fluid is flowing towards the tank, the fluid will be stored in the tank. Likewise, if a fluid pipe is flowing away from the tank (via Mechanical Pump), then fluid from the tank will be extracted into that pipe."
 	]
+	quest.2A4D23849D9E75C0.quest_desc: ["Also holds liquids"]
 	quest.2A55024C0BA2F4EA.quest_desc: ["A &cHyper-Dens QIO Drive&r can contain &o&b128,000&r &nitems&r and &o&b256&r &nitem types&r."]
 	quest.2A6ECCE28B9C64FB.quest_desc: ["An aerial brass companion that follows the player if they hava a controller."]
 	quest.2ADDA74C73C08DB2.quest_desc: ["A gearbox where the rotation direction of all 4 sides are independently configurable."]
 	quest.2AF85A5EE9A8CCBA.quest_desc: ["A clutch that is only coupled if the input RPM is faster than a configurable threshold."]
+	quest.2B01B964638DFBD1.quest_desc: ["The **Crusher Hut** is a basic processing unit that breaks down stone, cobblestone, and other blocks into raw resources for the Builder to use."]
+	quest.2B01B964638DFBD1.title: "Production: Crusher Hut"
 	quest.2B3A70E34CB0CE21.quest_desc: ["Automatically refills gadgets and armor that use fuel."]
 	quest.2B3F2F470E06BC40.quest_desc: [
 		"The &6SPS&r will be &o&b7x7&r when built, but it isn't a cube. It follows a simple pattern, which you can follow the images below as a build guide. The pattern looks like this: "
@@ -750,10 +998,19 @@
 		""
 	]
 	quest.2B3F2F470E06BC40.title: "&dCompleted SPS"
+	quest.2B49C95AEE86C994.quest_desc: [
+		"Check out the workshop to get some hands on experiance with some of the awesome new features of Areonautics. "
+		""
+		"That plane in the hangar isnt quite in working order, see if you can get it flying!"
+	]
+	quest.2B49C95AEE86C994.title: "Let's get flying!"
 	quest.2B6E2CD796D4ADF3.quest_desc: ["A heavy metal ingot used in crafting industrial components and machinery parts. Its density and conductivity make it valuable for advanced mechanical and electrical creations."]
 	quest.2BB30AED452773EB.quest_desc: ["A portable device that lets you access your entire storage network remotely. It combines multiple functions into one interface, allowing seamless item management, crafting, and monitoring from anywhere within range."]
 	quest.2CD6597AE3312F20.quest_desc: ["Will form nearly instantly in the naphtha vat, so you can think of liquid plastic being a direct result of naphtha."]
 	quest.2CD70FCC8B119D7A.quest_desc: ["The Brown arrow symbols on the pump indicate the direction of flow. The flow direction can be changed by using a Wrench. When a wrench is used, the entire valve will appear to have rotated 180 degrees. The brown directional arrows will appear on the other side of the pump's gear."]
+	quest.2D43DDEE8D229F42.quest_desc: ["Add the full range of **Chipped** decoration workbenches directly to your static storage blocks for easy access while crafting."]
+	quest.2D43DDEE8D229F42.title: "Chipped Workbenches"
+	quest.2D821681720A5409.quest_desc: ["A bearing for creating propellers that produce thrust"]
 	quest.2D94489E09F8DD9C.quest_desc: [
 		"The steel mechanism is used in many machines."
 		""
@@ -770,6 +1027,7 @@
 	]
 	quest.2DEF812916A51C34.quest_subtitle: "Found in the nether."
 	quest.2E10AFB432824AB1.quest_desc: ["A durable alloy wire made from copper and nickel, valued for its consistent electrical resistance. Commonly used in advanced circuits and precision engineering applications."]
+	quest.2E17BF74F0DD6A58.quest_desc: ["a stable propeller bearing for helicopters. the bearing tries to keep the propeller upright"]
 	quest.2E274BEEF2B0B8C7.quest_desc: [
 		"The Chemical Oxidizer is used for making gases from materials. It is a crucial machine needed for Mekanism's 5x ore production system."
 		""
@@ -781,6 +1039,7 @@
 		""
 		"Send the Trioxide to another Chemical Infuser to combine it with Water Vapor to create Sulfuric Acid."
 	]
+	quest.2E40755A354B1ACC.quest_desc: ["Outputs an analog signal that changes over time to match its input. "]
 	quest.2E8B8DBE61162084.quest_desc: [
 		"They can be filtered to only allow certain items through, and be stopped with a redstone signal. Unlike funnels, they can insert and extract at the same time, but can only function vertically."
 		""
@@ -793,6 +1052,9 @@
 		""
 		"This will also create a byproduct of &7Spent Nuclear Waste&r, which needs to be pumped into a &6Waste Barrel&r for storage."
 	]
+	quest.2EB2DFABB2B48B1D.quest_desc: ["The drone controller"]
+	quest.2EC8420FC47F06F9.quest_desc: ["The **Tank** stores liquids. The **Pump** allows automated fluid transfer, and the **XP Pump** handles experience fluid. The **Battery** is for charging tools (if applicable)."]
+	quest.2EC8420FC47F06F9.title: "Tank, Pump, Battery Upgrades"
 	quest.2EF4DD5CC254CC80.quest_desc: [
 		"Mechanical Pipe is the fluid pipe for Mekanism."
 		""
@@ -807,6 +1069,10 @@
 		"Andesite Tunnels can also be used to separate single items from passing stacks to side outputs."
 	]
 	quest.2F0B0D4401AA455E.title: "Tunnel"
+	quest.2F17C0820C336EB5.quest_desc: ["The **Stack Upgrades** multiply the max stack size of items in the container, up to the **Omega Tier** which provides near-infinite storage for single item types."]
+	quest.2F17C0820C336EB5.title: "Stack Upgrades (T1 to Omega)"
+	quest.2F41C6CFFB43E38F.quest_desc: ["RIGHT CLICK to move you SHIFT HOLD RIGHT CLICK to move IT"]
+	quest.2F5AD51B6A6C01A3.quest_desc: ["it breaks when overstressed "]
 	quest.2F6B432512FA2A65.quest_desc: ["Attach to any inventory to expand its surface area. Great for access in tight spaces and smart setups with threshold switches."]
 	quest.2F74E955A2455025.quest_desc: [
 		"When electrical components are connected directly without any diodes they share the voltage between them. The more devices you add, the less current each one receives. In other words, don’t overload your line unless you like watching things fizzle out."
@@ -822,11 +1088,13 @@
 	]
 	quest.2F8B1B5084313565.title: "Welcome to Immersive Engineering"
 	quest.2F9B52EA41B4DFF0.quest_desc: ["A conductive wire made from refined copper, used to transmit electrical energy between machines and components. Essential for building power networks and automation circuits."]
+	quest.30151FE4EE927AA4.quest_desc: ["OVERSTRESS your machine when powered by redstone"]
 	quest.302D29E43E9C9A94.quest_desc: [
 		"When placed adjacent to any inventory, Packagers can create Cardboard Packages from the inventory they’re attached to. The process does not require extra materials."
 		""
 		"When powered with a redstone signal, the packager attempts to fill the package as much as possible. A Cardboard Package has 9 slots of inventory. Placing a written sign on the Packager labels the created Cardboard Package with an address to be sent to."
 	]
+	quest.308E1F5B53BFE9AB.quest_desc: ["Provides precise and adjustable rotational output"]
 	quest.30A84C6A54BD336E.quest_desc: [
 		"A stationary Mechanical Drill will break blocks in the block in front of it with a time in seconds of (45 x Hardness)/RPM and will hurt entities in an area around it."
 		""
@@ -839,7 +1107,15 @@
 	quest.30C364AC05822920.quest_subtitle: "Getting to know the mod better"
 	quest.30C364AC05822920.title: "Create Aeronautics 2"
 	quest.30D6BFA1A3B6B205.quest_desc: ["A gearbox where the rotation direction of all 4 sides are independently configurable."]
+	quest.30FED0F5BD258790.quest_desc: ["Obtain the **Planar Stabilizer** component, which can be applied to either a **Tool Belt** or a **Bow**. Apply it to experience its balancing effect!"]
+	quest.30FED0F5BD258790.title: "Achieving Planar Equilibrium"
 	quest.316399F0B5F729CA.quest_desc: ["It can be used like a normal crafting table. Additionally it has 18 storage slots additionaly it keeps the items you put inside it."]
+	quest.318415495188777C.quest_desc: ["The **Earthpiercer** component is for single-headed tools (like shovels). It allows the tool to mine a straight line of five stone blocks. Using a lightweight handle also allows the player to throw the tool for distance mining."]
+	quest.318415495188777C.title: "Deep Earth Penetrator"
+	quest.31A3C643745E1953.quest_desc: ["The **Storage I/O** is a high-performance input/output block for pumping items into or out of the connected network. The **Decoration Table** is for coloring and cosmetic customization."]
+	quest.31A3C643745E1953.title: "I/O Ports and Decoration"
+	quest.31A7FF937593A5CC.quest_desc: ["Use an **Eye of Ender** to enhance your **Holosphere** with a scanner mode. This mode is vital for locating the structures containing relics needed to upgrade your hammer to the next quality tier."]
+	quest.31A7FF937593A5CC.title: "Relic Detection Upgrade"
 	quest.31EEE2875595F315.quest_desc: [
 		"You should have already made &2Sulfuric Acid&r for your &b&oTier 4&r &6Ore Processing Factory&r, but here is a reminder on how to get it."
 		""
@@ -851,14 +1127,24 @@
 	]
 	quest.31EEE2875595F315.quest_subtitle: "A Quick Recap"
 	quest.31EEE2875595F315.title: "&2Sulfuric Acid"
+	quest.323398F25937EDBD.quest_desc: ["Provides redstone signal for navigation. Use a compas to link it to a lodestone"]
+	quest.32C545450F2DBD65.quest_desc: ["Throw away EVERYTHING"]
 	quest.32E093F004E8CAC6.title: "&dUltimate Universal Cables"
+	quest.33058894ACD9CB06.quest_desc: ["The **Graveyard** manages citizen mortality. If a citizen dies, they can be resurrected here using a specific resource (check the building GUI). It also employs the **Undertaker**."]
+	quest.33058894ACD9CB06.title: "Support: Graveyard"
 	quest.331934749C1DE9A0.quest_desc: ["A mechanical component used for mixing and processing materials. It’s essential in crafting setups where ingredients need to be blended or stirred using rotational energy."]
 	quest.338E4A4F41889959.quest_desc: [
 		"The ME Crafting Terminal is the upgraded version of the ME Terminar which has an integrated crafting grid with access to a ME Network's Networked Storage."
 		""
 		"Like the ME Terminal it also requires a Channel to function."
 	]
+	quest.339EED71152EF112.quest_desc: ["Protect yourself from radiation by encasing your &2Reactor Rod&r in &3Reactor Glass&r"]
+	quest.33A0198E1D098A1D.quest_desc: [""]
+	quest.33B7579B8C040E54.quest_desc: ["The **Steampunk Armor** is the ultimate utility set: Helmet provides a hostile mob radar (on sneak), Chestplate features a clock/compass HUD, and the Leggings enable an emergency double jump, preventing all fall damage."]
+	quest.33B7579B8C040E54.title: "Tier 3: Steampunk Utility and Tech"
+	quest.33FC8F6543886276.quest_desc: ["The &9Physics Asembler&r infuses physics to anything its attached to. (you might want some honey glue for this)"]
 	quest.33FE53F9B5BA0001.quest_desc: ["A throwable grenade with a copper casing designed to deal area damage upon detonation. Its metal body makes it sturdy and slightly heavier, ideal for clearing groups of enemies or breaking through obstacles."]
+	quest.340F5320DB6749AC.quest_desc: ["a medium tire"]
 	quest.3424B27C62D3D2CF.quest_desc: [
 		"Allows wireless access via a Wireless Terminal. Range and power usage is determined based on the number of Wireless Booster installed."
 		""
@@ -868,6 +1154,11 @@
 		""
 		"Also used to bind wireless terminals"
 	]
+	quest.342A1EF584823D2C.quest_desc: ["The **Sawmill** and other workshops allow the Worker to craft items for the Builder. Ensure your Sawmill has the recipe for Torches to keep the colony safe at night."]
+	quest.342A1EF584823D2C.title: "Torch Production"
+	quest.34E39DE9EF4F080A.quest_desc: ["Engeneer's goggles for MAVRICS"]
+	quest.34E6DA713B6DF25F.quest_desc: ["Macaw's provides LOTS of diferent blocks for building"]
+	quest.34F3C116A5DDEA9D.quest_desc: ["Encased fans can produce thrust"]
 	quest.35296382603A6E78.quest_desc: ["A lightweight throwable explosive with a zinc casing that favors portability and quick deployment. Its lighter shell means slightly reduced raw blast power compared to heavier metal grenades, but it’s easier to carry and toss repeatedly—useful for fast skirmishes or clearing small groups of foes."]
 	quest.35365535ED46DAD0.quest_desc: ["Applied Energistics 2 (AE2) is a comprehensive mod for Minecraft that introduces a unique approach to in-game inventory management. Its theme is centered around the concept of converting matter into energy and vice versa, to store and transport your items and fluids instantaneously!"]
 	quest.35365535ED46DAD0.title: "Welcome to &eApplied Energistics 2"
@@ -906,6 +1197,22 @@
 		"You can also adjust the &3Burn Rate&r to produce more &0Nuclear Waste&r, but start slow."
 	]
 	quest.3591EAA8E397F992.title: "Booting Up The Reactor"
+	quest.359C4CAEFE608840.quest_desc: [
+		"The only way to forge your tetra tool."
+		"You need to right-click the crafting table to build it."
+		"Many vanilla tool can be upgrade or change form in workbench."
+		"You can see in the quest tab for tetra."
+	]
+	quest.359C4CAEFE608840.title: "Better crafting table"
+	quest.35AE07F6A0F11A4D.quest_desc: [
+		"The **Mechanical Spawner** is a kinetic block that spawns the mob type in the Soul Catcher placed inside."
+		"It requires **Rotational Force (Kinetic Energy)** and a supply of **liquid**, such as liquid potions, via pipes."
+		"It needs a minimum of **128 RPM**."
+		"Its stress impact depends on the contained mob's max health, but is capped at **80 SU / RPM** by default."
+		"Right-click with an empty hand or a wrench to configure the spawning area."
+	]
+	quest.35AE07F6A0F11A4D.quest_subtitle: "A kinetic block for spawning"
+	quest.35AE07F6A0F11A4D.title: "The Mechanical Spawner"
 	quest.35C37231C1C86294.quest_desc: [
 		"uper glue has two modes of application: Block by Block Mode and Area Mode. These modes can be intermixed on the same contraption."
 		""
@@ -931,6 +1238,9 @@
 	]
 	quest.35C37231C1C86294.title: "&aSuper Glue"
 	quest.35F24F6E403AADA1.quest_desc: ["A gearbox with shafts on all 6 sides. Conceptually uses the same internal mechanism as Parallel Gearbox, so top and bottom spins at half speed."]
+	quest.35F368749ADA0A9A.quest_desc: ["glue two simulated contraptions together"]
+	quest.360E9E02A494217C.quest_desc: ["The **Barracks Tower** is an upgraded, high-defense version of the guard tower. Guards stationed here are more effective and have a longer range of vision."]
+	quest.360E9E02A494217C.title: "Military: Barracks Tower"
 	quest.3617DE87C4E1BCB9.quest_desc: ["The Hand Crank generates a small amount of Rotational Force through player interaction."]
 	quest.36268EBCE1143F0A.quest_desc: [
 		"We can use a slimeball to repair chipped or broken corners of cars, boats, planes..."
@@ -941,6 +1251,13 @@
 	quest.3663E93E169EF8E3.quest_desc: ["Using another &9Chemical Infuser&r, we want to combine our &bHydrofluoric Acid&r with &eUranium Oxide&r to make &2Uranium Hexafluoride&r."]
 	quest.3663E93E169EF8E3.title: "&2Uranium Hexafluoride"
 	quest.36766831FDA775FD.quest_desc: ["Made in a heated basin with a press."]
+	quest.36777FCDAA9ABDF7.quest_desc: ["The **Tool Swapper** automatically switches your current tool to the best one for the job when you break a block. Extremely useful for quick mining and tree felling."]
+	quest.36777FCDAA9ABDF7.quest_subtitle: "Always use the right tool."
+	quest.36777FCDAA9ABDF7.title: "Tool Swapper Upgrades"
+	quest.3681C21A44EBD0C0.quest_desc: ["Discovering a **Tools of War scroll** unlocks the **Warforge** feature for tools not primarily designed for combat."]
+	quest.3681C21A44EBD0C0.title: "Scroll of the Warforge"
+	quest.369CB78ACDDB0A88.quest_desc: ["Obtain a **Ham**! Ham is a valuable meat that can be cooked over a campfire or used in high-tier recipes. Try cooking the **Honey Glazed Ham Block**!"]
+	quest.369CB78ACDDB0A88.title: "A Tasty Cut"
 	quest.36B1995B495AA674.quest_desc: [
 		"To start our journey into the world of Mekanism Reactors, we'll start by making a &aFission Reactor&r. These are multiblock structures that generate massive amounts of heat by burning &3Fissile Fuel&r. This reactor does not produce power on its own, but the heat generated can be used to heat &bCoolant&r to be used to generate power in an &aIndustrial Turbine&r."
 		""
@@ -955,9 +1272,16 @@
 		"Lumen Paint Balls are a variant of paint balls exclusively used by the Matter Cannon, whose paint splatters also give off some light once present in the world."
 	]
 	quest.3734081CB77CDBB5.title: "Matter/Paint/Lumen Paint Balls"
+	quest.37BE190EE466D697.quest_desc: ["Upgrading the **Town Hall to Level 5** is the final stage of the original Town Hall structure, granting maximum influence and unlocking all available base features."]
+	quest.37BE190EE466D697.title: "Town Hall Level 5 (MAX)"
+	quest.37E43341FA234E84.quest_desc: ["The **Florist Hut** focuses on growing and collecting flowers and tall grass, producing dyes and other decorative resources."]
+	quest.37E43341FA234E84.title: "Production: Florist Hut"
+	quest.3806D43A958A0751.quest_desc: ["Detects blocks that obstruct its laser pointer, can be filtered for specific blocks"]
 	quest.383D6F1A001A0AEC.quest_desc: ["Chutes transport items vertically, generally downward unless an encased fan is used to blow items upward. There are two varieties: Chute and Smart Chute. Smart Chutes allow the player to control the types of items passed and their stack size."]
 	quest.387FC4D9C4010FD8.quest_desc: ["The Automated Engineer's Workbench is a 3x2x3 multiblock. It is an automated version of the Engineer's Workbench."]
 	quest.387FC4D9C4010FD8.title: "Automated Engineer's Workbench"
+	quest.38E452884834812E.quest_desc: ["**Schematic Scrolls** grant special, unique abilities and modules for your **Tetra** tools."]
+	quest.38E452884834812E.title: "Craftsman's Blueprints"
 	quest.38E84EA139A2316C.quest_desc: [
 		"The Drive is the device you plug your storage cells into in order to use them for network storage. It has 10 slots which each accept a cell."
 		""
@@ -970,6 +1294,7 @@
 		""
 		"While on an assembled Contraption, Contraption Controls can be right-clicked to enable and disable certain Contraption Actors."
 	]
+	quest.390F025F4B6316CA.quest_desc: ["Both Chipped and Rechiseled blocks can be automated with create or made in your backpack!"]
 	quest.39124F73B82400F4.quest_desc: ["Converts rotational energy from Create machines into FE at around 75% efficiency."]
 	quest.3931273289B3A68C.quest_desc: [
 		"Fluix ME Glass Cable is the simplest cable to make, transfers power and up to 8 channels. It comes in 17 different colors, the default being Fluix, and can be dyed any color using any of the 16 dyes."
@@ -990,6 +1315,8 @@
 	quest.39C8CD6102B26BFE.quest_desc: ["It is widely used to construct the items described in Engineer's Blueprints. A wide variety of blueprints bcan be crafted, as detailed in the respective manual entry, whereas a few select ones can bonly be discovered in the world or purchased from villagers."]
 	quest.3A059BC37D957B99.quest_desc: ["A core mechanical part used to transmit rotational force between connected machines. Essential for linking engines, gearboxes, and other moving components in automation systems."]
 	quest.3A2633B6030BBC52.quest_desc: ["While worn, the Engineer's Goggles will show the stress impact of the viewed machine while it is running. They will also give numbers and highlight the current rotation when looking at a Stressometer or Speedometer. Additionally, they show how much fluid is in a tank along with the total storage capacity of the tank."]
+	quest.3A6250944C41A0BF.quest_desc: ["The **Earthpiercer** component is for single-headed tools (like shovels). It allows the tool to mine a straight line of five stone blocks. Using a lightweight handle also allows the player to throw the tool for distance mining."]
+	quest.3A6250944C41A0BF.title: "Deep Earth Penetrator"
 	quest.3AB541A2323AF3B3.quest_desc: [
 		"&6QIO&r is a way of storing large amounts of items that can be stored, searched, and accessed remotely in late game."
 		""
@@ -1006,6 +1333,8 @@
 		"The energy input for the engine is on its side, the back features a redstone control panel and the item output."
 	]
 	quest.3AD4622409437713.title: "Excavator"
+	quest.3AE1C3290500638F.quest_desc: ["Your colony has grown to a population of **10** citizens! You will need to build more residences and ensure a steady food supply to keep growing."]
+	quest.3AE1C3290500638F.title: "Population Milestone: 10 Citizens"
 	quest.3AE2172B95B58B99.quest_desc: [
 		"&aQIO Drives&r are inserted into a &9Drive Array&r, allowing it to store more items."
 		""
@@ -1021,6 +1350,8 @@
 		"Eight of these quantum rings placed around a ME Quantum Link Chamber will create a Quantum Network Bridge. Only the 4 ME Quantum Ring blocks adjacent to the ME Quantum Link Chamber will accept network connections, the 4 corner blocks cannot connect to cables."
 	]
 	quest.3B3C89649DF57161.title: "&6The Quantum Bridge"
+	quest.3B40A769EDB26EA2.quest_desc: ["The **Postbox** and **Stash** blocks are essential for the **Deliveryman** to properly manage and move resources around the colony."]
+	quest.3B40A769EDB26EA2.title: "Craft Logistics Blocks"
 	quest.3B43DB1A6B0A7B44.quest_desc: ["Bio Fuel is added by Mekanism and is a type of fuel used inside of a Bio-Generator. Beyond that Bio Fuel is used in the Pressurized Reaction Chamber to create Ethylene."]
 	quest.3B43DB1A6B0A7B44.title: "Bio Fuel"
 	quest.3B73F2EBCCD1884C.quest_desc: ["Automatically refills gadgets and armor that use water."]
@@ -1029,6 +1360,8 @@
 		""
 		"It all boils down to creating &eUranium Hexafluoride&r. To do this, let's focus on making these two gases: &bHydrofluoric Acid&r, and &eUranium Oxide&r."
 	]
+	quest.3B91163DE3DA885C.quest_desc: ["The **Nether Worker Hut** is key for automating the collection of essential Nether-only resources like Netherrack and Quartz, allowing your colony to grow into the mid-game."]
+	quest.3B91163DE3DA885C.title: "Production: Nether Worker Hut"
 	quest.3C49F2EEDCCAF1DF.quest_desc: [
 		"A basic layout of your factory should be like this: "
 		""
@@ -1040,7 +1373,9 @@
 		"You can input and output FE using a small connector."
 	]
 	quest.3CA5DFF1105281D6.quest_subtitle: "Big battery"
+	quest.3DD65447EA2C0EEF.quest_desc: ["A steam powered burner for generating LOTS of hot air"]
 	quest.3E1695A1D5FA81AD.quest_desc: ["A signal device that controls movement with red, yellow, and green lights. It’s perfect for managing automated transport systems or adding realism to city and road builds."]
+	quest.3E6032E2197B8FFB.quest_desc: ["requires HONEY! (Its worth it trust me)"]
 	quest.3F249BE37B1BB214.quest_desc: [
 		"This mod adds hidden infinite ore veins to your world. You can extract these ores using machines. This mod requires Create"
 		""
@@ -1062,7 +1397,12 @@
 		"For this build, we'll put &b&o2&r of the &9Fission Fuel Assemblies&r in the &ncenter&r of our multiblock, and then put the &eControl Rod Assembly&r right on top of it."
 	]
 	quest.3F5010269469EBE0.title: "Fuel Control"
+	quest.3F8DE97B1961FA95.quest_desc: ["Continuously upgrade your tool belt to unlock maximum utility and convenience. Follow the material progression: **Wool** $\\rightarrow$ **Leather** $\\rightarrow$ **Iron** $\\rightarrow$ **Shulker Shell**."]
+	quest.3F8DE97B1961FA95.title: "Ultimate Tool Rig"
 	quest.3F925BFD3CF1DC0B.quest_subtitle: "Used to increase the range of the wireless access point."
+	quest.3FBF1E57D4EDF26A.quest_desc: ["Upgrade your drill with a Diamond Drill!"]
+	quest.3FBF1E57D4EDF26A.title: "Breaking the Hard Stuff"
+	quest.3FD5AC591D225E2A.quest_desc: ["toss your exp into storage! easy peasy!"]
 	quest.3FFF9018DA2A2763.quest_desc: [
 		"Once we start burning up &3Fissile Fuel&r in the &6Reactor&r, we'll get heated &bCoolant&r and &8Nuclear Waste&r."
 		""
@@ -1073,13 +1413,23 @@
 		"&cImportant Note&r: Breaking &nany&r machine, barrel, pipe, or &nanything&r that has a &4Radioactive&r gas inside of it &nwill cause a Radiation leak&r. That includes the products of &8Nuclear Waste&r, like &5Polonium&r or &ePlutonium&r."
 	]
 	quest.3FFF9018DA2A2763.title: "&8Nuclear Waste"
+	quest.400175B13253B839.quest_desc: ["Like enchanting books, **Hone Scrolls** can be upgraded through a crafting interface. Combine scrolls to reach the maximum level and unlock the full potential of your **Hone** ability!"]
+	quest.400175B13253B839.title: "Maximizing the Hone"
+	quest.401990422501F5A3.quest_desc: [
+		"Place your **Soul Catcher** into the **Mechanical Spawner**, supply the required liquid (check JEI for recipes, e.g., liquid Regeneration Potion), and give it a minimum of **128 RPM**."
+		"The spawner will stall if **6 or more mobs** of that type are already nearby."
+	]
+	quest.401990422501F5A3.title: "First Spawn"
 	quest.405A318D640D514E.quest_desc: [
 		"The blast stove can take in furnace gas, so your furnace can be self sufficient without sacrificing more coal to make creosote."
 		""
 		"Place a hatch on top of the furnace hole to collect the gas."
 	]
+	quest.40727A633E80B537.quest_desc: ["Sleep anywhere without changing your spawnpoint!"]
 	quest.407FBBE12EA9ED9B.quest_desc: ["A high-performance engine component built to handle intense pressure from diesel combustion. It delivers strong and efficient power output, perfect for heavy-duty machinery and advanced automation setups."]
+	quest.40B057390DF9F54D.quest_desc: ["Holds hot air for gaining altitude. can encase shafts."]
 	quest.40BEBD299B406E1A.quest_desc: ["A versatile machine that converts rotational or kinetic energy into electricity. Essential for powering electrical systems, machinery, and automated setups efficiently."]
+	quest.40CA6CEE85C276C9.quest_desc: ["TURN by powering the side BRAKE by powering the top"]
 	quest.40F8FF1E85694FD4.quest_desc: ["Obtained by putting a Copper Sheet in a Rolling Mill."]
 	quest.40F8FF1E85694FD4.quest_subtitle: "Crafting component."
 	quest.4181323BF72047A9.quest_desc: [
@@ -1109,6 +1459,7 @@
 		""
 		"This mod also adds a lot of recipes that make certain Minecraft items (Chainmail Armor, Coral, Netherrack, Crying Obsidian and Magma Cream...) craftable with the new ways added by Create such as haunting and filling!"
 	]
+	quest.41C06E8BE899C6B0.quest_desc: ["A redstone link with a limited and configurable range"]
 	quest.41CEBA836A8BA22C.quest_desc: [
 		"We now need to place a clutch in front of the generator; in front of the clutch, place a vertical gearbox. On top of the generator, place an andesite casing block; in front of the andesite casing block, place a redstone, and on top of the andesite casing block, a redstone link with 2 torches. Use \"Shift\" + \"Click\" to set it to receiver mode."
 		""
@@ -1179,6 +1530,11 @@
 		""
 		"When &credstone&r signal supplied the part &nenables&r the connection, &6ME Inverted Toggle Bus&r provides the &nreverse&r behavior by &ndisabling&r the connection instead."
 	]
+	quest.42ABFA348B764E04.quest_desc: ["The **Magnet** upgrade constantly pulls nearby items to the backpack. The **Advanced Magnet** adds an item filter so you only pull desired items, saving space!"]
+	quest.42ABFA348B764E04.quest_subtitle: "Attract items to your bag."
+	quest.42ABFA348B764E04.title: "Magnet Upgrades"
+	quest.430475E11D259B74.quest_desc: ["The **Stone Smeltery** processes stone materials like cobblestone into smooth stone and various resource blocks efficiently."]
+	quest.430475E11D259B74.title: "Advanced Stone: Stone Smeltery"
 	quest.43D31DAC4737005E.quest_subtitle: "Byproduct of coke oven"
 	quest.43E02E5DBDE6F0D2.quest_desc: ["An industrial structure used to safely burn excess gases and byproducts. It helps manage waste output in large-scale factories, ensuring cleaner and more efficient production systems."]
 	quest.43E4EE94BB396A7C.quest_desc: ["Used to make rods and wires."]
@@ -1194,9 +1550,14 @@
 	quest.445ACC0E40DB3D96.quest_desc: ["A partially assembled electrical component awaiting final processing. It’s used in crafting complete resistors and other advanced electronic parts."]
 	quest.449C41A3AFBBE8E9.quest_desc: ["It uses Iron and Coal Coke to generate Steel Ingots and Slag. Unlike with the Improved Blast Furnace, slag may not be removed limiting its automation capabilities."]
 	quest.449C41A3AFBBE8E9.title: "Crude Blast Furnace"
+	quest.44CA9AD9FFFFC90B.quest_desc: ["Finding bimes can be handy even in the sky!"]
+	quest.44DBEF7E43052868.quest_desc: ["A propeller for generating thrust"]
 	quest.44E8D5277063565A.quest_desc: ["A monitoring device that measures and displays the voltage within an electrical circuit. Useful for diagnosing power fluctuations and ensuring your systems run at optimal efficiency."]
 	quest.4512B97451C2221F.quest_desc: ["The Mechanical Arm can take or deposit items from various blocks within a 5 block radius of where it is placed. A placed Mechanical Arm's selected blocks can be viewed by hovering over it with a Wrench. The Mechanical Arm is capable of transferring up to a stack of items at once."]
+	quest.452652A47626C707.quest_desc: ["Moveable soul campfire"]
 	quest.459AA2AD67CA6AAA.quest_desc: ["Mix aluminum and crimsite."]
+	quest.45B87D51EF224B8C.quest_desc: ["The **Sample Drill** is your initial prospecting tool. Place it on a block, power it with a backtank, and wait for a sample to be returned. This tells you what ore is in the ground."]
+	quest.45B87D51EF224B8C.title: "The Sample Drill"
 	quest.45BA5B8A785E1B82.quest_desc: [
 		"Using a Wrench on a component will rotate the component around the face with which you interacted."
 		""
@@ -1210,7 +1571,12 @@
 	quest.45D99E459A6A38F3.quest_desc: ["We need to paint our vehicles; nobody deserves everything in the same color. We can dye the blocks using any dye!"]
 	quest.45D99E459A6A38F3.quest_subtitle: "Painting"
 	quest.46004D01A142777E.quest_desc: ["Smart Fluid Pipes can be used to allow only a certain liquid to pass through them."]
+	quest.461E28CA38F4FF8F.quest_desc: ["Blackstone is tier 4 material for tetra"]
+	quest.461E28CA38F4FF8F.title: "More Dark Than Overworld"
+	quest.468F6E0151E77E71.title: "A New Tool: The Empty Soul Catcher"
 	quest.46AB23E922C51517.title: "&9Elite Logistical Transporter"
+	quest.46ABE925335C066C.quest_desc: ["**Chipped** upgrades add the full functionality of Chipped's decoration workbenches to your backpack. Essential for creative building on the go."]
+	quest.46ABE925335C066C.title: "Chipped Workbenches I"
 	quest.46EBE6B0E06D750D.quest_desc: ["Used with &6Spatial IO Port&r to store spatial regions."]
 	quest.470B1F84D01E4F7A.quest_desc: ["Charged Certus Quartz is crafted by insterting an Certus Quartz Crystal into the Charger, and powering it."]
 	quest.47106CE1937C4340.quest_desc: ["To get an HDPE Sheet, place 3 HDPE Pellets in an Enrichment Chamber."]
@@ -1221,7 +1587,18 @@
 	]
 	quest.47ACCCE2F34C5B99.title: "Crusher"
 	quest.488DBE69595F38F8.quest_desc: ["The energized smelter is your basic electric furnace that uses energy instead of fuel to smelt items."]
+	quest.48AC8545D66B71B7.quest_desc: ["Upgrading the **Builder's Hut** grants the Builder access to more complex schematics (larger buildings) and increases their maximum skill level."]
+	quest.48AC8545D66B71B7.title: "Builder Hut Upgrade"
+	quest.48BF028309BD0A36.quest_desc: ["Looking for a specific structure?"]
 	quest.4905CD63121F13EA.quest_desc: ["Automatically refills gadgets and armor that use fuel."]
+	quest.490628CE108A833A.quest_desc: ["The **Deliveryman** is the key logistics worker, transporting goods between the Warehouse and other buildings (like the Builder's Chests). Hire one to greatly speed up building projects!"]
+	quest.490628CE108A833A.title: "The Deliveryman"
+	quest.493B9FC17C3CF3CA.quest_desc: ["The **Rabbit Hutch** manages rabbits for rabbit meat and rabbit hide."]
+	quest.493B9FC17C3CF3CA.title: "Herder: Rabbit Hutch"
+	quest.4976A618E0C72517.quest_desc: ["Craft the **Cutting Board**. Place it and right-click with a **Knife** to rapidly slice and chop large amounts of ingredients."]
+	quest.4976A618E0C72517.title: "The Cutting Edge"
+	quest.49793060345FB28C.quest_desc: ["The **Cowboy Hut** requires a herd of cows and manages them for milk, leather, and beef production."]
+	quest.49793060345FB28C.title: "Herder: Cowboy Hut"
 	quest.49E36D3C3092346E.quest_desc: [
 		"The IO Port allows you to rapidly fill or empty storage cells to or from network storage."
 		""
@@ -1246,6 +1623,7 @@
 		"Items cannot be extracted manually (except for the wire spool), and there is no filter for unfinished items. For manual winding, use a Funnel and a Lever."
 	]
 	quest.4A22534045841AE4.quest_desc: ["Low current"]
+	quest.4A2DBA7AF83A40AD.quest_desc: ["&2Thorium&r with some clay, stone and water makes &2MORE THORIUM&r"]
 	quest.4A47E558AD90EB64.quest_desc: ["Provides an interface to access two inventories simultaneously. Also comes with filter slots to quickly sort incoming items."]
 	quest.4A7F96E62A5845C5.quest_desc: [
 		"Mechanical Pistons are a Contraption that will collide with unmovable blocks."
@@ -1256,10 +1634,18 @@
 	]
 	quest.4A859875AFC89A13.quest_desc: ["A key mechanical component that compresses and channels energy within an engine. It’s essential for converting fuel or pressure into smooth, consistent rotational motion."]
 	quest.4A961ADDC8054AA1.quest_desc: ["A magnetic device that attracts nearby items toward it using rotational energy. Perfect for automation setups where item collection needs to be fast and efficient."]
+	quest.4AD661C0A10ABD3B.quest_desc: ["With a spout attached to the tank of liquid xp via pipes, you will be able to put the liquid back into bottles either by right clicking bottles onto a depot or having bottles put on a belt line underneath the spout"]
+	quest.4AD661C0A10ABD3B.quest_subtitle: "Making Bottles o' Enchanting"
+	quest.4AEA30171CF1BFD7.quest_desc: [""]
 	quest.4AFF81D3D0E78255.quest_desc: ["The Chemical Washer turns Slurry into Clean Slurry using Water. The clean slurry then needs to be further refined by pumping it into a Chemical Crystallizer. Note that unlike most Mekanism machines this one has fixed \"in\" and \"out\" sides for the mineral flow. \"In\" will be on the left when first placed and \"out\" is on the right. It can of course be rotated with the Configurator. Water is piped in through the top of the machine."]
 	quest.4AFF81D3D0E78255.quest_subtitle: "Giving Ores a Bath"
+	quest.4B2B22401FF12C27.quest_desc: ["The **Smoking** and **Blasting** upgrades add a portable Smoker (for food) and Blast Furnace (for ores) to your backpack, with Auto versions available."]
+	quest.4B2B22401FF12C27.quest_subtitle: "Fast food and fast ores."
+	quest.4B2B22401FF12C27.title: "Smoking and Blasting Upgrades"
 	quest.4B574B802F83F725.quest_desc: ["We need to generate torque for our car; we can use a coal-powered torque generator, place it at the back of our car."]
 	quest.4B574B802F83F725.quest_subtitle: "Generating torque"
+	quest.4B8FC4B924A93366.quest_desc: ["The **Insulated Plate** (Vent Plate) is an excellent material for shields, offering significantly increased durability and resilience."]
+	quest.4B8FC4B924A93366.title: "Reinforced Platework"
 	quest.4B976C143EDA4317.quest_desc: [
 		"Casings are blocks used throughout many crafting recipes in Create, as well as for decoration and aesthetic purposes."
 		""
@@ -1292,6 +1678,8 @@
 		""
 		"When the chargepad is broken, Robit will turn into an item to be picked up. It keeps its items but it may despawn if it's not picked up."
 	]
+	quest.4C476592AA64996B.quest_subtitle: "Charges electric items, and can also be used to inflict damage to &cPlayers&r and &cMobs&r.&r"
+	quest.4C476592AA64996B.title: "Craft &cTesla Coil"
 	quest.4C7CD3858A2BE870.quest_desc: [
 		"The Mechanical Press is a mechanical component that applies Pressing, Packing, and Compacting recipes to items below it. It is used to press Ingots into Sheets, which are important ingredients for higher-level components."
 		""
@@ -1309,17 +1697,26 @@
 		""
 		"These can tap into the &bcrafting system&r when a crafting card is installed, allowing you to output redstone while an item is being crafted, or even configure the system to output redstone to preform a crafting task, its important to note that you cannot mix level emitter craft via &credstone&r with &binterface patterns&r."
 	]
+	quest.4CEA538689841610.quest_desc: ["Immersive Armors adds visually unique and functionally powerful armor sets, moving beyond simple material progression. Each set offers exclusive effects, such as Berserk mode, anti-knockback, fire resistance, or double jump."]
+	quest.4CEA538689841610.title: "Immersive Armors Introduction"
 	quest.4CEF6501FCD7D58D.quest_desc: ["A basic yet functional engine component that helps convert pressure or combustion into motion. Ideal for early-stage machinery and low-power mechanical systems."]
 	quest.4CFE8B1C53B429E9.quest_desc: ["Crafter Slot Covers are used to denote empty spaces in Mechanical Crafter setups."]
+	quest.4D34030504790509.quest_desc: ["a gearbox but parallel"]
 	quest.4D482A1A908ABFDA.quest_desc: [
 		"Unlike Linear Chassis, the Radial Chassis connects to a radius of blocks around it rather than a straight line of blocks. This can be unwieldy if there are blocks nearby one would rather not connect to the Contraption."
 		""
 		"You can right click on the sides of the chassis while holding a Slimeball or Super Glue to make them sticky, and again to apply it to all sides. The items are not consumed. The radius of affected blocks can be changed per chassis with a Wrench. Hold Ctrl to scroll every connected chassis."
 	]
+	quest.4D61009737D94BDA.quest_desc: ["A major milestone! Your colony now hosts **25** thriving citizens. Logistics, food, and military defense are becoming critically important at this scale."]
+	quest.4D61009737D94BDA.title: "Population Milestone: 25 Citizens"
+	quest.4D68C830E782A337.quest_desc: ["colorful tires! "]
+	quest.4D68E9ACA5E213AA.quest_desc: ["convert diesel into rotational energy!"]
 	quest.4D89B47FFF31585D.quest_desc: ["We can use the Chain Drive to make our car's chassis, but if it gets too big, it may cost more fuel."]
 	quest.4D89B47FFF31585D.quest_subtitle: "Car body"
 	quest.4D89B47FFF31585D.title: "Encased Chain Drive"
 	quest.4D999E42010FFB85.quest_desc: ["Holds 1.6r AE in its battery and drains 1 AE/t for each block you are away from the nearest ME Wireless Access Point."]
+	quest.4D9DC4973FD340E5.quest_desc: ["The **Combat Academy** is where your Guards practice and upgrade their melee fighting skills, making them more effective defenders against raiders and mobs."]
+	quest.4D9DC4973FD340E5.title: "Military: Combat Academy"
 	quest.4DAC24440803FE58.quest_desc: [
 		"An AE2 network needs to be chunkloaded for any of its devices to be able to function, and if only some of it is loaded, it may not function correctly. The Spatial Anchor solves this problem. It forceloads the chunks that its network occupies. A single cable extending across a chunk border is enough to load that new chunk."
 		""
@@ -1328,14 +1725,23 @@
 		"By default it will also enable random ticks in its loaded chunks, this can be turned off in the ae2 config."
 	]
 	quest.4DAEDB4B0C8D2CE4.quest_desc: ["A high-speed power generator that converts heat or fluid pressure into rotational energy through turbine blades. It delivers efficient, continuous power for advanced machines and automation systems."]
+	quest.4DD7E2BD8508A117.quest_desc: ["Congratulations, you have mastered all the Herder jobs! Your colony now manages every animal type, providing a stable source of food, leather, wool, and more."]
+	quest.4DD7E2BD8508A117.title: "All Herders Established"
 	quest.4DD8EC6663F695BC.quest_subtitle: "Place down a Sequenced Pulse Generator"
 	quest.4DD8EC6663F695BC.title: "Computational Supremacy"
+	quest.4DF313A9F6B04C63.quest_desc: ["The **Wither Armor** is the ultimate endgame set. It offers unmatched stats, grants resistance to Wither effects, and most importantly: Skeletons will completely ignore you."]
+	quest.4DF313A9F6B04C63.title: "Tier 5: Wither Endgame Mastery"
+	quest.4DFFD56294AF6E0F.quest_desc: ["Name your simulated contraption in any color!"]
 	quest.4E058BAF38B16EE0.quest_desc: ["An electrical component that stores and releases energy when needed. It helps stabilize power flow, improve efficiency, and support machines during energy fluctuations."]
+	quest.4E5A011F861FCE5A.quest_desc: ["Outputs a redstone signal based on its speed. Shows precise information when wearing goggles"]
 	quest.4E5C6F23628A9982.quest_desc: [
 		"The Encased Chain Drive is a block that can transfer rotation much like the Mechanical Belt."
 		""
 		"Encased chain drives may be placed side by side either vertically or horizontally to form a chain passing rotational power among all the blocks. The blocks must touch on their sides (not axis to side) and be in a single straight line to form a chain. The axes of the encased chain drives may be all parallel or blocks can be rotated to orient the axis perpendicularly. Encased chain drives can also pass rotational power through their rotating axis, but this is not a continuation of the same chain."
 	]
+	quest.4EAF4F9F7317CAE1.quest_desc: ["The **Pickup** upgrade absorbs nearby drops into the backpack. The **Magnet** draws items from a larger radius. Get the **Advanced** versions for increased range and filtered magnetizing!"]
+	quest.4EAF4F9F7317CAE1.quest_subtitle: "Automate item collection."
+	quest.4EAF4F9F7317CAE1.title: "Pickup Upgrades"
 	quest.4EBD5363B552085D.quest_desc: [
 		"Organizes electrical appliances into series-parallel groups without needing diodes or other circuit-splitting components."
 		""
@@ -1346,6 +1752,10 @@
 		"{ \"text\": \"Click Me!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3617DE87C4E1BCB9\" } }"
 	]
 	quest.4EC499B88FBFA01C.quest_desc: ["Stores kinetic stress for later use. Retains charge in item form to enable long-distance energy transport. Battery capacity, RPM at discharge and stress impact values are all configurable."]
+	quest.4EE36F25A452F1FC.quest_desc: ["aTurn your solid experience into liquid form!"]
+	quest.4EE7DC998B846A50.quest_desc: ["Its mostly for crafting, but you can also feed these to the &6Blaze Forger&r"]
+	quest.4F0DD18D7647A103.quest_desc: ["The **Sophisticated** mods bring tiered, modular storage to your world. Unlock the core concepts before diving into the Portable (Backpacks) or Static (Barrels/Chests) solutions."]
+	quest.4F0DD18D7647A103.title: "Sophisticated Systems Introduction"
 	quest.4F1307BB5B01F90F.quest_desc: [
 		"The ME Chest acts like a miniature network with a ME Terminal, ME Drive, and Energy Acceptor. While it can be used as a tiny storage network, its capacity for just one single storage cell means it has limited utility as such."
 		""
@@ -1357,6 +1767,9 @@
 		""
 		"It has a small AE energy storage buffer, so if not on a network with an energy cell, inserting or extracting too many items at once may cause it to brown out."
 	]
+	quest.4F15D1EB5397C942.quest_desc: ["A gearbox with adjustable sides"]
+	quest.4F1BAD0FF159CDF0.quest_desc: ["Find or plant your first **Farmer's Delight** crop, such as **Cabbage** or **Tomato**, to begin diversifying your food supply."]
+	quest.4F1BAD0FF159CDF0.title: "New Harvests"
 	quest.4F1C04C0F6769825.quest_desc: [
 		"The Chemical Injection Chamber uses Hydrogen Chloride gas to convert Ores into 4 Shards and Raw Ores into 8 Shards."
 		""
@@ -1377,6 +1790,8 @@
 		"The machine uses 100mB of Sulfuric Acid for every ore dissolved and outputs 1000mb of Slurry. This Slurry needs washing in the Chemical Washer."
 	]
 	quest.4F436770D30D8520.title: "The Start of a Tier 4 Ore Factory"
+	quest.4F546AAC6F3D4963.quest_desc: ["The Campfire is your basic and most reliable heat source for cooking small ingredients and raw meats."]
+	quest.4F546AAC6F3D4963.title: "Heat Source"
 	quest.4F5AA576DC7B9B24.quest_desc: ["Put these items in the top of the blast furnace to produce molten steel and molten slag."]
 	quest.4F5AA576DC7B9B24.title: "Making steel"
 	quest.4F78122BABAB041C.quest_desc: [
@@ -1409,17 +1824,26 @@
 	quest.4FFD6C191AD6FCC5.quest_desc: ["A much improved, portable version of the Electric Gauge. Extremely useful for checking if a device is receiving enough current and power."]
 	quest.5047792C6EF6D2AD.quest_desc: ["Created in Pressurized Reaction Chamber from 2 x Bio Fuel, Water and Hydrogen (also Ethylene created as side-product)."]
 	quest.5047792C6EF6D2AD.title: "Substrates"
+	quest.506BD7AA9AB36E8F.quest_desc: [
+		"**Warrior Armor** (Iron/Lapis): Unleash a Berserk mode, dealing significantly more damage for every heart missing. For the Viking in you."
+		"**Heavy Armor** (Iron/Toughness): Offers superior armor, high toughness, and dramatically reduced knockback, turning you into an unstoppable tank."
+	]
+	quest.506BD7AA9AB36E8F.title: "Tier 2: Combat and Tanking"
 	quest.50CE0BD7B0BC4017.quest_desc: ["Fluid Valves can be switched between open and closed by providing Rotational Force to the side. This is often done with a Valve Handle or Gearshift. A set of directional arrows on the side of the valve will also rotate to indicate whether the valve is open or closed."]
 	quest.51844489E649C85A.quest_desc: ["A &9Time-Dilating QIO Drive&r can contain &o&b1,048,000&r &nitems&r and &o&b1,024&r &nitem types&r."]
 	quest.51CCB7ACFD7B45F1.quest_subtitle: "Crafting ingredient"
 	quest.51E22AFE9403C9E1.quest_desc: ["To start, we need a Physics Assembler; with it, we can give physics to the car, and it will be very important!"]
 	quest.51E22AFE9403C9E1.quest_subtitle: "Creating our first car"
 	quest.5243675B5E7C5618.quest_desc: ["A grappling \"whisk\" allows you to grapple to most surfaces and sling you across terrain! AKA spiderman style."]
+	quest.52453550206EC770.quest_desc: ["The **Dyer Hut** automates the production of various dyes, which are necessary for cosmetic changes to buildings, uniforms, and specific recipes."]
+	quest.52453550206EC770.title: "Production: Dyer Hut"
 	quest.525F25F4ADE45B50.quest_desc: [
 		"The ME Formation Plane acts similarly to the Storage Bus, but treats the world itself as its storage medium. In other words, it will place down any block in its filter directly in front of itself."
 		""
 		"This can be useful for situations where a block can be processed simply by placing it and breaking it with a certain tool."
 	]
+	quest.52B3B09AB5BA8C90.quest_desc: ["**Stack Downgrades** reduce the stack size limit in a slot. This is useful for regulating automation inputs or ensuring certain item types don't fill up a large storage slot."]
+	quest.52B3B09AB5BA8C90.title: "Stack Downgrades"
 	quest.52D8B15C3B75AB7F.quest_desc: [
 		"The generator consumes SU to produce electricity. The faster it spins, the more voltage and power it generates, up to a maximum of 255V and 12.1kW. More technical details follow."
 		""
@@ -1448,8 +1872,19 @@
 		"224 RPM - 255 RPM: Voltage remains at 255V while power output increases up to 12.1kW. Current limit rises to 47.5A"
 	]
 	quest.52DA19C0A068BAD8.quest_desc: ["Can destroy a 3x3 area works with fuel(coal) and water."]
+	quest.52FFA3E691992828.title: "Copper Backpack"
 	quest.531E3FF1F2865C67.quest_desc: ["Similar to the Universal Cable, the Thermodynamic Conductor is Mekanism's way of transferring power in the form of heat (essentially a heat pipe)."]
 	quest.531E3FF1F2865C67.title: "&aBasic Thermodynamic Conductor"
+	quest.53795E0502DAA36D.quest_desc: ["a cog wheel with a crank"]
+	quest.537A8F99CC3F525D.quest_desc: ["This milestone tracks when your armed forces reach a size of **8** guards. This provides a respectable defense for a growing colony."]
+	quest.537A8F99CC3F525D.title: "Military Strength: 8 Guards"
+	quest.53BC23A56A1080A0.quest_desc: [
+		"- &6Small Connectors&r connect &bForge Energy Compatible&r blocks with &dwires&r to transfer &9FE&r."
+		""
+		"- &6Copper Spool&r can be connected to &alow current connectors&r."
+	]
+	quest.53BC23A56A1080A0.quest_subtitle: "Click"
+	quest.53BC23A56A1080A0.title: "Craft &cConnectors"
 	quest.53C0234C053BF0CF.quest_desc: [
 		"Place a Stock Link to start a new Logistics Network. Right-click a placed Stock Link before placement to share that link’s network. Place the link on a Packager to connect the packager’s connected inventory to the network."
 		""
@@ -1466,11 +1901,17 @@
 		"The electrode holders require a minimum of 25A to operate, but they have three times the resistance compared to the electrolyzer. Each must be supplied with at least 31.5 kV. This can be achieved using two max-speed Generators, a Transformer with a turn ratio of 6, and Diodes on each electrode holder."
 	]
 	quest.53EA40114B347A83.title: "Arc Furnace"
+	quest.53F8923B85A8A9CC.quest_desc: ["This milestone tracks when your armed forces reach a size of **80** guards. This is considered maximum strength, enabling complete colony defense and large-scale attack preparation."]
+	quest.53F8923B85A8A9CC.title: "Military Strength: 80 Guards"
+	quest.5411D7D6AD053E66.quest_desc: ["The **Crafting** and **Stonecutter** upgrades add portable versions of these utility stations directly to the container's UI."]
+	quest.5411D7D6AD053E66.title: "Crafting Upgrade"
 	quest.5435BF11EB742A73.quest_subtitle: "Blow a Shear Pin"
 	quest.5435BF11EB742A73.title: "Snap!"
 	quest.54589F10802DFE16.quest_desc: ["A clutch that is uncoupled unless powered."]
 	quest.546F7FF099D2696E.title: "&dUltimate Pressurized Tubes"
 	quest.54778BD66812A1CF.quest_desc: ["A transport component used to move fluids between tanks, machines, and engines. Designed for efficiency and integration with Create’s mechanical systems, it ensures smooth fluid transfer in your automation setups."]
+	quest.54A7C357AE0ADF65.title: "Diamond Backpack"
+	quest.54C81018CE13F6F1.quest_desc: ["Emits a laser when powered by redstone. dyeable, black is invisible"]
 	quest.554102109E795CD3.quest_desc: ["An electrical component that limits or controls the flow of current in a circuit. It’s crucial for protecting devices and ensuring stable power distribution."]
 	quest.556D9C78EFAB5091.quest_desc: [
 		"The ME Terminal is a HUD which gives you access to items stored in your ME Network. This will also include items accessible through ME Storage Bus."
@@ -1482,15 +1923,26 @@
 		""
 		"Can be used to make Vibrant Quartz Glass and other items."
 	]
+	quest.55768951471D44D8.quest_desc: [
+		"**Wooden Armor** (Wood): Primitive, but offers great projectile and explosion resistance."
+		"**Bone Armor** (Bones): Lightweight, grants extra mobility and retaliates with spikes upon being hit."
+	]
+	quest.55768951471D44D8.title: "Tier 0: Primitive and Lightweight"
+	quest.55AC6BFFB13267D9.quest_desc: ["Apply redstone power to turn. one side turns left while the other goes right "]
 	quest.55E2F8C6A71E7328.title: "&9Elite Thermodynamic Conductor"
+	quest.55F7CB2455453231.quest_desc: ["Outputs a redstone signal when observing a laser pointers light"]
 	quest.563A3503CD040E41.quest_desc: ["A coiled conductor that generates a magnetic field when energized. It’s essential for crafting motors, generators, and other advanced electromechanical systems."]
 	quest.563A3503CD040E41.quest_subtitle: "Made in a winding machine."
+	quest.5640650E72BDAAEA.quest_desc: ["The basic **Backpack** offers portable storage with upgrade slots. Crafting higher tiers later will preserve all contents and upgrades."]
+	quest.5640650E72BDAAEA.title: "The Basic Backpack"
 	quest.566C0FA15F2021F1.title: "Steel Ingots"
 	quest.566D6390193DD77D.quest_desc: [
 		"Brass Tunnels may be used on mechanical belts for four functions: 1) purely decorative, 2) splitting streams of items to multiple destinations, 3) sorting streams of items, and 4) combining multiple streams of items. Each tunnel can have an input or output portal. The status of being an input or output depends purely on the direction of the belt touching a given side."
 		""
 		"Tunnels which are placed immediately next to each other are automatically treated as a group, in most cases collecting from all inputs and distributing to all outputs. The way that items are distributed is controlled by the tunnels' value setting. Item stacks from different inputs will not be combined prior to distributing."
 	]
+	quest.56EBCA0BA5637C8D.quest_desc: ["Obtain **Raw Netherite Scrap** from overworld drilling. This material requires specialized, high-temperature processing."]
+	quest.56EBCA0BA5637C8D.title: "Netting the Scraps"
 	quest.57175CF690ADCCBE.quest_desc: [
 		"The Bottling Machine has no GUI. RF is supplied through the top back central block of the multiblock (where the Light Engineering Block was)."
 		""
@@ -1502,6 +1954,14 @@
 	quest.575039EFF672065E.title: "Vacuum Tube"
 	quest.576873A2E3A4D8ED.quest_subtitle: "Treated Wood Planks are Wood Planks coated in creosote oil and is used in the construction of many Immersive Engineering items."
 	quest.576873A2E3A4D8ED.title: "The Treated Wood"
+	quest.57856383D9810957.quest_desc: ["Like a rope pulley but with physics"]
+	quest.57BDFFD832836310.quest_desc: [
+		"Use this tool to locate oil diposits "
+		""
+		"it works on chunks! try F3+G"
+	]
+	quest.57C889EC980D33D9.quest_desc: ["The **Farmer Hut** automatically plants, tends, and harvests crops within its boundary. They require a hoe and seeds/crops to start work."]
+	quest.57C889EC980D33D9.title: "Farmer Hut"
 	quest.57E30971FCEF6709.quest_desc: [
 		"The Atomic Disassembler is Mekanism's an all-in-one tool, essentially the ultimate, electronic version of the paxel."
 		""
@@ -1533,11 +1993,22 @@
 		"Good setting to leave it on if you intend to use it as your main weapon... and don't want to dig yourself into a death trap."
 	]
 	quest.57FCBFBA8789F893.quest_subtitle: "Works underwater."
+	quest.580771BE5663174D.quest_desc: ["BURN IT ALL DOWN"]
+	quest.583A7AA84FEC027F.quest_desc: [
+		"The **Builder's Hut** is the most important building. Hire a Builder and place the schematic, then stock the Builder's chest with the required materials."
+		"The Builder will automatically construct the Town Hall and other buildings you place."
+	]
+	quest.583A7AA84FEC027F.title: "Build the Builder's Hut"
 	quest.587A19FC348387C5.quest_desc: [
 		"The Pressurized Reaction Chamber (PRC) is used primarily to create Substrate (to create HDPE Pellets), HDPE Pellets (to create HDPE Sheets), and Ethylene (an efficient source of fuel used in the Gas-Burning Generator). It has a variable speed and energy usage dependent on the materials/gasses it is creating."
 		""
 		"The Pressurized Reaction Chamber accepts a liquid, a gas, and a material(s); it uses these three substances to create another material(s) and some leftover gas. Like many other Mekanism machines, it has configurable sides; by default, it accepts gas from the left, accepts liquid from the back, and outputs gas on the right."
 	]
+	quest.5890502EE26E95FB.quest_desc: ["The **Crafting** and **Stonecutter** upgrades add their respective crafting stations to the backpack UI, making them fully portable."]
+	quest.5890502EE26E95FB.quest_subtitle: "Portable crafting stations."
+	quest.5890502EE26E95FB.title: "Crafting and Stonecutter"
+	quest.58A16F3668D53950.quest_desc: ["**Forged Bolts** are unique materials used in the workbench to fine-tune and customize your tool's statistics for precise performance."]
+	quest.58A16F3668D53950.title: "Precision Tool Tuning (Bolts)"
 	quest.58B125BD4876054C.quest_desc: [
 		"This mod introduces many different mid-to-high tier forms of machinery, power generation, and tools to the game that create a whole new element of technology to a game originally aimed at survival."
 		""
@@ -1546,8 +2017,21 @@
 		"This mod features Hydrogen Powered Jetpacks, a Mini Robotic friend, Reactors, a Digital Miner to automate mining, Reactors, and much more."
 	]
 	quest.58B125BD4876054C.title: "Welcome to Mekanism"
+	quest.58F80E1BD05B026F.quest_desc: [
+		"You can pick up mobs and chests!"
+		""
+		"SHIFT + right click with open hand"
+	]
 	quest.5921FE935A2D7325.quest_desc: ["The Alloy Kiln is fairly simple to use; putting solid fuels in the bottom slot in the GUI will power the Alloy Kiln. The two other left slots are where each Ingot or Grit can be added to form a new ingot. After about 8 seconds, two new ingots will be formed."]
 	quest.5921FE935A2D7325.title: "Alloy Kiln"
+	quest.593FC0DC7C3B85CC.quest_desc: ["The **Feeding Upgrade** can feed and optionally heal players in a radius around the storage block."]
+	quest.593FC0DC7C3B85CC.title: "Feeding Upgrades"
+	quest.5960CEAD282364D2.quest_desc: ["The **Smithing Upgrade** adds a portable smithing table. The **Alchemy Upgrade** adds a brewing stand, perfect for making potions on the go."]
+	quest.5960CEAD282364D2.title: "Smithing and Alchemy Upgrades"
+	quest.59AA7879BD8A6AEB.quest_desc: ["Blaze burners can drink LAVA"]
+	quest.59DBB1D2EAEF1F34.quest_desc: ["Sleep the day away!"]
+	quest.5A11A2FC20E5CE2A.quest_desc: ["The **Barracks** is the military hub, allowing you to train, equip, and manage your guards. Build this to gain full control over your military forces."]
+	quest.5A11A2FC20E5CE2A.title: "Build the Barracks"
 	quest.5A14292FE47ED873.quest_desc: ["A precision-crafted component that captures fluid or air flow to generate rotational energy. It’s a key part of turbine engines, ensuring smooth and efficient power conversion."]
 	quest.5A2450162FD24F7E.quest_desc: [
 		"Two Crushing Wheels must be placed next to each other horizontally or vertically one block apart. Both wheels must be given opposite rotational force. Any items to be crushed must be inserted where the wheels rotate inwards."
@@ -1556,8 +2040,13 @@
 	]
 	quest.5A2450162FD24F7E.quest_subtitle: "Crushing Wheels applie Crushing recipes to any items inserted from the direction they are spinning away from."
 	quest.5A2450162FD24F7E.title: "Crushing Wheels"
+	quest.5A5068B2BA044F6D.quest_desc: ["The **Restock** upgrade automatically pulls items from your backpack to restock items in your hotbar when they are used up."]
+	quest.5A5068B2BA044F6D.quest_subtitle: "Always keep blocks in your hand."
+	quest.5A5068B2BA044F6D.title: "Restock Upgrades"
 	quest.5A5A30CD4D0C98CB.quest_desc: ["Fluix Crystal is crafted in world by tossing Charged Certus Quartz Crystal, Nether Quartz and Redstone Dust in Water."]
+	quest.5ABFD8CA91AA15C8.quest_desc: ["A visual diagram with detailed information about a simulated contraption"]
 	quest.5AFD4912CC8FBBB8.quest_subtitle: "Crafting ingredient"
+	quest.5B05D32A01FABDC9.quest_desc: ["Stores an analog signal that can be modified over time."]
 	quest.5B3FDF651D845DF1.title: "&9Elite Mechanical Pipe"
 	quest.5B681BC43371CC5C.quest_desc: [
 		"The Logistical Transporter is the basic item transport pipe for Mekanism logistics. With the Configurator the player can choose to \"paint\" the pipe with colors that can be detected by the pipe's color sorter by ⇧ Shift + right-clicking the center of a transporter with a Configurator."
@@ -1565,6 +2054,7 @@
 		"It has 2 other cousins called the Diversion Transporter and the Restrictive Transporter."
 	]
 	quest.5B681BC43371CC5C.title: "&aBasic Logistical Transporter"
+	quest.5B7ABBB515772407.quest_desc: ["Auger shafts transport Items. An easy way to move items upwards."]
 	quest.5B9501552E5DFB20.quest_subtitle: "Found in veins near the surface alongside crimsite and sand."
 	quest.5B960A074B904E80.quest_desc: [
 		"The electrical motor converts electrical power into SU with a small efficiency loss."
@@ -1589,6 +2079,7 @@
 	]
 	quest.5BB309E264190DB9.quest_desc: ["We can build a mega car with giant wheels, or small cars with smaller wheels; it all depends on what we need to do."]
 	quest.5BB309E264190DB9.quest_subtitle: "New types of wheels"
+	quest.5BF638A250C7106E.title: "Welcome to the Void Mine"
 	quest.5C2108BD3DEEB0E6.quest_desc: [
 		"The Spout is a block used for filling liquid containers such as bottles or buckets, or crafting with liquids."
 		""
@@ -1601,10 +2092,15 @@
 		""
 		"Connect it to a generator, place one alloy on the prongs, and watch the needle rise until it creates a Magnet."
 	]
+	quest.5C229CFEA7C5D2DD.quest_desc: ["The **Alchemy Upgrade** allows brewing potions directly from ingredients within the storage block, useful for automated potion production."]
+	quest.5C229CFEA7C5D2DD.title: "Alchemy Upgrades"
 	quest.5C5DE3ECE4E39C5F.quest_subtitle: "Trigger an Overstress Clutch"
 	quest.5C5DE3ECE4E39C5F.title: "Circuit Breaker"
+	quest.5C6BCEE1C12D951A.quest_desc: ["Anitgravity blocks. Keeps ships afloat. Does not increase altitude"]
 	quest.5D3EE44FB41D289F.quest_desc: ["A item which contains a configuration similar to a Storage Cell, that allows you to customize the filtering of a particular ME Terminal."]
 	quest.5E116409DC7D30BB.quest_desc: ["The Configurator is used to configure many of the items in Mekanism, from changing pipes to \"Pull or Push\" or rotating machines."]
+	quest.5E1D5B6D719FE708.quest_desc: ["The **Pump Upgrade** adds fluid storage and transfer capabilities to the container. The **XP Pump** handles experience fluid."]
+	quest.5E1D5B6D719FE708.title: "Pump and XP Pump"
 	quest.5E2B9B6AAB1F34F4.quest_desc: ["When we want to fly, we need a flat surface for the wind to pass through; for this, the best option for building planes is to use the windmill as part of the wing, as it is lighter and easier."]
 	quest.5E2B9B6AAB1F34F4.quest_subtitle: "Fly"
 	quest.5E2F9E27E6B4DF74.title: "&dUltimate Thermodynamic Conductor"
@@ -1616,7 +2112,15 @@
 		"When converting FE to TFMG energy, the voltage can be set up to 250V."
 	]
 	quest.5F0E877BE50D79D0.quest_desc: ["Used with &6Spatial IO Port&r to store spatial regions."]
+	quest.5F1AD904545650BB.quest_desc: ["crush some wheat in a millstone or crushing wheel! "]
+	quest.5F5DB67F6A470C73.quest_desc: ["This milestone tracks when your armed forces reach a size of **30** guards, enabling strong defense and potential expeditions."]
+	quest.5F5DB67F6A470C73.title: "Military Strength: 30 Guards"
+	quest.5F63D37E41C07B2E.quest_desc: ["Like an anvil but no repair costs! "]
 	quest.5F68F1D8533B534F.quest_subtitle: "Right click the industrial mixer to install."
+	quest.5F883CD530B2AE07.quest_desc: ["**Create: Ore Excavation Plus** introduces multi-step processing. Crush your Raw Diamond/Emerald to dust, then **Cut** or **Wash** the Raw Gems to start the chain."]
+	quest.5F883CD530B2AE07.title: "The Processing Chain"
+	quest.5FC01763770A062E.quest_desc: ["This advancement triggers upon completing the building of the Town Hall structure after it was initially placed as the control block. This is a crucial milestone!"]
+	quest.5FC01763770A062E.title: "The Town Hall is Complete"
 	quest.5FDB48511EC1C580.quest_desc: [
 		"Afraid of blowing up your &6Fission Reactor&r and causing a massive &4Radiation&r leak?"
 		""
@@ -1627,6 +2131,8 @@
 		"You can also set these to give off a &cRedstone Signal&r based on a certain condition within the &6Reactor&r, like &cDamage Critical&r or &8Insufficient Fuel&r. This is useful for setting up a circuit breaker to shut &coff&r the &6Reactor&r if those ever happen."
 	]
 	quest.5FDB48511EC1C580.title: "&eSafety First!"
+	quest.6012A593D0FB81EC.quest_desc: ["The **Kitchen Hut** is an upgrade to the Cook Hut, allowing for more complex and better quality meals, which boosts citizen happiness and health."]
+	quest.6012A593D0FB81EC.title: "Advanced Food: Kitchen Hut"
 	quest.603877AB96321F1A.quest_desc: [
 		"The Thermal Evaporation Plant or a Solar Evaporation Plant with the addition of Advanced Solar Generators, is a multiblock structure that converts water to Brine, and Brine \\& Lithium by the use of a second TEP."
 		""
@@ -1646,6 +2152,8 @@
 		""
 		"Multiple Carriages on one shaft can also move the same structure built onto it."
 	]
+	quest.60777D98CE917817.quest_desc: ["The **Cooking Pot** is vital for making complex meals, like stews and soups, which offer high saturation and beneficial effects."]
+	quest.60777D98CE917817.title: "The Essential Pot"
 	quest.60844520BAC54952.quest_desc: [
 		"Place the sample drill and add a oxygen backtank to it then activate the sample drill."
 		""
@@ -1683,22 +2191,44 @@
 	]
 	quest.626580DB654F128D.quest_desc: ["The Millstone is capable of applying milling recipes to any valid items inserted from above."]
 	quest.62671BDA7C583957.quest_desc: ["A natural fuel source produced from organic materials. It can be processed into Bioethanol, making it an eco-friendly alternative for generating energy and powering your Create machines sustainably."]
+	quest.627AEB414599E31E.quest_desc: ["Ponder me!"]
+	quest.6289C9F19ED553A1.quest_desc: ["A redstone link with a visual cone, it can only see links infont."]
+	quest.629658E9AB4D46F1.quest_desc: ["Symmetric sails have more drag, good for turning. use regular sails for lift"]
 	quest.629BCF8065DFD8B1.quest_subtitle: "Use it to find a Chunk with a ore vein"
 	quest.62BAE54B507B7A21.quest_subtitle: "Crafting ingredient"
 	quest.62F1177325B16068.quest_desc: ["High current"]
+	quest.634B2E7FB2183363.quest_desc: ["**Tetra** weapons offer capabilities beyond standard blades. Forge a new sword and explore the world with enhanced combat power!"]
+	quest.634B2E7FB2183363.title: "Advanced Bladecraft"
 	quest.6350ADB7540C368D.quest_desc: [
 		"If the Smart Observer is placed with the front facing a container such as a Mechanical Belt, Funnel or Fluid Pipe, it will emit a Redstone signal when an item is detected inside. A Smart Observer will also emit a signal if the block placed in front of it matches the filter."
 		""
 		"If a Filter is applied to the Smart Observer, it will only emit a redstone signal when the item in the filter is detected."
 	]
 	quest.637EBAB0500A2295.quest_desc: ["An incendiary grenade that triggers a high-temperature chemical reaction on impact, melting through metal and igniting nearby flammable materials. It deals persistent area damage and can disable machinery or break through reinforced structures, but use with caution—its intense heat affects friend and foe alike."]
+	quest.638EB4E35F41405B.quest_desc: ["Upgrade bases are required to craft all functional upgrades. This is the **Backpack-specific** version (distinguished by its **Leather** texture)."]
+	quest.638EB4E35F41405B.quest_subtitle: "For Backpacks"
+	quest.638EB4E35F41405B.title: "Backpack Upgrade Base"
 	quest.63B4B83F528E6AD6.quest_desc: ["{ \"text\": \"Click Me!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4CFE8B1C53B429E9\" } }"]
 	quest.63E8F78EEA3063F7.quest_desc: ["{ \"text\": \"Click Me!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"24DDED464AE48E05\" } }"]
+	quest.63FE80143DB276C3.quest_desc: ["Throw away fluids"]
 	quest.6424D99CBA76895B.title: "&9Elite Pressurized Tubes"
+	quest.64407A1BC7A1761B.quest_desc: ["Get some nuggers of experiance by crushing stuff! like ores or mobs."]
+	quest.64407A1BC7A1761B.quest_subtitle: "Start of the exp journey"
+	quest.647F95EED59927B7.quest_desc: ["The **Cook Hut** takes raw food (from Farmers, Fishermen, etc.) and processes it into edible, health-restoring meals for the citizens. Essential for growing the population."]
+	quest.647F95EED59927B7.title: "Cook Hut"
 	quest.64AB5CCDD9860DD8.quest_desc: ["Obtained by putting an Iron Sheet in a Rolling Mill."]
 	quest.64AB5CCDD9860DD8.quest_subtitle: "Crafting component."
+	quest.653C032CF52802A0.quest_desc: ["The **Chthonic Extractor** is a component for your hammer that allows you to upgrade its capabilities, notably enabling a **3x3 mining area**."]
+	quest.653C032CF52802A0.title: "The Extractive Upgrade"
+	quest.65BE8DB8C5C357D5.quest_desc: ["works on wood!"]
+	quest.65D23E7683812E26.quest_desc: ["Citizens are not picky. They will consume any edible item you place in storage, even **Rotten Flesh**! This is helpful in emergencies or automating early food supply."]
+	quest.65D23E7683812E26.title: "Citizens Eat Anything!"
+	quest.65EC649FCC1F3F4F.quest_desc: ["Stress units from FE POWER"]
 	quest.66108B4F2DBF2E3F.quest_desc: ["Obtained by putting a Copper Ingot in a Rolling Mill."]
 	quest.66108B4F2DBF2E3F.quest_subtitle: "Crafting component."
+	quest.6615CE64DC0565EC.quest_desc: ["**Straw** is obtained by harvesting tall grass with a knife, and is used for crafting **Rope** and decorating your farm."]
+	quest.6615CE64DC0565EC.title: "A Simple Byproduct"
+	quest.667A91871415DF44.quest_desc: ["Horizontal fluid tank"]
 	quest.66A35D1A11CBB671.quest_subtitle: "Assemble a Control Chip"
 	quest.66A35D1A11CBB671.title: "Precision Fabrication"
 	quest.66C3C169307A8025.quest_desc: ["Allows the player to fly, move and swim faster. Works with water"]
@@ -1713,6 +2243,8 @@
 		"{image:kubejs:textures/item/induction.png width:100 height:100 align:1}"
 	]
 	quest.673FCBF8685D0EEE.title: "&bThe Induction Matrix"
+	quest.67E8B8DCFC93F832.quest_desc: ["The **Warehouse** is vital for logistics. It stores all produced resources and allows the **Deliveryman** to deliver materials to Builders. You must build this early!"]
+	quest.67E8B8DCFC93F832.title: "The Warehouse: Storage Hub"
 	quest.67F7FBDD9CC782F7.quest_desc: [
 		"There are three tiers of vats to work with:"
 		""
@@ -1736,12 +2268,25 @@
 		"If you have fuel you can burn anything!!!"
 	]
 	quest.6847F5D14FCB5BF8.quest_desc: [
-		"Use the Meteorite Compass to find Skystone Meteorites, which have a chance to contain Quartz blocks and Budding Quartz."
+		"Normally you'd use the Meteorite Compass to find Skystone Meteorites, which contain a mysterious cube that drops the presses. "
 		""
-		"It has a max range of roughly 2,700 blocks."
+		"But meteorites have been disabled in this world, here you go!"
 	]
+	quest.68500900087F92BC.quest_desc: ["The **Sawmill** can be programmed to craft specific blocks needed for your colony. This advancement confirms you have added the recipe for a door, a common building component."]
+	quest.68500900087F92BC.title: "Sawmill Production: Doors"
+	quest.68BA5151F22C7CC5.quest_desc: ["Craft this advanced belt to conveniently store numerous tools and items, making them easily accessible in the field."]
+	quest.68BA5151F22C7CC5.title: "The Enhanced Utility Belt"
 	quest.68E50F7501B945BB.quest_desc: ["A lightweight, high-energy metal ingot prized for its excellent conductivity and use in advanced batteries and electronic components. Valued in high-tech crafting and power-storage applications where energy density and low weight matter."]
+	quest.68FC81E133443E76.quest_desc: ["The **Library** is where the **Scholar** works, researching technology and increasing the max skill level of all workers. Essential for high-tier colony progress."]
+	quest.68FC81E133443E76.title: "Advanced Research: Library"
+	quest.696BDC29ACCBBE29.quest_desc: ["The **Undertaker Totem** is a powerful late-game upgrade to the Graveyard, allowing for more efficient resurrection and burial services."]
+	quest.696BDC29ACCBBE29.title: "Endgame: Undertaker Totem"
 	quest.69816C16E81355E8.quest_desc: ["A clutch that uncouples after a set delay when the network is overstressed."]
+	quest.69EAF1072D492F1A.quest_desc: ["The **Ancient Tome** is a rare item that can be found via exploration or occasionally traded for. It is required for upgrading high-tier buildings."]
+	quest.69EAF1072D492F1A.title: "Resource: Ancient Tome"
+	quest.69F9DB75244E6B3B.quest_desc: ["Wands for building! CTRL+SHIFT+RIGHT CLICK in the air to open the menu!"]
+	quest.69F9DB75244E6B3B.title: "Construction Wands!"
+	quest.6A46C70D8A7DBC04.quest_desc: ["its useless without something in it"]
 	quest.6A4CF3A1CF4D4928.quest_desc: [
 		"The Charger provides a way to charge supported tools, and Certus Quartz Crystal."
 		""
@@ -1752,8 +2297,18 @@
 		"To power it manually, place a Wooden Crank on the top or bottom and right-click it until the item is charged."
 	]
 	quest.6A539510EEB5F29E.quest_subtitle: "Right click Hardened Planks with a Steel Ingot."
+	quest.6A60B76053393288.quest_desc: ["The **Smeltery Hut** processes raw ores (like iron) into ingots for use in other production chains like the Blacksmith."]
+	quest.6A60B76053393288.title: "Advanced Metal: Smeltery Hut"
+	quest.6A84CD0EE4833294.quest_desc: ["**Tetra** allows for the modification of shields, granting them superior protection and even new offensive capabilities. Try customizing a shield in the workbench!"]
+	quest.6A84CD0EE4833294.title: "Reinforced Defense"
 	quest.6A84FC7CC5304E10.quest_subtitle: "Crafting ingredient"
+	quest.6B0CE8AD86991E28.quest_desc: ["The **Composter Hut** turns organic waste into **Bone Meal**, which is essential for speeding up farm growth and other related production buildings."]
+	quest.6B0CE8AD86991E28.title: "Production: Composter Hut"
 	quest.6B20F8F08E5F3848.quest_desc: ["A kinetic generator that converts heat and water into rotational energy. It’s a reliable way to power your machinery and automation systems with steady output."]
+	quest.6B26495A9E7D77FC.quest_desc: ["This is an early population goal! You need at least **5** citizens to begin running basic jobs and making the colony self-sufficient."]
+	quest.6B26495A9E7D77FC.title: "Population Milestone: 5 Citizens"
+	quest.6B2D00B54B16464B.quest_desc: ["Storage can act as an automated processing station. The **Smelting, Smoking, and Blasting Upgrades** add portable versions of the furnace trio."]
+	quest.6B2D00B54B16464B.title: "Smelting and Smoking Upgrades"
 	quest.6B5C3E68A6A3F3B5.quest_desc: [
 		"The Spatial Pylon is used in spatial IO to generate the spatial field and define the volume to be affected."
 		""
@@ -1762,6 +2317,9 @@
 		"Lines of pylons must be at least 2 blocks long to function."
 	]
 	quest.6B7188472F6ED6AF.quest_desc: ["Allow redstone links to match any frequency for the slot it is placed in."]
+	quest.6B7759342D4AE496.quest_desc: ["The **Stack Upgrades** multiply the maximum stack size an item can reach in the backpack, allowing you to hold massive amounts of common resources. The **Starter** tier is a great entry point."]
+	quest.6B7759342D4AE496.quest_subtitle: "Multiply your stack size!"
+	quest.6B7759342D4AE496.title: "Stack Upgrades (Starter to T4)"
 	quest.6B7DE9EA8E828DEE.quest_desc: [
 		"The Inscriber creates different types of Processors."
 		" "
@@ -1769,6 +2327,8 @@
 	]
 	quest.6B8966D7EA9BB5FB.quest_desc: ["Hand cranks with a cogwheel installed."]
 	quest.6B8E544E188FBA4D.quest_subtitle: "The heart of your system"
+	quest.6BB0C51EE8CA5966.quest_desc: ["The **Miner Hut** automatically digs and collects resources in a deep mine shaft (set the boundaries). Miners will require tools and torches to work safely."]
+	quest.6BB0C51EE8CA5966.title: "Miner Hut"
 	quest.6BEC1C688BC24782.quest_desc: [
 		"With exchangeable Drill Heads and upgrades, itsproperties are almost entirely modifiable."
 		""
@@ -1789,9 +2349,12 @@
 	quest.6C25D42C36175BF4.quest_subtitle: "It makes Clumps"
 	quest.6C8431C216A66C1F.title: "&dUltimate Logistical Transporter"
 	quest.6C9157A690AA5F3C.quest_subtitle: "Don't drink it."
+	quest.6CAD31E853C5AABD.quest_desc: ["The **Knife** is the most essential tool, used for harvesting, slicing, and preparing food ingredients."]
+	quest.6CAD31E853C5AABD.title: "Chef's Precision"
 	quest.6CCC8862AC60DA2A.quest_desc: ["To create the brake for our car, we need to put a redstone signal on top of the wheel mount block; for that, we will again use 2 redstone links and put 1 on top of each wheel mount block with 2 redstones on each in wireless mode. Pair it with the linked controller and bind a key to brake!"]
 	quest.6CCC8862AC60DA2A.quest_subtitle: "Braking"
 	quest.6CD96328B7567F46.quest_desc: ["The Mechanical Harvester will harvest all mature crops it comes in contact with while moving forward."]
+	quest.6CE7AC11D89F7998.quest_desc: ["No more lava everywhere"]
 	quest.6D03D3B4D83C1840.quest_desc: [
 		"Right click the front of a Mechanical Crafter with a Wrench to change the direction it sends items during crafting. "
 		""
@@ -1810,6 +2373,8 @@
 	quest.6D34125C705B2B73.quest_desc: ["We need to add a seat where we will drive the car, or where our companions will go"]
 	quest.6D34125C705B2B73.quest_subtitle: "Car seats"
 	quest.6D34125C705B2B73.title: "Seat"
+	quest.6D56AD1BEC644A10.quest_desc: ["The **Archery** range trains your guards in ranged combat, allowing them to use bows and crossbows more efficiently from their Guard Towers."]
+	quest.6D56AD1BEC644A10.title: "Military: Archery Range"
 	quest.6D7CC9EA47063963.quest_desc: ["A lightweight and durable metal ingot used in crafting advanced machinery and components. Its strength and conductivity make it ideal for high-tech and industrial applications."]
 	quest.6D7CC9EA47063963.quest_subtitle: "Aluminium innit bruv"
 	quest.6DB1AAAD926486BC.quest_desc: [
@@ -1821,7 +2386,12 @@
 		""
 		"It has a &o&bbucket&r mode which can be toggled to scoop up liquids with it. Very useful for &6lava&r in the beginning!"
 	]
+	quest.6DE2AA3A79F054DE.quest_desc: ["The **Void Upgrade** deletes unwanted items automatically based on a filter. The **Advanced** version can target specific slots or items for destruction."]
+	quest.6DE2AA3A79F054DE.quest_subtitle: "Eliminate junk loot."
+	quest.6DE2AA3A79F054DE.title: "Void Upgrades"
 	quest.6DE8ACA4F08C420E.quest_desc: ["Transfer stress capacity from one network to another while keeping the networks separate. Guarantees that the source network will not be affected when the destination network is overstressed."]
+	quest.6E47004B5BA60AAC.quest_desc: ["The **Void Upgrade** automatically discards items placed in the storage block, useful for overflow protection and junk removal."]
+	quest.6E47004B5BA60AAC.title: "Void Upgrades"
 	quest.6E8C6A4A07957E5A.quest_desc: [
 		"When Rotational Force is given to the Hose Pully, it can extend the hose infinitely. Reversing the Rotational Force will retract the hose back to the block. The hose of the Hose Pully must be extended by at least one block before it can function."
 		""
@@ -1831,27 +2401,54 @@
 		""
 		"-If a fluid is pumped in, it will flood a room of any size, with the hose marking the highest point of flooding."
 	]
+	quest.6E925E17FB4454E2.quest_desc: [
+		"Automatically trade with villagers! "
+		""
+		"Note: Villagers only trade during normal working hours"
+	]
 	quest.6E95E958201D50BE.quest_desc: [
 		"The personal chest used to be called, \"Electric Chest\" that could lock with the use of electricity. Now it is called the Personal Chest and doesn't need electricity. You can still lock it, and set it to \"trusted\"."
 		""
 		"The chest can be placed down and used as a regular, normal chest. This chest has the storage of a double-chest but the space of one chest. If you right click the air, your chest's storage will open up. If used with a Logistical Transporter, items can be piped in and out of the chest."
 	]
+	quest.6EA68A15ABAB2D7D.quest_desc: ["Turn your blaze into a SUPER BLAZE, just be careful of the explosion..."]
+	quest.6EE28FF64778030F.quest_desc: ["Collect all of the **Tools of War Scrolls** from various chests to complete your collection of Warforge schematics!"]
+	quest.6EE28FF64778030F.title: "The Full Warchest"
+	quest.6EEA012FA11C7C08.quest_desc: ["You must first claim the land your colony will occupy. Craft and use the **Supply Deployer** to place a temporary supply chest and claim your territory. Be careful of mobs!"]
+	quest.6EEA012FA11C7C08.title: "Claim Your Territory"
+	quest.6EEDD37CBB070FCE.quest_desc: [
+		"Welcome to the beginning of your journey!"
+		"This pack mixes Create, Aeronautics and Minecolonies into one unified adventure."
+	]
+	quest.6EEDD37CBB070FCE.title: "Welcome to Your Adventure"
+	quest.6F26C02744F415BE.quest_desc: ["Collect all of the **Tools of War Scrolls** from various chests to complete your collection of Warforge schematics!"]
+	quest.6F26C02744F415BE.title: "The Full Warchest"
+	quest.6F4069D2C20C472A.quest_desc: ["DRONE INNIT!"]
 	quest.6F62B5510FA881CD.quest_subtitle: "Crafting ingredient"
 	quest.6F62B5510FA881CD.title: "Osmium"
 	quest.6FBC7D12F531A361.quest_desc: ["We can use this machine to build helicopters or any kind of spacecraft that flies upward (I don't think there's a way to fly downward)"]
 	quest.6FBC7D12F531A361.quest_subtitle: "Helicopter"
+	quest.6FD5A1B2FC94F47A.quest_desc: ["OP sandpaper"]
 	quest.6FE2FE40C2F60183.quest_desc: ["Relays rotation in two directions independently."]
 	quest.6FFC4582D3620F32.quest_desc: ["A simple control device that opens or closes an electrical circuit. It allows you to start, stop, or redirect power flow to machines, lights, and automated systems with precision."]
+	quest.70457BBE36DC7C91.quest_desc: ["Once you have the xp stored in a tank, all you need to get the xp orbs to fall back onto the player all you need is a pump and pipe with nothing on the end this will pull the liquid xp down and dispense the orbs for the player to pick up"]
+	quest.70457BBE36DC7C91.quest_subtitle: "Getting back the xp"
+	quest.70457BBE36DC7C91.title: "Dispensing XP onto the player"
+	quest.7068CA538D7F8D85.quest_desc: ["A clutch but backwards"]
+	quest.7078F6E8A179D88F.quest_desc: ["A redstone link that adds wireless redstone to buttons and levers without using extra space!"]
 	quest.7097EFDECE9CDAF7.quest_desc: ["Is your car stuck? Use an iron handler connected to your car, this way you can hold your car in your arm and take it out of somewhere."]
 	quest.7097EFDECE9CDAF7.quest_subtitle: "Recovering the broken-down car"
+	quest.70DC1CF6F284E511.quest_desc: ["runs a redstone sequence when powered"]
 	quest.7111C78368C786CD.quest_desc: ["A partially crafted coil awaiting insulation or assembly. It’s an intermediate component used in producing fully functional electromagnetic devices and generators."]
 	quest.713EA1BC9BAAA0AB.quest_desc: [
 		"The molecular assembler takes items input into it and carries out the operation defined by an adjacent ME Pattern Provider, or the inserted Crafting Pattern, Smithing Table Pattern, or Stonecutting Pattern, then pushes the result to adjacent inventories."
 		""
 		"This assembler has a crafting pattern that specifies the 1 oak log = 4 oak planks recipe. When oak logs are fed into the upper hopper, the assembler crafts and spits oak planks into the lower hopper."
 	]
+	quest.714D87B91E1B61C6.quest_desc: ["Obtain Magnitite by mining"]
 	quest.717CA8EB4DF4EDB8.quest_desc: ["Acts like a blaze burner but with fuel and CO2 additionaly you can use the blaze burners with the straw."]
 	quest.719218CEA358D540.quest_desc: ["Right-click the ground to place a Train Track facing away from you. Train tracks can be placed in eight different directions corresponding to the closest of the four cardinal direction and 45° increments in between. Tracks may also be placed on the side of blocks that have no blocks immediately above them. These tracks will have a 45° vertical incline. Break tracks using any pickaxe or by right clicking with a wrench while sneaking. Breaking with any other item will cause a track to disappear."]
+	quest.71A772DE60643C45.quest_desc: ["Place the mysterious cube down and break it."]
 	quest.71A772DE60643C45.title: "The Inscriber Presses"
 	quest.71A8D4B8F0EAFF90.quest_desc: [
 		"We need a new glue that is better and more powerful to help us make our first car; with this glue, we can use \"Ctrl\" + \"Scroll\" to better adjust the glue."
@@ -1859,9 +2456,26 @@
 		"{image:quests:textures/honey.png width:150 height:100 align:center}"
 	]
 	quest.71A8D4B8F0EAFF90.quest_subtitle: "Gluing everything together"
+	quest.71CAD1D9089778BC.quest_desc: ["Crafting **Rope** is a versatile recipe, useful for decorating, building, or moving items vertically. Also craft a **Straw Bale** for storage/decoration."]
+	quest.71CAD1D9089778BC.title: "Farmstead Ropework"
+	quest.71D7D48518966ACD.quest_desc: [
+		"Use ponder to help you make the Pumpjack"
+		""
+		"(you can pump oil from stone)"
+	]
 	quest.71EDE15818D4C2A1.quest_desc: ["The blast furnace can be any height you like. Taller furnaces melt steel faster."]
 	quest.71EDE15818D4C2A1.title: "Blast Furnace"
 	quest.71FB3EA8CB37A038.quest_desc: ["Applie on to a Blaze Burner to enable them to burn liquid fuels, some can superheat a blaze burner for way more time."]
+	quest.71FCF06A98CC66D7.quest_desc: ["The **Clipboard** is a useful tool that shows the building being constructed in the selected Builder's Hut, and the resources it currently needs."]
+	quest.71FCF06A98CC66D7.title: "Utility: Clipboard"
+	quest.7207BECD0E0823BD.quest_desc: ["Holds liquids"]
+	quest.721E56DA0C8D8E0B.quest_desc: ["A mechanical bearing for simulated contraptions, can be loosened with a redstone signal"]
+	quest.72B78E193A7D0D0E.quest_desc: ["Shafts Pass through eachother"]
+	quest.72C749AD9F1C634E.quest_desc: ["The **Citizen Advancement** triggers upon recruiting your very first citizen! This usually happens automatically once the Town Hall and a residential building are complete."]
+	quest.72C749AD9F1C634E.title: "First Citizen Recruited"
+	quest.73095092A407F1C5.quest_desc: ["**Scrolls** are essential in **Tetra** as they unlock superior forging options, new modules, and unique abilities for your tools. Find them in dungeons or through trade."]
+	quest.73095092A407F1C5.title: "Unlocking Ancient Schematics"
+	quest.730AE43A347E79B8.quest_desc: ["like a fluid pipe but for &4HEAT&r"]
 	quest.7322A19FDA5B78E1.quest_desc: ["The Valve Handle functions much like the Hand Crank, though the amount and direction it rotates with one use can be adjusted in its Value Settings Screen."]
 	quest.732D1A96512F2BFD.quest_desc: [
 		"The Steam Engine is a block that provides Rotational Force. "
@@ -1888,20 +2502,40 @@
 		"Applying a redstone signal to the control panel at the front will halt the machine's process, this behavior can be inverted by use of the Engineer's Screwdriver."
 	]
 	quest.735412C77BE7A82A.title: "Mixer"
+	quest.737A75B259638C31.quest_desc: ["The **Insulated Plate** (Vent Plate) is an excellent material for shields, offering significantly increased durability and resilience."]
+	quest.737A75B259638C31.title: "Reinforced Platework"
+	quest.73847BA3D73B8301.quest_desc: ["A BIG Diesel engine!"]
 	quest.738FF04BEE2342A0.quest_desc: [
 		"The &eMeka-Tool&r is a &o&bmulti-use&r tool item in &dMekanism&r."
 		""
 		"It has almost no use default but can have &9Modules&r installed to give it a wide range of functions. While the &aConfigurator&r is required to craft the &eMeka-Tool&r, It does not have that functionality."
 	]
+	quest.73B5FE87143963D3.quest_desc: ["Turn experiance into &6SUPER EXPERIANCE&r using &9LIGHTNING&r "]
 	quest.743C84D1D94C5670.quest_desc: ["The Brass Funnel is a block that can extract or insert items into inventories"]
+	quest.743D7D9204915A13.quest_desc: ["When a citizen dies, they leave behind a grave. Another citizen (the Undertaker) will travel to the grave to mourn and bury the deceased. This advancement triggers upon the first burial."]
+	quest.743D7D9204915A13.title: "Citizen Burial"
 	quest.745255652688D720.quest_desc: ["We need to create the sphere part of the balloons using this block"]
 	quest.745255652688D720.quest_subtitle: "Forming a balloon"
+	quest.74615FBE8C93952D.quest_desc: ["The **Smelting Upgrade** adds a portable Furnace to your backpack. The **Auto-Smelting** tier can pull fuel and run automatically."]
+	quest.74615FBE8C93952D.quest_subtitle: "A furnace on your back."
+	quest.74615FBE8C93952D.title: "Smelting and Auto-Smelting"
+	quest.74C114D0C0D4D374.quest_desc: ["The **Hospital** heals sick or injured citizens, preventing deaths and ensuring your workforce remains healthy and productive."]
+	quest.74C114D0C0D4D374.title: "Support: Hospital"
 	quest.74CB7630E0651068.quest_desc: ["With the propeller we can create the final rotation for the spinning of an airplane's blades by connecting it to a windmill."]
 	quest.74CB7630E0651068.quest_subtitle: "Rotation"
 	quest.74DA690631920E06.quest_subtitle: "Made just like normal bricks."
+	quest.74FE0EF7A62B7CF4.quest_desc: ["a clutch that only connects if the input is faster than the threshhold"]
 	quest.74FE4BDF6CEFAA42.quest_desc: ["A mechanical system that transfers and regulates rotational power between engines and machinery. It ensures optimal speed, torque, and efficiency across connected components."]
+	quest.75165E16BE3CA30C.quest_desc: ["The **Feeding Upgrade** automatically feeds you food stored in the backpack. The **Advanced** tier can also heal you using consumables."]
+	quest.75165E16BE3CA30C.quest_subtitle: "Keep hunger satisfied."
+	quest.75165E16BE3CA30C.title: "Feeding Upgrades"
 	quest.7522F2DC9038ED92.title: "&cAdvanced Thermodynamic Conductor"
 	quest.7553689BC9202E14.title: "&9Elite Universal Cables"
+	quest.75599A9909C7A8C8.quest_desc: [
+		"Your citizens must eat to survive. Place food, especially bread, apples, or complex meals, in the **Town Hall** or **Warehouse** for distribution."
+		"This advancement confirms your first citizen has eaten and is happy."
+	]
+	quest.75599A9909C7A8C8.title: "First Meal Consumed"
 	quest.75A28517E08FE190.quest_subtitle: "Place down a Brass Gearbox"
 	quest.75A28517E08FE190.title: "Serious Organization"
 	quest.75C0ED308F5D7417.quest_desc: [
@@ -1928,6 +2562,8 @@
 		""
 		"Mechanical saws are automatically powered when on a create Contraption. The saw will damage entities and break blocks at a certain speed depending on the contraption's speed."
 	]
+	quest.75F673C50C17DFC6.quest_desc: ["connect this to the other side fo your &2Reactor Rod&r"]
+	quest.7614FDF43E0AAD07.quest_desc: ["Throw away items"]
 	quest.7653935BDE025D18.quest_desc: [
 		"The &dScuba Tank&r is a piece of equipment worn on the backpack (the chest armor slot) that provides underwater respiration when a Scuba Mask is worn (on the helmet armor slot)."
 		""
@@ -1956,16 +2592,23 @@
 	]
 	quest.76A38CCA5816CDAD.quest_desc: ["Combining Oxygen, thylene, and a Substrate in a Pressurized Reaction Chamber will create an HDPE Pellet."]
 	quest.76A38CCA5816CDAD.title: "HDPE Pellets"
+	quest.76C8626BF50E7479.quest_desc: ["provides an interface to access two inventories at the same time!"]
 	quest.7700E08416618198.quest_desc: [
 		"Interfaces act like a small chest and fluid tank that fills itself from and empties to network storage depending on what you set it to keep a stock of in its slots. It tries to complete this in a single gametick, so it can fill itself with or empty itself from up to 9 stacks per gametick, making it a fast method of import or export if you have fast item pipes."
 		""
 		"Another useful trait is that while most fluid tanks can only store 1 type of fluid, interfaces can store up to 9, as well as items. They're essentially just chests/multi-fluid tanks with some extra functionality, and you can prevent that extra functionality by keeping them disconnected from any networks. Thus, they are useful in some niche cases where you want to store a small amount of a bunch of different stuff."
 	]
 	quest.774B1D4152A0B4ED.quest_desc: ["Mainly used to assemble multiblocks when right clicking the middle block."]
+	quest.775BB7E7E6C492A1.quest_desc: ["OIL "]
 	quest.776451A1A5F3B2FB.quest_desc: ["Place the Electric Gauge on a section of a circuit to measure various stats. Exact values can be viewed using Goggles, and the quantity being measured can be changed with the Wrench."]
+	quest.77A2704F9551D0B5.quest_desc: ["The **Jukebox Upgrade** lets you play records right from your backpack. The **Anvil Upgrade** provides portable repair and naming functionality."]
+	quest.77A2704F9551D0B5.quest_subtitle: "Entertainment and maintenance."
+	quest.77A2704F9551D0B5.title: "Jukebox and Anvil Upgrades"
 	quest.77B2C22D776D1B60.quest_desc: ["Connects forge energy compatible blocks with wires to transfer energy."]
 	quest.77C016A83AD73399.quest_desc: ["Allows the player to controll a Brass Drone"]
 	quest.77C3D285E52CCA0E.quest_desc: ["Table Cloths can be used to sell items to other players."]
+	quest.77C92B58EF226277.quest_desc: ["The sheer variety of these functional armors makes for a great cosmetic collection. Collect one of every helmet type for your armory display!"]
+	quest.77C92B58EF226277.title: "Collector's Goal: All Helmets"
 	quest.78019E2925B93446.quest_desc: ["A key mechanical component that compresses and channels energy within an engine. It’s essential for converting fuel or pressure into smooth, consistent rotational motion."]
 	quest.783C1961806EC8F6.quest_desc: [
 		"We need to take the Wrench and turn the chain drive that is 2 blocks in front of the torque generator."
@@ -1975,6 +2618,9 @@
 	quest.783C1961806EC8F6.quest_subtitle: "Turning into a piece"
 	quest.785322C002100649.quest_subtitle: "Keep a network running at speed with a powered brake attached"
 	quest.785322C002100649.title: "Overpowered"
+	quest.7870800C28A7E199.quest_desc: ["The **Chicken Herder Hut** manages a flock of chickens for eggs, feathers, and chicken meat."]
+	quest.7870800C28A7E199.title: "Herder: Chicken Herder Hut"
+	quest.78A3A928F74E5A0A.quest_desc: ["Its a linked controller for your whole keyboard"]
 	quest.78B6A586B9B0458C.quest_desc: [
 		"The Core Sample Drill is a 3 block tall block added by Immersive Engineering. The Core Sample Drill is used to determine if a mineral vein, an Immersive Engineering mechanic, is in a Chunk. Once the Core Sample Drill has completed right clicking it will print the result of the operation, as either finding a vein or not. If a vein is found it must be extracted using the Excavator Multiblock."
 		""
@@ -1982,13 +2628,25 @@
 	]
 	quest.78B6A586B9B0458C.title: "Core Sample Drill"
 	quest.78C3192B690B7691.quest_desc: ["A high-performance component that compresses incoming air to boost engine power and efficiency. It enhances speed, output, and overall performance in advanced mechanical setups."]
+	quest.78F716258C26AFC5.quest_desc: ["The **Deposit** upgrade (paired with the **Restock**) allows you to quickly dump items from your inventory into the backpack, speeding up drops after mining."]
+	quest.78F716258C26AFC5.quest_subtitle: "Quickly dump inventory items."
+	quest.78F716258C26AFC5.title: "Deposit Upgrades"
 	quest.7917E75BBA3F0614.quest_desc: [
 		"First, use the display link on a Display Block to link it. Then place it on the Source Block that will be read from. Though it will link to any block, not every block can act as a display or source. "
 		""
 		"Right click the link to access its interface. Additional labels can be added to the output text through this interface. Some sources provide multiple options for formatting the text. Once the interface settings are accepted, the green light on the display link will start blinking, indicating transmission of information to the display blocks."
 	]
 	quest.794ED2661B8E4621.quest_desc: ["Allows the player to fly, move and swim faster. Works with water and fuel."]
+	quest.799E18C17D0CACCF.title: "Stonecutter Upgrade"
+	quest.79A785FC05EF4F60.quest_desc: ["Ore veins are chunk based which means you might have to move some land before you can mine! Try F3+G to see chunks"]
 	quest.79E01F6906DA951A.quest_desc: ["Automatically refills gadgets and armor that use water."]
+	quest.7A068EFF6FB36B59.quest_desc: ["The **Divine Armor** is a fancy set offering exceptional protection. A full set grants a unique ability: once per minute, it fully negates the damage from one incoming attack."]
+	quest.7A068EFF6FB36B59.title: "Tier 4: Divine Protection"
+	quest.7A130478B5F5D8E7.quest_desc: ["This rack allows you to neatly hang your tools. Placing it next to a **workbench** grants a convenient way to access and use them for forging."]
+	quest.7A130478B5F5D8E7.title: "The Handy Tool Rack"
+	quest.7A1D999959471F11.quest_desc: ["An encased cogwheen that can slow down the cog when powrered wth redstone when the cog is givin rotational power the shaft speeds up."]
+	quest.7A39A5B9E3CAC840.quest_desc: ["To get the liquid xp from the &6bottle o' enchanting&r you need the item drain, it will give you back the bottle after it has drained the xp"]
+	quest.7A39A5B9E3CAC840.quest_subtitle: "Stealing the precious liquid xp"
 	quest.7A39B7C7B0EEBF4F.quest_desc: ["A crystallized energy core infused with Fluix essence. It serves as a key crafting material for advanced network components, storage devices, and wireless systems."]
 	quest.7A4D01AF34BB7E0E.quest_subtitle: "Right click on the industrial mixer to install it."
 	quest.7AA7094E591A373B.quest_desc: ["A gearbox with all 4 sides spinning in the same direction."]
@@ -2017,7 +2675,14 @@
 		"Whenever the Reactor has critical damage, it will then activate the bottom Adapter, causing the redstone to get a signal, which then activates the Piston and pushes up the Gravel/Sand. This will activate the Observer, which then turns off the Reactor."
 	]
 	quest.7B0764DDE94E73D0.title: "The Circuit Breaker"
+	quest.7B2EF52654BC3C22.quest_desc: ["The **Refill** upgrade automatically pulls items from your backpack to refill the stack you are currently holding when it drops below a set amount."]
+	quest.7B2EF52654BC3C22.quest_subtitle: "Keep your current stack full."
+	quest.7B2EF52654BC3C22.title: "Refill Upgrades"
+	quest.7B43A14AECC5C405.quest_desc: ["Utilize the **Stonecutter** material on your sword to gain the special ability to **sweep-mine stone** and similar blocks."]
+	quest.7B43A14AECC5C405.title: "The Stone Carver Blade"
 	quest.7B5DF264A026BBD0.quest_desc: ["The Adjustable Chain Gearshift functions similarly to Encased Chain Drive, but can change the speed of the output when powered with redstone."]
+	quest.7B5E2CD676A1A1C4.quest_desc: ["The **Baker Hut** is an early food processor that turns wheat into bread, a good staple food source for your growing population."]
+	quest.7B5E2CD676A1A1C4.title: "Production: Baker Hut"
 	quest.7B6E46D719CFB570.quest_desc: ["An item used to hold and craft Spools of Wire. It serves as a key component in producing electrical materials, helping you advance toward automation and power generation within the Create ecosystem."]
 	quest.7B7585BC5EAECAC7.quest_desc: [
 		"To use it, energy be input through one of three black power points. Like many other Immersive Engineering multiblock machines, it can be turned on or off using the redstone input panel (the red dot) on its front side."
@@ -2025,6 +2690,12 @@
 		"It has a GUI, with 12 input slots, 4 additional (alloying) slots and 7 output slots. To run, three Graphite Electrodes need to be inserted into the machine manually. An Arc Furnace can smelt approximately 500 items before the electrodes wear out and need replacing."
 	]
 	quest.7B7585BC5EAECAC7.title: "Arc Furnace"
+	quest.7BB7CCADADDD0BA8.quest_desc: [
+		"Update your hammer to tier 3"
+		"(You need to build two hammer to upgrade each other)"
+	]
+	quest.7BB7CCADADDD0BA8.title: "Is That An Iron Hammer?"
+	quest.7BE136ABD8DB4DAF.quest_desc: ["Limits the rotation to a configurable angle"]
 	quest.7C074B5E2A0EAA63.quest_desc: [
 		"To assemble a Train, the train must have at least one set of controls that face forward relative to the Train Station the train is created at. If a non-player conductor is desired, a Blaze Burner or Seat must be placed directly behind the controls."
 		""
@@ -2053,6 +2724,15 @@
 		"The multiblock is completed by using the Engineer's Hammer on the central Iron Sheetmetal block."
 	]
 	quest.7CE764054ECB1C45.title: "Sawmill"
+	quest.7CEE50284584F2B3.quest_desc: ["passively generates &4HEAT&r in the daylight"]
+	quest.7D01E96D16F65302.quest_desc: ["You have mastered the craft of every unique armor set the mod has to offer. Now combine your favorite pieces to create the perfect balance of utility and defense!"]
+	quest.7D01E96D16F65302.title: "Final Assembly"
+	quest.7DCB91AD0050DDA9.quest_desc: ["convert diesel into rotational energy! but with upgrades!"]
+	quest.7E01576DB01D4C22.quest_desc: [
+		"**Robe Armor** (Wool/Blaze): Dyeable, fireproof, and deals fire damage to attackers on hit. Perfect for early Nether scouting."
+		"**Slime Armor** (Slime): Provides high explosion resistance and makes attackers bounce away. Requires Slime balls."
+	]
+	quest.7E01576DB01D4C22.title: "Tier 1: Utility and Elemental Defense"
 	quest.7E17AB5A4492929E.quest_desc: [
 		"Every Reactor uses &aUranium&r somewhere for fuel, right?"
 		""
@@ -2083,6 +2763,9 @@
 		"It is completely configurable, and can even replace mined blocks with cobblestone, or whatever block you provide it with!"
 	]
 	quest.7EB1BE897B2B8C1A.quest_desc: ["A mechanical component that redirects rotational force vertically while keeping the same rotational direction. Perfect for compact contraptions where space is limited and precise gear alignment is essential."]
+	quest.7EB349B912AB9E1E.quest_desc: ["This **Hone Scroll** upgrade, utilized with **Gold**, increases your tool's **Magic Capacity** for more powerful enhancements."]
+	quest.7EB349B912AB9E1E.title: "Piglins' Golden Insight (Hone)"
+	quest.7EDFBC8BAEC5E525.quest_desc: ["used to make cylinders of all types"]
 	quest.7EE37ABD9F8B873D.quest_desc: [
 		"Pattern providers are the primary way in which your autocrafting system interacts with the world. They push the ingredients in their patterns to adjacent inventories, and items can be inserted into them in order to insert them into the network. Often a channel can be saved by piping the output of a machine back into a nearby pattern provider (often the one that pushed the ingredients) instead of using an ME Import Bus to pull the output of the machine into the network."
 		""
@@ -2121,24 +2804,40 @@
 	reward_table.48E5FAFD45FFF238.title: "IMM"
 	reward_table.582C28B4960E70F9.title: "MEK"
 	reward_table.65F5978C49103D7A.title: "AE2"
+	reward_table.7648BE1B9ACA5A64.title: "Meteorite"
+	task.000000008002000A.title: "Any #createoreexcavation:drills"
 	task.00204D0DDF6D639B.title: "16k ME Storage Cells"
 	task.03A64F653E5637CD.title: "Crafting Monitor"
+	task.076C0E7460402699.title: "CARRY ON"
 	task.079EF0BC98DD0605.title: "Any Treated Wood"
+	task.07F8ED5B57C50B69.title: "SO MANY BLOCKS"
 	task.0B2D875762418324.title: "&aME 65536k Storage Cell"
 	task.0C4E4CE43F4431B5.title: "&bAdvanced Card"
+	task.0D31FB2D2AF9C5F2.title: "Place the Town Hall Block"
 	task.0D828FF9D3F62391.title: "ME 16384k Storage Cells"
+	task.0E7DB74C94F180D0.title: "Iron Hammer"
 	task.0EAA5B4D5C007AB4.title: "1k ME Storage Cells"
 	task.12B4C30E259851EC.title: "ME Interface"
+	task.136FF1798ACD8180.title: "Begin the Armor Journey"
 	task.16AD605C06CC7BDE.title: "Wrench"
 	task.1B77E1B7D104D502.title: "Crafting Storage"
+	task.1B7CC401CF79C3A3.title: "Modify a shield in tetra workbench"
 	task.1C35588869674D6F.title: "Blank Pattern"
+	task.1E7DC27EBA6D7E1E.title: "Master of All Armors"
+	task.1FA87064D782FD96.title: "Collect All Scrolls for Tool Efficiency"
+	task.21F0B07A70AF6AE7.title: "Welcome to Your Adventure"
 	task.26344D2831BDA0D3.title: "Create Ore Excavation"
 	task.27709080B4B77B09.title: "Ready To Go!"
+	task.2B4DAB606F0EDCD8.title: "Collect All Scrolls for Material Expertise"
 	task.2E3FF129C3668DD8.title: "Induction Providers"
+	task.30D119CEC3132EA9.title: "Stone Hammer"
+	task.314FD37C28AAF053.title: "Auto Enchanting Line"
 	task.382818E289EC83A6.title: "&3Fissile Fuel Production&r"
+	task.382E8129CA13F3A4.title: "Read up on the basics"
 	task.394B44770A9EBFEF.title: "TWO"
 	task.39C74507E6A78265.title: "4k ME Storage Cells"
 	task.39FC2ACB1E15C42E.title: "Personal Storage"
+	task.3ADDD08026CF484A.title: "text"
 	task.3B3B58C438FD4397.title: "Tier 4 Ore Processing Factory Summary"
 	task.3B930A490EA23536.title: "Wood dust"
 	task.4063C1B5F935A026.title: "Induction Cells"
@@ -2150,28 +2849,44 @@
 	task.4761239B2EE2BD5C.title: "Quartz Fiber"
 	task.481A846149CADED9.title: "Lumen Paint Balls"
 	task.4D422DC145ACCBB7.title: "ME 4096k Storage Cells"
+	task.4D4834CDA54CB61C.title: "CHECK THE BOOK"
+	task.4FE4B1390240DF79.title: "Modify a bow in tetra workbench"
+	task.505BE84D82585AE3.title: "Modify a pickaxe in tetra workbench"
+	task.50B639F40E40EF4F.title: "Blackstone Hammer"
 	task.52F2BBD69A10B594.title: "Any #forge:coal_coke"
 	task.5304AB671E89DFBB.title: "Certus Quartz Crystal"
 	task.54B0030E4B4FBC18.title: "Charged Quartz Fixture"
 	task.562DA0531BAD8C98.title: "Info"
 	task.57F40CFA03BD36EF.title: "The Hard Part"
+	task.5A49554B3AFBC850.title: "Simulated"
 	task.5BC88AE46F95774D.title: "Gravel or Sand"
 	task.5CD6B756FB073906.title: "Fluix ME Glass Cable"
 	task.5D07486390FB3BA5.title: "64k ME Storage Cells"
 	task.5EF407C1D549F702.title: "Aeronatics"
 	task.62C0904F5C402948.title: "256k ME Storge Cells"
 	task.62C5590A54B6327A.title: "256M MEGA Storage Cells"
+	task.63240FE48620A116.title: "Spouting XP back into bottles"
+	task.641289A433E29693.title: "Find any Tools of War scroll"
 	task.65C439FD14C5EEB9.title: "ME Portable Cell"
 	task.6631236A42533B67.title: "&6Basic Card"
 	task.67746FE8627D8246.title: "Redstone"
+	task.69C59B97E310195D.title: "Claim Colony Territory"
 	task.6AC0A142EDC91A11.title: "16M MEGA Storage Cells"
 	task.6BAF3EBD5B298208.title: "1M MEGA Storage Cells"
+	task.6BBA8DFD43D74A81.title: "Find any scroll"
+	task.6D6C7C593AD40A98.title: "Make WorkBench"
 	task.6E0BED777D602A02.title: "ME 1024k Storage Cells"
+	task.6E10F781A4861976.title: "HINT"
 	task.6E75525A5D88EF23.title: "Heaters"
 	task.708C1FEDF64B2466.title: "Create Connected"
+	task.70D7C92461D36B5E.title: "Spawn a mob using the Mechanical Spawner"
+	task.71F5A6C3DE6C00C3.title: "Dispencing XP"
 	task.746822ADE19EEBBA.title: "Quartz Glass"
 	task.758FACAF38FB4744.title: "Paint Balls"
+	task.75DA541E52369015.title: "Modify a sword in tetra workbench"
+	task.7732B5DC114EB3F3.title: "Hyper Enchanting"
 	task.7801ADA863C2CC13.title: "Create Stuff 'N Additions"
 	task.789D0DBCE0810688.title: "Criando a chaci"
 	task.7AE305BA1D140E13.title: "Create Central Kitchen"
+	task.7BE92C777F0CDFCE.title: "Read the Introduction"
 }
