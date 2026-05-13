@@ -1727,7 +1727,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "4de2401ceb3e57167eda98da5a6bc2d08be987c9c79b92badca1d2a1b4a1b9db"
+hash = "1e915cdcc471a2766cff31db7c15ffdceabbaca19a7cc32cf12320943d576045"
 metafile = true
 
 [[files]]
