@@ -1,0 +1,86 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "new_beginnings"
+	group: ""
+	id: "713DEE637B90E0A4"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "createornithopterglider:ornithopterglider"
+			}
+			id: "69853DDAFE2E8E7F"
+			rewards: [{
+				id: "038073C74C57C216"
+				item: {
+					count: 1
+					id: "createaddition:honey_cake"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "569774BA20656A0A"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["69853DDAFE2E8E7F"]
+			icon: {
+				id: "minecraft:torch"
+			}
+			id: "0471D57B1A8A1AB0"
+			rewards: [{
+				count: 32
+				id: "7BDAB27F8E64158D"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5BFCA7099B3E52B3"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0471D57B1A8A1AB0"]
+			id: "7E29435E447EA1D8"
+			tasks: [{
+				id: "427A6C5A74418518"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "1017B1636DBE7630"
+			rewards: [{
+				advancement: "minecraft:story/root"
+				auto: "enabled"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "numismatics:item/coin/cog"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "012DBC55EFA12ABC"
+				type: "advancement"
+			}]
+			tasks: [{
+				id: "2FC91C53C946D7BA"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+	]
+}

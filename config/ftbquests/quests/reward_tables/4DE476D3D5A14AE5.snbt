@@ -1,0 +1,9 @@
+{
+	id: "4DE476D3D5A14AE5"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ id: "5824293C2B629C57", item: { count: 1, id: "minecolonies:supplychestdeployer" } }
+		{ id: "005E6AA877C269C9", item: { count: 1, id: "minecolonies:supplycampdeployer" } }
+	]
+}

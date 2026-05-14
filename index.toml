@@ -22,11 +22,11 @@ hash = "e06032b1e9b59d626dc5d820bf3fedda4c58926cce861f02da13c83f3e7ca166"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/applied_energistics.snbt"
-hash = "7d15588090d6c6e1f6abc359d1db05401a4c01a04605a38843c88ba462e5ea84"
+hash = "0e7fc99d38365a328247bc573034f2019c7c43e69efb1250fbdea9a3a97f711d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "4951c27c1f3e455627281875ad569eb12b8459b7fe9955d0e42721f51332e00a"
+hash = "60c98262b4c3162749e8bd1f3377c09784f35ca2695dc22bbdf3d4ae8faf0587"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_aeronautics.snbt"
@@ -38,7 +38,7 @@ hash = "03f4d8de1acc8002bed9838b11ceab31a419ab48ba063d6854ec20522b5ce338"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_connected.snbt"
-hash = "26ae23ced42d7690d71f8a7a8c9559ee05c2a8168d7a07be926be7452f6847a4"
+hash = "8e0f7c5e3bbde0991ac29c67515692ca65c689ac5041c78e704ed4921fe9c6aa"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create_crafts__additions.snbt"
@@ -54,7 +54,15 @@ hash = "9d1a7b37ab601e55a5a3e2c100f36d63f4c3ce00da17410d5fb3ef20b6141e61"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/minecolonies.snbt"
-hash = "e283b3ec384d385d89f1627f95f15cf3d8ab98ef98fd538296e7c0210064c75a"
+hash = "411918a7f4b0ef29c257b00b9bff552609ede9315586efa99fa8d758cacccae8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/new_beginnings.snbt"
+hash = "ab78e0dada0c5c7b11a2118bf1d3bd3e5d2b15c8f18bdc0195c2a5be49eb68f5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/overview.snbt"
+hash = "9fe7226be3a86817bcd27b1a5eda8af448a4afe06690dab204ee9544093dc667"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tfmg_chemistry.snbt"
@@ -74,7 +82,7 @@ hash = "4cf3f5aa424f5ce04d77ed57a97969511ba4a080dbdfb34007e55a6960a5ce32"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "d05f674be681cc543af858d9be50adaab8154687a7bba083235976b0149ba01c"
+hash = "62233cd9e18df4b7c565ac601ba9341eaa933ce967d39ddb6715e723f0c6fc43"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapter.snbt"
@@ -147,6 +155,14 @@ hash = "66f084b0b215ac7a74b7fe1a1ffc9c4f7b3acd23081b135ff8c482785993d5a8"
 [[files]]
 file = "config/ftbquests/quests/reward_tables/1BC377CF7DB0B217.snbt"
 hash = "7b00c41b70ef69c7a55ae3a8f0c14204cccd9f046089941c3857f6e251cf2bf0"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/4DAF3F0696CFB26D.snbt"
+hash = "528698bfdd09a80fb1c55877e2eaa0294fbd5b0d1237971b8924dee44edd465b"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/4DE476D3D5A14AE5.snbt"
+hash = "d032ab34509c05ca5d535ab0a9c8329a31def5865b307dea9d84b705a34a13cb"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/65F5978C49103D7A.snbt"
@@ -529,334 +545,6 @@ file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
 hash = "da190105bc91c8d1370b26d87d4f0cb2ec06a05355fdcd05590b56766c908589"
 
 [[files]]
-file = "kubejs/data/create_ae2recipes/recipes/charging/meteorite_compass.json"
-hash = "5d7cb56df8e8c264d64116021f322cc1cdcaa11a2a87bc81b94d256d754f85e1"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/compacting/fluix_glass_cable.json"
-hash = "7e3e8ff28d08d56025fa71b3a2974d42de92bf75cf9a32fda92d4a9e6b99f8df"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/compacting/quartz_fiber.json"
-hash = "e8e1d3761624ae6aff5ffb57fe634f98157f3920199b9f82baf4bb5c7c3bf2d9"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/cutting/cable_anchor.json"
-hash = "2552388f00e8f93b8ad54a218d1c5f89f6d9f38f29aab5992478cc8e9ea62d4a"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cable/fluix_covered_cable.json"
-hash = "18418855d0963ab1972fb27f1e9bff8564541e95994f4cceacf326487d29ce69"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cable/fluix_smart_cable.json"
-hash = "f7c5cac9b6702ab4a0bb15022a3e2792bbe2a78c4b76635ce925600b33c7cb3c"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cable/fluix_smart_dense_cable.json"
-hash = "6f5340e28c362c4c4724caf96c62c7d74e079cdd36f4e683a2c64843be40ac7b"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/card/capacity_card.json"
-hash = "2dd34baddb2f102b8122e8a7234241d87d5dac7ae4d0ffaf053a76801aad2593"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/card/crafting_card.json"
-hash = "b448d403e2f1a377aa047da79650db2d412bcca9d88a743531446a61eac151ab"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/card/energy_card.json"
-hash = "148c2bd01af0cbd573d1c68a78c8847d1a7cd24733f52ccf372237ae7e4be1b8"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/card/equal_distribution_card.json"
-hash = "e3e273c9d07449862c1eda48db155ee17002288fbd126caf7d47788ea8a7c3f0"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/card/fuzzy_card.json"
-hash = "236dbb10795b8fb143515d31ac464a18e6159dd6bb2f3f1cbdf333b5746548b1"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/card/inverter_card.json"
-hash = "37d67ccc92d364df12d301ce1c767e52f5e599c1877b47c5cfa50abca8f4dbc6"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/card/redstone_card.json"
-hash = "b31ed637a54afa19f8d1b9820938e5eb16a6bd0fd07c60784b3ced8d06f91c99"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/card/speed_card.json"
-hash = "2f4f583af24815703ead000f2293bacc5ee66e40618f93c181ec6617ebf9c5b7"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/card/void_card.json"
-hash = "fe35b8e405d34a94a7d11ac46ce8c7244386ec6eb7ef5c97c83de08d2aa41802"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/fluid_storage_cell_16k.json"
-hash = "c5328324dbb21ccf0460b4c5aef0d5c738a32ca517da54efd45337e770461938"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/fluid_storage_cell_1k.json"
-hash = "c8f4b16756968034d5574acabc7c847238b5cad88e00e715c76e50e69a6c85b1"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/fluid_storage_cell_256k.json"
-hash = "b3fd2f921c7fadbfe9395d5454e5c5b6e2f2fe17abb5a411014ec3ea7c9f460b"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/fluid_storage_cell_4k.json"
-hash = "3477a40519e8c2a66195ff54b0717ae128c11c6fe63be95840026364fef23fc4"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/fluid_storage_cell_64k.json"
-hash = "786794e9c505fa9e162195ee6db8903d94accb2bcf5cdd90fb014bb3ea8cee92"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/item_storage_cell_16k.json"
-hash = "122fa91f0493725bfe4d0ffbb7b86cdb63fb6b487497a2f1388693348ab10d54"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/item_storage_cell_1k.json"
-hash = "4537fa99646c354f02f177b4acce3bf2f05b721c2bb6599dcf383c59f86cf3b5"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/item_storage_cell_256k.json"
-hash = "8b9760806bc241059db0d856001b3ade0f5569c4b0953cc99e7564047f107149"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/item_storage_cell_4k.json"
-hash = "9bbda31dc419fb8f2d9a3bf5116fc75c91b13a2fc8b0b3206bbbe55b135a0460"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/item_storage_cell_64k.json"
-hash = "d8146772106e2aa9a309f93fac45aba9428128848c6107f1c895960ac2a24af5"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/spatial_storage_cell_128.json"
-hash = "410b9ade1b2898f0c59bb7a0828a1e7fcdc4cf88d1490425880883bdd2171692"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/spatial_storage_cell_16.json"
-hash = "e8e9db173027b5b5a8d5cc84c1d01666d7c5cc4dcb69e5eaad65086e8abbb947"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/spatial_storage_cell_2.json"
-hash = "74fe405af5cd00a271e119a11e32982cce44470b19240a0ddab4fe203997743a"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/cell/view_cell.json"
-hash = "a6567408b2ee75afca4c9775e6d628ded7ff534461017446c530fb9fe948bb9e"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/16k_crafting_storage.json"
-hash = "7d2365ed4a18447dee3ba2ec96e59c576fc78167735d6908379f4b5a43710e62"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/1k_crafting_storage.json"
-hash = "9ac71368e50178922f3ecd2c1e314b3410816f8ca68f92bc44f007611ea89f9b"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/256k_crafting_storage.json"
-hash = "f842a376109a5808c7ed87dbf033e95c0d01aeb1b0257ab5598c9a006612f398"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/4k_crafting_storage.json"
-hash = "5d1945217f86b2e3f3de3eb7bd4788595975759885bf3017eb82c0476972974c"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/64k_crafting_storage.json"
-hash = "223545a73623ade0e5732801fc14bebd50d2d272c4cd3bc27267c3ca34a1c3f3"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/crafting_accelerator.json"
-hash = "691203fe2eae9f820f0259975fc6feb27091bb7df21cf6fd03e41dd7a2b1a9a0"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/craft_unit/crafting_monitor.json"
-hash = "c347185b1fb7d56f8e9a21e50b74742def657b6afd0369fff3b6e43f61fd1b21"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/network/crafting_terminal.json"
-hash = "ee9e74710732c5a6bb4ec1e3252b032d9156550852e07cdae4aa46a1a9bd069d"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/network/energy_level_emitter.json"
-hash = "3aa120dcdd8edbc4f27a8348ca04ebfa9bee7755706d6dd717fecb130f4c2c59"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/network/level_emitter.json"
-hash = "af6ac0175f41ea952d15e559c63aa03d1f5de581aa4563a9cc00863e9d664331"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/network/pattern_encoding_terminal.json"
-hash = "51b3125d6782cb5226ef56d0c12d5a26c36cb52ae98643deb180d42c2185ab23"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/network/storage_bus.json"
-hash = "01ebd786c9cb3d9b1fdc6e65a7261e37eb05e7d9bf29b572711dcf7fce4b1637"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/network/storage_monitor.json"
-hash = "fa8fda0821845c1cfcd8a9cc9fa1d72109dd25696ad0ccdd7b22db9348bcdc72"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/network/toggle_bus.json"
-hash = "b216923fc7a67738f7d24785c676f8df95872ba5583b3f346165d0f1fb9a7487"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/calculation_processer_press.json"
-hash = "0b374ad50de9bdaa1357f8e9daac00c7388e779e3419316a9813dc8f22681f6d"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/engineering_processor_press.json"
-hash = "5dab4bde9dace7638865bb3193c91d22759c6e263d9e00919503cfea46d6c237"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/logic_processor_press.json"
-hash = "b04609ae9b0ed3099c16330a3327098c965617f8b63043a6b3e1233085b2aa31"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/printed_calculation_processor.json"
-hash = "c9b71c79535782342b77f3f419649555e57a3e4197e2af989f600e091de75cb1"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/printed_engineering_processor.json"
-hash = "289a0eecf08ba82b02d604709473578bd87cb9f717b5c760aa32c2d8d68d7457"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/printed_logic_processor.json"
-hash = "40adbf75c240af9693de65bd208e4d65a02c46ab4478660e5f97510f03ddbf26"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/printed_silicon.json"
-hash = "d6bb788d5356733072c800acfdb00e4c17ce0cdc9950b44d578d99f8cf7fc9b4"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/deploying/processor/silicon_press.json"
-hash = "122c5797999de0c7cd03a66b31337753c7213b3754b63ed70c99a90bd6338dff"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/haunting/sky_stone_block.json"
-hash = "2ef313da8b59f9b611bb2b18c01a80d12642e1c5db7473f38be3b56a0f7486e9"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mechanical_crafting/conversion_monitor.json"
-hash = "1b7650a15b31f2ef00538cfb4318ca5ccbd465ebe5c002bae5ca739db227ecdb"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mechanical_crafting/pattern_access_terminal.json"
-hash = "3e8f9c3da0425a5706ddde8746fb96a262dd5f60149ab7cabc80c52966766f32"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mechanical_crafting/terminal.json"
-hash = "d2edfe7cb5ca4b83dd48090b7ce3cefb60ef6ff9111bc588c0782b3a0ab1c872"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mixing/basalt.json"
-hash = "07720b753e14bfa232744b1914768c22e0264bd8b88e637ee3239ba0e1159f22"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mixing/certus_quartz_crystal.json"
-hash = "ed4e4574c499ca705adbd6389c68b98e95eaa70571f89a5fd1263391b3193ba6"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mixing/chipped_budding_quartz.json"
-hash = "d3b1c37b6b0cf1e95c9a26148175540c69c4448554d3b70477c248f9e88b7c8a"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mixing/damaged_budding_quartz.json"
-hash = "dba83e119cea8d633cc80901fd564831db6ba1c8299ea0f44ffd830d3975f1dc"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mixing/flawed_budding_quartz.json"
-hash = "38aed990adbc0715ddc31c3b428cf9adb4239a90fd60e3e031f750abbbe44d23"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mixing/flawless_budding_quartz.json"
-hash = "9f9a72cb5bf4b426b5db69b5aaae39a1080379d08bd0731ead8705f3ab3ea0e7"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mixing/fluix_crystal.json"
-hash = "9afc58ab4081f3c95eef5d74b440d03f9831d6e0d499ef13c57f7e81da7bfa01"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mixing/fluix_pearl.json"
-hash = "710186b1f1250bdb4ce7de9e5cdce5050bb6902f040cc9e6a883ae97907a95c9"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mixing/quartz_glass.json"
-hash = "7f4070193b8b7206e69ed7644f46dae5b1a4c994aae9060095115ec8cdf93662"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/mixing/quartz_vibrant_glass.json"
-hash = "5162e078d73b116e2115508de8d8536eb57f3958c46556db6c539e3610210e85"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/advanced_card.json"
-hash = "ae3f25009a29b3bd1381b580a08b1729a0b6d1dc36d312b398879521a9e765ee"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/basic_card.json"
-hash = "0c071b40491be756139c879d202faaace522b44a39badc36bfe58b496b250069"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/blank_pattern.json"
-hash = "452d6f716aedb33731254f1a3873b710811a17129134a9e689ec003d6cd36017"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/calculation_processor.json"
-hash = "f993713124e61abef5e737f0e87ed3e7448268a784e55e20ebdc444e3681a205"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/cell_component_16k.json"
-hash = "ea375f860d2a28e6162b65505f05bdbeb859e866886f71d87ab8e4e0b17d190b"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/cell_component_1k.json"
-hash = "2cf01139b8731c17cce9556e4e96b2f3b9a6c67502d11d9327bd5d0522e15b91"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/cell_component_256k.json"
-hash = "d6f0fbdd97efc889911470cfd02b7ba2de7d0abd286ecea14e3a5bb91aa3095c"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/cell_component_4k.json"
-hash = "44a1e7f88271d1a7b475507f6119a0b649d0cff56a14159ac686b498fecf7ca9"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/cell_component_64k.json"
-hash = "bdda6f36ccd55e0827755988ca0cefa9cf534f2612b82babad7f9b17df15e34c"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/engineering_processor.json"
-hash = "5ac08380d3bfc1c0b0d6b92b23135686165e6164eec3434b998bd64decb5246d"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/fluid_cell_housing.json"
-hash = "d658b50ce831aec5d6b14448ff5b29a62949dd29666f7a435a1fc53413a9e777"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/item_cell_housing.json"
-hash = "5a60f59c2078d6a445f92136bfb6d1de6cc8176f1f45096847418debc823da5e"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/logic_processor.json"
-hash = "26a32f8acc10a9a61ed0aedf76bae813a87b9b08d001c983c5531085c425a271"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/spatial_cell_component_128.json"
-hash = "c4d531c9f158baaf39d6aeb99727a55c5bbd0e0c0510b9af1c2819d62dc55d6f"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/spatial_cell_component_16.json"
-hash = "d2a9ae82d8f5ff3f96492c67bc5057c5680d46aee5dbd87097e7c53290b393e0"
-
-[[files]]
-file = "kubejs/data/create_ae2recipes/recipes/sequenced_assembly/spatial_cell_component_2.json"
-hash = "78e36c57054f1d84c35e41a5a6fe4b50e098d7655d9a6f5ba896c75117973cdb"
-
-[[files]]
 file = "kubejs/data/incendium/function/technical/toast.mcfunction"
 hash = "3a462c97d2c226cd510d970bc821d97be5fb85cc7ac2be2beb7a6754d4ca858a"
 
@@ -882,11 +570,15 @@ hash = "4cb0bdafa8e8ce09f96c3b54f1348c57d99b2a96f723dc8908a8478c6b509354"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/ae2_create.js"
-hash = "fc8a2b1335d6b6dec2c48d87ea2b7588d3245d20e7e30e325038cb1cdb8e0050"
+hash = "c229f28667e5e3de190bf2a6a6e5472cb7495a5848425f426cbdc5e6276aea08"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/blueprint.js"
 hash = "187f1ae59e7104de80498de788b5c1b24437dc27ca0c234a7de80a40864e0ff7"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/easy_trains.js"
+hash = "c399f2c7e2040a875473483accabcd293e6854a96c82cdcf26c338d87421a635"
 
 [[files]]
 file = "kubejs/startup_scripts/ae2_create.js"
@@ -1627,12 +1319,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "585d1ac3e487d24ddaece1660bf969b99d0892dd2925e440d0b342b7c94cbdf9"
+hash = "e5c93ef7ac08fe360c200c41618ccbe02ed1288db03a14ee0e8c88d59dc14ce0"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "31656b2f1ff31e740b6a1b440acfa1c8a99fab91761b84753ac682650bb4ad53"
+hash = "7f7ef360ee12ecfcf5597534a8cb16bb25604ef0fee11aecd6456d03781642a9"
 metafile = true
 
 [[files]]
@@ -1642,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "d9151c58ba7dd9613bad6613a09508e86affac433652ff2fd38d907a95668649"
+hash = "8846dbb6023f6faf35766fb04a342ce0974390eaa0a05402397a4d2d8478831f"
 metafile = true
 
 [[files]]
@@ -1727,12 +1419,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "1e915cdcc471a2766cff31db7c15ffdceabbaca19a7cc32cf12320943d576045"
+hash = "1af321e1d0174b85bcd18fc95b5f5e5c78b373f61b247dd11b539cf052cfb3fe"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "ea26b3361cce36fd5bfef7b3db163841ce28eace15a5587ff3578873b175da44"
+hash = "1329ed84360c9702c1b982bba75ce2782c4213b119efb7328959938fa1748a8e"
 metafile = true
 
 [[files]]

@@ -1,6 +1,7 @@
 name = "WATERMeDIA: Youtube Plugin"
 filename = "watermedia_youtube_plugin-2.1.2.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

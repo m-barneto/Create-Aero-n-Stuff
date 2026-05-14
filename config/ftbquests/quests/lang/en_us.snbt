@@ -27,6 +27,8 @@
 	chapter.63FBDE11A8970B12.title: "Stuff and Additions"
 	chapter.658AA64BA56F0E68.title: "Trading Floor"
 	chapter.66F98B6CCBBBF2A2.title: "Create Crafts \\& Additions"
+	chapter.6FCF24FA3BBD16F3.title: "Overview"
+	chapter.713DEE637B90E0A4.title: "New Beginnings"
 	chapter.7332B6BB3E51839A.title: "Big Voltage"
 	chapter.78AA124AC9E370B1.title: "Mob Spawners"
 	chapter_group.181E781F1BAE7410.title: "Create Addons"
@@ -112,6 +114,11 @@
 	quest.03DB76C4A4A1386B.title: "Hopper Upgrades"
 	quest.03F9939977753992.title: "Iron Backpack"
 	quest.043D87F52A55D8F9.quest_desc: ["Works perfectly with the rock cutting wheel"]
+	quest.0471D57B1A8A1AB0.quest_desc: [
+		"The Questing system's goal is to guide you through the progression of the pack."
+		""
+		"Completing quests is not required to progress through the game but it will help you if you get stuck."
+	]
 	quest.0488989FD7F5AF42.quest_desc: ["Obtained by putting an Iron Ingot in a Rolling Mill."]
 	quest.0488989FD7F5AF42.quest_subtitle: "Crafting component."
 	quest.04AC241FE350DD86.quest_desc: ["Good for handling a shipwreck "]
@@ -385,6 +392,11 @@
 		"Run the &eBrine&r through another &cThermal Evaporation Plant&r to get &7Lithium&r, then through a &9Chemical Crystallizer&r to get &aLithium Dust&r."
 	]
 	quest.0FF852DE33E41C90.title: "Advanced Power Storage"
+	quest.1017B1636DBE7630.quest_desc: [
+		"The Overview chapter is where you can get an idea of how to progress the pack."
+		""
+		"Start your journey by opening the Overview chapter!"
+	]
 	quest.1065B5980FAF5937.quest_desc: [
 		"Pipe crude oil into the Distillation Controller and collect products from each output."
 		""
@@ -792,6 +804,12 @@
 	quest.201CB898A399F1D5.title: "Herder: Swineherder Hut"
 	quest.203A0C651EA25098.quest_desc: ["The **Magnet Upgrade** constantly attracts items, similar to the backpack version. It can be paired with a filter for targeted collection."]
 	quest.203A0C651EA25098.title: "Magnet Upgrades"
+	quest.2043F5CD3367D4BD.quest_desc: [
+		"Have to start somewhere..."
+		""
+		"Don't forget to replant!"
+	]
+	quest.2043F5CD3367D4BD.title: "Punch Tree"
 	quest.206159A3C7A78447.quest_desc: ["The **Mystical Site** opens the door to high-level magic-based production and resources. An excellent long-term goal for advanced colonies."]
 	quest.206159A3C7A78447.title: "Production: Mystical Site"
 	quest.20B6827D7EBF60D3.quest_desc: ["Acts like a blaze burner! just add some &4HEAT&r"]
@@ -1590,6 +1608,13 @@
 	quest.48AC8545D66B71B7.quest_desc: ["Upgrading the **Builder's Hut** grants the Builder access to more complex schematics (larger buildings) and increases their maximum skill level."]
 	quest.48AC8545D66B71B7.title: "Builder Hut Upgrade"
 	quest.48BF028309BD0A36.quest_desc: ["Looking for a specific structure?"]
+	quest.48C7627456932141.quest_desc: [
+		"The central focus of this pack is the mod &9Create&r"
+		""
+		"and the first thing you'll need to really get started with it is a source of &6Andesite&r"
+		""
+		"You can combine it with some iron nuggets to create &6Andesite Alloy&r"
+	]
 	quest.4905CD63121F13EA.quest_desc: ["Automatically refills gadgets and armor that use fuel."]
 	quest.490628CE108A833A.quest_desc: ["The **Deliveryman** is the key logistics worker, transporting goods between the Warehouse and other buildings (like the Builder's Chests). Hire one to greatly speed up building projects!"]
 	quest.490628CE108A833A.title: "The Deliveryman"
@@ -1634,6 +1659,14 @@
 	]
 	quest.4A859875AFC89A13.quest_desc: ["A key mechanical component that compresses and channels energy within an engine. It’s essential for converting fuel or pressure into smooth, consistent rotational motion."]
 	quest.4A961ADDC8054AA1.quest_desc: ["A magnetic device that attracts nearby items toward it using rotational energy. Perfect for automation setups where item collection needs to be fast and efficient."]
+	quest.4AD58AB8F29E0943.quest_desc: [
+		"These are the basic item's you'll need to get started with create."
+		""
+		"To power things you should probably start with a waterwheel."
+		""
+		"Hover over the recipe and hold &6W&r to &6ponder&r how it works!"
+	]
+	quest.4AD58AB8F29E0943.title: "Making your Workshop a Workhome"
 	quest.4AD661C0A10ABD3B.quest_desc: ["With a spout attached to the tank of liquid xp via pipes, you will be able to put the liquid back into bottles either by right clicking bottles onto a depot or having bottles put on a belt line underneath the spout"]
 	quest.4AD661C0A10ABD3B.quest_subtitle: "Making Bottles o' Enchanting"
 	quest.4AEA30171CF1BFD7.quest_desc: [""]
@@ -2282,6 +2315,11 @@
 	quest.696BDC29ACCBBE29.quest_desc: ["The **Undertaker Totem** is a powerful late-game upgrade to the Graveyard, allowing for more efficient resurrection and burial services."]
 	quest.696BDC29ACCBBE29.title: "Endgame: Undertaker Totem"
 	quest.69816C16E81355E8.quest_desc: ["A clutch that uncouples after a set delay when the network is overstressed."]
+	quest.69853DDAFE2E8E7F.quest_desc: [
+		"Welcome to Create: Aeronautics n' Stuff"
+		""
+		"This is a modpack focused around growing your own colony and expanding infrastructure to satisfy your citizen's needs."
+	]
 	quest.69EAF1072D492F1A.quest_desc: ["The **Ancient Tome** is a rare item that can be found via exploration or occasionally traded for. It is required for upgrading high-tier buildings."]
 	quest.69EAF1072D492F1A.title: "Resource: Ancient Tome"
 	quest.69F9DB75244E6B3B.quest_desc: ["Wands for building! CTRL+SHIFT+RIGHT CLICK in the air to open the menu!"]
@@ -2434,6 +2472,16 @@
 	quest.70457BBE36DC7C91.quest_desc: ["Once you have the xp stored in a tank, all you need to get the xp orbs to fall back onto the player all you need is a pump and pipe with nothing on the end this will pull the liquid xp down and dispense the orbs for the player to pick up"]
 	quest.70457BBE36DC7C91.quest_subtitle: "Getting back the xp"
 	quest.70457BBE36DC7C91.title: "Dispensing XP onto the player"
+	quest.704D85AEE3CFB449.quest_desc: [
+		"Let's pickup the pace a little, start your first workshop."
+		""
+		"You may notice there are some weird chest options you can submit. These are from a mod called &9Sophisticated Storage&r"
+		""
+		"Not that sophisticated, they're just upgradeable chests."
+		""
+		"&6Shift+Right Click&r on your chest with an &eupgrade&r to well.. yknow, upgrade it."
+	]
+	quest.704D85AEE3CFB449.title: "First Workshop"
 	quest.7068CA538D7F8D85.quest_desc: ["A clutch but backwards"]
 	quest.7078F6E8A179D88F.quest_desc: ["A redstone link that adds wireless redstone to buttons and levers without using extra space!"]
 	quest.7097EFDECE9CDAF7.quest_desc: ["Is your car stuck? Use an iron handler connected to your car, this way you can hold your car in your arm and take it out of somewhere."]
@@ -2740,6 +2788,15 @@
 	]
 	quest.7E17AB5A4492929E.quest_subtitle: "Of Course It Uses Uranium"
 	quest.7E17AB5A4492929E.title: "&aUranium"
+	quest.7E29435E447EA1D8.quest_desc: [
+		"If you look to the left you'll see a popout, these are chapters. "
+		""
+		"Each chapter will focus on guiding you through certain areas of the pack. "
+		""
+		"Some chapters will need you to progress in other areas before you can come back to them. Use EMI to figure out the recipes for required items you need to craft to progress."
+		""
+		"If you get confused, ask other players for help!"
+	]
 	quest.7E38ACDAC8ACD079.quest_desc: [
 		"The &dME Storage Monitor&r is a simple way to see the current level of a specified item."
 		""
@@ -2799,8 +2856,11 @@
 		""
 		"They do not accept power directly but are used to add additional power storage to an already existing ME Network."
 	]
+	reward.012DBC55EFA12ABC.title: "New Beginnings"
 	reward_table.1BC377CF7DB0B217.title: "Create"
 	reward_table.48E5FAFD45FFF238.title: "IMM"
+	reward_table.4DAF3F0696CFB26D.title: "Saplings"
+	reward_table.4DE476D3D5A14AE5.title: "Colony Start"
 	reward_table.582C28B4960E70F9.title: "MEK"
 	reward_table.65F5978C49103D7A.title: "AE2"
 	reward_table.7648BE1B9ACA5A64.title: "Meteorite"
@@ -2828,9 +2888,12 @@
 	task.26344D2831BDA0D3.title: "Create Ore Excavation"
 	task.27709080B4B77B09.title: "Ready To Go!"
 	task.2B4DAB606F0EDCD8.title: "Collect All Scrolls for Material Expertise"
+	task.2D972782D86C5E9C.title: "Any #c:chests"
 	task.2E3FF129C3668DD8.title: "Induction Providers"
+	task.2FC91C53C946D7BA.title: "The Overview"
 	task.30D119CEC3132EA9.title: "Stone Hammer"
 	task.314FD37C28AAF053.title: "Auto Enchanting Line"
+	task.34B6657429E04007.title: "Any #minecraft:logs"
 	task.382818E289EC83A6.title: "&3Fissile Fuel Production&r"
 	task.382E8129CA13F3A4.title: "Read up on the basics"
 	task.394B44770A9EBFEF.title: "TWO"
@@ -2840,6 +2903,7 @@
 	task.3B3B58C438FD4397.title: "Tier 4 Ore Processing Factory Summary"
 	task.3B930A490EA23536.title: "Wood dust"
 	task.4063C1B5F935A026.title: "Induction Cells"
+	task.427A6C5A74418518.title: "Quest Chapters"
 	task.43AB00104FE02F00.title: "Chassi"
 	task.4448E45C70AD482F.title: "Wireless Booster"
 	task.45CC8BA735ED41CF.title: "64M MEGA Storage Cells"
@@ -2856,9 +2920,11 @@
 	task.5304AB671E89DFBB.title: "Certus Quartz Crystal"
 	task.54B0030E4B4FBC18.title: "Charged Quartz Fixture"
 	task.562DA0531BAD8C98.title: "Info"
+	task.569774BA20656A0A.title: "Welcome"
 	task.57F40CFA03BD36EF.title: "The Hard Part"
 	task.5A49554B3AFBC850.title: "Simulated"
 	task.5BC88AE46F95774D.title: "Gravel or Sand"
+	task.5BFCA7099B3E52B3.title: "First Things First"
 	task.5CD6B756FB073906.title: "Fluix ME Glass Cable"
 	task.5D07486390FB3BA5.title: "64k ME Storage Cells"
 	task.5EF407C1D549F702.title: "Aeronatics"
@@ -2876,6 +2942,7 @@
 	task.6D6C7C593AD40A98.title: "Make WorkBench"
 	task.6E0BED777D602A02.title: "ME 1024k Storage Cells"
 	task.6E10F781A4861976.title: "HINT"
+	task.6E4061502437108C.title: "Any #minecraft:logs"
 	task.6E75525A5D88EF23.title: "Heaters"
 	task.708C1FEDF64B2466.title: "Create Connected"
 	task.70D7C92461D36B5E.title: "Spawn a mob using the Mechanical Spawner"

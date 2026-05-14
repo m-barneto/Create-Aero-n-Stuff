@@ -1,0 +1,104 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "overview"
+	group: ""
+	id: "6FCF24FA3BBD16F3"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "2043F5CD3367D4BD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "56EC2F813D4F61CA"
+				table_id: 5597762159377363565L
+				type: "choice"
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "6E4061502437108C"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2043F5CD3367D4BD"]
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "704D85AEE3CFB449"
+			rewards: [{
+				id: "63585B483FF05702"
+				item: {
+					count: 1
+					id: "sophisticatedstorage:basic_to_iron_tier_upgrade"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "20A7BFF58D00FBA7"
+					item: { count: 1, id: "minecraft:furnace" }
+					type: "item"
+				}
+				{
+					id: "2D972782D86C5E9C"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:chests)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["704D85AEE3CFB449"]
+			id: "48C7627456932141"
+			rewards: [{
+				count: 32
+				id: "59A1D94F5F15A337"
+				item: {
+					count: 1
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "0709D6DF8043AB5F"
+					item: { count: 1, id: "minecraft:andesite" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0DBF43C4FEF505DA"
+					item: { count: 1, id: "create:andesite_alloy" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["48C7627456932141"]
+			icon: {
+				id: "create:wrench"
+			}
+			id: "4AD58AB8F29E0943"
+			tasks: [{
+				id: "29DFAF83E6FB5599"
+				item: { count: 1, id: "create:wrench" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+	]
+}
